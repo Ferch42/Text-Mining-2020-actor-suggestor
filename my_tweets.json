@@ -1,0 +1,293 @@
+{
+    "1": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "They spied on my campaign!",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232908958421131264"
+    },
+    "2": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Low Ratings Fake News MSDNC (Comcast) &
+@CNN
+ are doing everything possible to make the Caronavirus look as bad as possible, including panicking markets, if possible. Likewise their incompetent Do Nothing Democrat comrades are all talk, no action. USA in great shape!
+@CDCgov
+.....",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232652371832004608"
+    },
+    "3": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "....during a debate). Pocahontas was mean, & undisciplined, mostly aiming at Crazy Bernie and Mini Mike. They don’t know how to handle her, but I know she is a “chocker”. Steyer was a disaster who, along with Mini, are setting records in $’s per vote. Just give me an opponent!",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232657663701536768"
+    },
+    "4": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Crazy, chaotic Democrat Debate last night. Fake News said Biden did well, even though he said half of our population was shot to death. Would be OVER for most. Mini Mike was weak and unsteady, but helped greatly by his many commercials (which are not supposed to be allowed....",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232657640515342336"
+    },
+    "5": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "My two great friends. Proud of you both!",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232702038208851968"
+    },
+    "6": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "CDC and my Administration are doing a GREAT job of handling Coronavirus, including the very early closing of our borders to certain areas of the world. It was opposed by the Dems, “too soon”, but turned out to be the correct decision. No matter how well we do, however, the.....",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232492821501771776"
+    },
+    "7": {
+        "sentiment_label": "negative",
+        "text_of_tweet": ".
+@SecAzar
+ provides an update on confirmed coronavirus cases in the United States—and how Americans should prepare to keep risk to their families and communities low. ",
+        "tweet_url": "https://twitter.com/WhiteHouse/status/1232845274948816896"
+    },
+    "8": {
+        "sentiment_label": "postive",
+        "text_of_tweet": "Melania and I have been awed by the majesty of India and the exceptional kindness and generosity of the Indian people. We’ll always remember the magnificent welcome the citizens of your home state showed us upon arrival.",
+        "tweet_url": "https://twitter.com/WhiteHouse/status/1232718473199017984"
+    },
+    "9": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "There has rarely been a juror so tainted as the forewoman in the Roger Stone case. Look at her background. She never revealed her hatred of “Trump” and Stone. She was totally biased, as is the judge. Roger wasn’t even working on my campaign. Miscarriage of justice. Sad to watch!",
+        "tweet_url": "https://twitter.com/realDonaldTrump/status/1232395209125707776"
+    },
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Campaigners win Court of Appeal ruling over controversial plans for third runway at Heathrow on environment grounds",
+        "tweet_url": "https://twitter.com/BBCBreaking/status/1232971753221185536"
+    },
+    "11": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Former Egyptian President Hosni Mubarak – ousted by the military in 2011 – has died in hospital in Cairo aged 91",
+        "tweet_url": "https://twitter.com/BBCBreaking/status/1232259712692957185"
+    },
+    "12": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Car drives into crowd during carnival procession in German town of Volkmarsen, injuring several people, police say",
+        "tweet_url": "https://twitter.com/BBCBreaking/status/1231953492874604545"
+    },
+    "13": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Harvey Weinstein, once Hollywood's most powerful man, found guilty in sex assault case that spurred #MeToo movement",
+        "tweet_url": "https://twitter.com/BBCBreaking/status/1231984294110908419"
+    },
+    "14": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Supporter of Islamic State group admits plotting to bomb London's St Paul's Cathedral and a hotel",
+        "tweet_url": "https://twitter.com/BBCBreaking/status/1230813269205667840"
+    },
+    "15": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "SparkLabs Group launches Connex, an accelerator program for smart city technology https://tcrn.ch/2TkGdwT by
+@catherineshu",
+        "tweet_url": ""
+    },
+    "16": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Harsh words from Reddit CEO on TikTok: "I look at that app as so fundamentally parasitic, that it’s always listening, the fingerprinting technology they use is truly terrifying, and I could not bring myself to install an app like that on my phone.”",
+        "tweet_url": "https://twitter.com/lucasmtny/status/1232838455303888899"
+    },
+    "17": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "A look at Made Renovation, which just raised $9 million in seed funding to zero in on bathroom remodels",
+        "tweet_url": "https://twitter.com/TechCrunch/status/1232814129678880768"
+    },
+    "18": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Apple to begin online sales in India this year, open first retail store in 2021 https://tcrn.ch/2uwBwYr by
+@refsrc",
+        "tweet_url": "https://twitter.com/TechCrunch/status/1232787065080668160"
+    },
+    "19": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Storytelling community Wattpad embraces adult content with new personalization tools",
+        "tweet_url": "https://twitter.com/TechCrunch/status/1232714660010266624"
+    },
+    "20": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "In Part 2 of our virtual worlds series,
+@epeckham
+ looks at why social platforms are increasingly looking to gaming to evolve their products https://tcrn.ch/2HUZr6T by
+@epeckham",
+        "tweet_url": "https://twitter.com/TechCrunch/status/1232684373192904710"
+    },
+    "21": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Majestic mountain views paired with unique flavors make these wineries must-see stops on your itinerary.",
+        "tweet_url": "https://twitter.com/NatGeoTravel/status/1232998929425412096"
+    },
+    "22": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "In the mountains of the Philippines, these terraced fields—and the knowledge to farm them—have been passed down for centuries.",
+        "tweet_url": "https://twitter.com/NatGeoTravel/status/1232876600053596160"
+    },
+    "23": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Gorgeous architecture and a vibrant food scene make this lakeside destination a delightful—if a bit windy—city to visit.",
+        "tweet_url": "https://twitter.com/NatGeoTravel/status/1232727082028929024"
+    },
+    "24": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Former film producer Harvey Weinstein has been found guilty of two counts of sexual assault. The start of the #Metoomovement was largely influenced by the now proven allegations many women have made against Weinstein.",
+        "tweet_url": "https://twitter.com/Wokewomensright/status/1232893623794094082"
+    },
+    "25": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Right. This is the problem with the #Metoomovement - anyone with an axe to grind (legitimate case or not) can accuse someone of rape or assault, and all of a sudden that person has to prove that they’re innocent. It’s not supposed to work that way.",
+        "tweet_url": "https://twitter.com/sstafford0213/status/1232782116649304065"
+    },
+    "26": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Wow, what an interview!
+@GMB
+
+@rosemcgowan
+ you’re a very brave woman. Watching you years ago on my favourite TV show I never realised the trauma you had endured! Total respect #strongwomen #Metoomovement",
+        "tweet_url": "https://twitter.com/victoriahartley/status/1232218756719554560"
+    },
+    "27": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Disgraced former Hollywood producer found guilty of sexual assault #HarveyWeinstein #Metoomovement
+ https://algoafm.co.za/global/weinstein-conviction-a-landmark-moment-for-us-legal-system",
+        "tweet_url": "https://twitter.com/AlgoaFMNews/status/1232148764875460608"
+    },
+    "28": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "European stocks tumble as a jump in coronavirus cases outside of China deepened fears of a looming pandemic ",
+        "tweet_url": "https://twitter.com/Reuters/status/1233012656472068096"
+    },
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The selloff isn't over. The European shares fell again with travel stocks taking the biggest knock as pandemic fears deepen",
+        "tweet_url": "https://twitter.com/Reuters/status/1232997556839440384"
+    },
+    "30": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Wonderful to have everyone attend our Formative Stakeholder meeting today. Great discussions and celebrating the first year of the IMAI Programme #aimasters
+@IoCoding
+ sorry we couldn’t tag all that attended, we reached the limit!",
+        "tweet_url": "https://twitter.com/IMAIProgramme/status/1232724994972622848"
+    },
+    "31": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": ".
+@ed_teather
+
+@OfficeforAI
+ explains how we can develop global partnerships around #AI and how the UK Government can the show leadership in the #AI industry through a new set of rules and public procurement #DigiLeaders",
+        "tweet_url": "https://twitter.com/DigiLeaders/status/1232242370873348096"
+    },
+    "32": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The
+@bcs
+ has a mature history of embedding ethical approaches into computer science.
+
+Read how a new joint-study with
+@CDEIUK
+ is looking to develop practical guidance on embedding ethical practice in MSc courses on #AI, #MachineLearning & #DataScience.",
+        "tweet_url": "https://twitter.com/OfficeforAI/status/1230825210569469953"
+    },
+    "33": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Today we've launched the draft of our #AI auditing guidance. This pivotal piece of work will help in assessing the risks to rights and freedoms that AI can cause; and the appropriate measures you can implement to mitigate them.",
+        "tweet_url": "https://twitter.com/ICOnews/status/1230077092135624704"
+    },
+    "34": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "#TBT This week we look back to our 2004 interview with Christian Pfeiffer, the Four-time world stunt riding champion!",
+        "tweet_url": "https://twitter.com/TransWorldSport/status/1233004101845364736"
+    },
+    "35": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Kyle Edmund is back into the Top 50 after winning at the New York Open - his second career title and his first since 2018 Tennisbal We filmed with him way back in 2014! ",
+        "tweet_url": "https://twitter.com/TransWorldSport/status/1229455522958630912"
+    },
+    "36": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I produced this in Ulaanbaatar in Mongolia in February 2006. A truly incredible experience. Hakuho is now Sumo's biggest and most successful star who has won more Championships & more bouts than anyone else...EVER.
+
+What a legend
+@HakuhoSho69
+ ",
+        "tweet_url": "https://twitter.com/JFreemanTV/status/1223228904963559424"
+    },
+    "37": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Dresses, we can't have enough of them.. Grijnzend gezicht Prepare your summer with some heels for a fancy dinner or with casual sneakers on a shopping trip! ",
+        "tweet_url": "https://twitter.com/WEfashion/status/1110601095238348805"
+    },
+    "38": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "We took some time to connect with friends and family in the offline world... Knuffelend gezicht  Thanks Instagram and Facebook! #WEbettertogether #WEdesignstoconnect #WEtime #FacebookDown #instagramdown",
+        "tweet_url": "https://twitter.com/WEfashion/status/1105925297642397696"
+    },
+    "39": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "There is no better way to start your new year than with a new job! These new colleagues started 2019 with our interactive Onboarding Day, please welcome: Barbara, Bart, Cis, Denise, Fatima, Isha, Jeoen, Julia, Kim,... ",
+        "tweet_url": "https://twitter.com/WEfashion/status/1085114406588088321"
+    },
+    "40": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Count down to fall ✌ Fall is here so let's celebrate together with a 20% discount* on our new collection! What are you waiting for? Shop your favourites now: ",
+        "tweet_url": "https://twitter.com/WEfashion/status/1042698435403677696"
+    },
+    "41": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Hello new Spring/Summer kids collection! Get your 20% discount on all items, only two days left…",
+        "tweet_url": "https://twitter.com/WEfashion/status/977455005870575616"
+    },
+    "42": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "We are very proud to launch our new jobsite! The central message of our new recruitment campaign is YOU WORK FOR...",
+        "tweet_url": "https://twitter.com/WEfashion/status/966220959408680960"
+    },
+    "43": {
+        "sentiment_label": "positive",
+        "text_of_tweet": ""It's easy for me to make the commitment that I will support any of the Democratic candidates if they get the nomination," says Michael Bloomberg. "But it's easy to do it because the alternative is Donald Trump and that we don't want"",
+        "tweet_url": "https://twitter.com/CNNPolitics/status/1232830906479599617"
+    },
+    "44": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Multiple people have died, including the gunman, after a shooting at the Molson Coors complex in Milwaukee, the city's mayor says. Follow live updates:",
+        "tweet_url": "https://twitter.com/cnnbrk/status/1232802761303109633"
+    },
+    "45": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The Dow tumbles 600 points as coronavirus fears continue",
+        "tweet_url": "https://twitter.com/cnnbrk/status/1232382469036482569"
+    },
+    "46": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "A US airstrike in Somalia killed an al-Shabaab leader who had a role in "planning and directing terrorist operations," including an attack that killed three Americans in Kenya, the US military says",
+        "tweet_url": "https://twitter.com/cnnbrk/status/1232357373722976256"
+    },
+    "47": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Get smart quick on the countries you do business with Strategic Intelligence, a powerful new tool from
+@WSJ
+ &
+@DuckerFrontier
+ that simplifies decision-making. Access a customizable dashboard w/ 15 million data points & monthly forecasts. https://on.wsj.com/37oVn9k #EmergingMarkets",
+        "tweet_url": "https://twitter.com/DowJones/status/1232027948745666561"
+    },
+    "48": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The twiDAQ London exchange will be opening in five minutes...",
+        "tweet_url": "https://twitter.com/stockexchange/status/1232952269278150656"
+    },
+    "49": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Clive Cussler, the million-selling adventure writer and real-life thrill seeker who wove personal details and spectacular fantasies into his page-turning novels about underwater explorer Dirk Pitt, has died.",
+        "tweet_url": "https://twitter.com/ABC/status/1232747956966699009"
+    },
+    "50": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "You know what will make it harder for the administration to combat COVID-19?
+-the lies that destroyed its credibility
+-its cutback of health resources
+-its focus on the stock market instead of the virus
+-the stunning incompetence of its appointees
+-its attacks on whistleblowers",
+        "tweet_url": "https://twitter.com/waltshaub/status/1232646239692431361"
+    }
+}
