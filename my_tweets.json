@@ -6,11 +6,7 @@
     },
     "2": {
         "sentiment_label": "negative",
-        "text_of_tweet": "Low Ratings Fake News MSDNC (Comcast) &
-@CNN
- are doing everything possible to make the Caronavirus look as bad as possible, including panicking markets, if possible. Likewise their incompetent Do Nothing Democrat comrades are all talk, no action. USA in great shape!
-@CDCgov
-.....",
+        "text_of_tweet": "Low Ratings Fake News MSDNC (Comcast) & @CNN are doing everything possible to make the Caronavirus look as bad as possible, including panicking markets, if possible. Likewise their incompetent Do Nothing Democrat comrades are all talk, no action. USA in great shape! @CDCgov ",
         "tweet_url": "https://twitter.com/realDonaldTrump/status/1232652371832004608"
     },
     "3": {
@@ -24,7 +20,7 @@
         "tweet_url": "https://twitter.com/realDonaldTrump/status/1232657640515342336"
     },
     "5": {
-        "sentiment_label": "negative",
+        "sentiment_label": "positive",
         "text_of_tweet": "My two great friends. Proud of you both!",
         "tweet_url": "https://twitter.com/realDonaldTrump/status/1232702038208851968"
     },
@@ -35,13 +31,11 @@
     },
     "7": {
         "sentiment_label": "negative",
-        "text_of_tweet": ".
-@SecAzar
- provides an update on confirmed coronavirus cases in the United States—and how Americans should prepare to keep risk to their families and communities low. ",
+        "text_of_tweet": ". @SecAzar provides an update on confirmed coronavirus cases in the United States—and how Americans should prepare to keep risk to their families and communities low. ",
         "tweet_url": "https://twitter.com/WhiteHouse/status/1232845274948816896"
     },
     "8": {
-        "sentiment_label": "postive",
+        "sentiment_label": "positive",
         "text_of_tweet": "Melania and I have been awed by the majesty of India and the exceptional kindness and generosity of the Indian people. We’ll always remember the magnificent welcome the citizens of your home state showed us upon arrival.",
         "tweet_url": "https://twitter.com/WhiteHouse/status/1232718473199017984"
     },
@@ -77,13 +71,12 @@
     },
     "15": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "SparkLabs Group launches Connex, an accelerator program for smart city technology https://tcrn.ch/2TkGdwT by
-@catherineshu",
+        "text_of_tweet": "SparkLabs Group launches Connex, an accelerator program for smart city technology https://tcrn.ch/2TkGdwT by @catherineshu",
         "tweet_url": ""
     },
     "16": {
         "sentiment_label": "negative",
-        "text_of_tweet": "Harsh words from Reddit CEO on TikTok: "I look at that app as so fundamentally parasitic, that it’s always listening, the fingerprinting technology they use is truly terrifying, and I could not bring myself to install an app like that on my phone.”",
+        "text_of_tweet": "Harsh words from Reddit CEO on TikTok: 'I look at that app as so fundamentally parasitic, that it’s always listening, the fingerprinting technology they use is truly terrifying, and I could not bring myself to install an app like that on my phone.' ",
         "tweet_url": "https://twitter.com/lucasmtny/status/1232838455303888899"
     },
     "17": {
@@ -93,8 +86,7 @@
     },
     "18": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "Apple to begin online sales in India this year, open first retail store in 2021 https://tcrn.ch/2uwBwYr by
-@refsrc",
+        "text_of_tweet": "Apple to begin online sales in India this year, open first retail store in 2021 https://tcrn.ch/2uwBwYr by @refsrc",
         "tweet_url": "https://twitter.com/TechCrunch/status/1232787065080668160"
     },
     "19": {
@@ -104,10 +96,7 @@
     },
     "20": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "In Part 2 of our virtual worlds series,
-@epeckham
- looks at why social platforms are increasingly looking to gaming to evolve their products https://tcrn.ch/2HUZr6T by
-@epeckham",
+        "text_of_tweet": "In Part 2 of our virtual worlds series, @epeckham looks at why social platforms are increasingly looking to gaming to evolve their products https://tcrn.ch/2HUZr6T by @epeckham",
         "tweet_url": "https://twitter.com/TechCrunch/status/1232684373192904710"
     },
     "21": {
@@ -137,17 +126,12 @@
     },
     "26": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Wow, what an interview!
-@GMB
-
-@rosemcgowan
- you’re a very brave woman. Watching you years ago on my favourite TV show I never realised the trauma you had endured! Total respect #strongwomen #Metoomovement",
+        "text_of_tweet": "Wow, what an interview! @GMB @rosemcgowan you’re a very brave woman. Watching you years ago on my favourite TV show I never realised the trauma you had endured! Total respect #strongwomen #Metoomovement",
         "tweet_url": "https://twitter.com/victoriahartley/status/1232218756719554560"
     },
     "27": {
         "sentiment_label": "negative",
-        "text_of_tweet": "Disgraced former Hollywood producer found guilty of sexual assault #HarveyWeinstein #Metoomovement
- https://algoafm.co.za/global/weinstein-conviction-a-landmark-moment-for-us-legal-system",
+        "text_of_tweet": "Disgraced former Hollywood producer found guilty of sexual assault #HarveyWeinstein #Metoomovement https://algoafm.co.za/global/weinstein-conviction-a-landmark-moment-for-us-legal-system",
         "tweet_url": "https://twitter.com/AlgoaFMNews/status/1232148764875460608"
     },
     "28": {
@@ -162,29 +146,17 @@
     },
     "30": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Wonderful to have everyone attend our Formative Stakeholder meeting today. Great discussions and celebrating the first year of the IMAI Programme #aimasters
-@IoCoding
- sorry we couldn’t tag all that attended, we reached the limit!",
+        "text_of_tweet": "Wonderful to have everyone attend our Formative Stakeholder meeting today. Great discussions and celebrating the first year of the IMAI Programme #aimasters @IoCoding sorry we couldn’t tag all that attended, we reached the limit!",
         "tweet_url": "https://twitter.com/IMAIProgramme/status/1232724994972622848"
     },
     "31": {
         "sentiment_label": "neutral",
-        "text_of_tweet": ".
-@ed_teather
-
-@OfficeforAI
- explains how we can develop global partnerships around #AI and how the UK Government can the show leadership in the #AI industry through a new set of rules and public procurement #DigiLeaders",
+        "text_of_tweet": ". @ed_teather @OfficeforAI explains how we can develop global partnerships around #AI and how the UK Government can the show leadership in the #AI industry through a new set of rules and public procurement #DigiLeaders",
         "tweet_url": "https://twitter.com/DigiLeaders/status/1232242370873348096"
     },
     "32": {
         "sentiment_label": "neutral",
-        "text_of_tweet": "The
-@bcs
- has a mature history of embedding ethical approaches into computer science.
-
-Read how a new joint-study with
-@CDEIUK
- is looking to develop practical guidance on embedding ethical practice in MSc courses on #AI, #MachineLearning & #DataScience.",
+        "text_of_tweet": "The @bcs has a mature history of embedding ethical approaches into computer science. Read how a new joint-study with @CDEIUK looking to develop practical guidance on embedding ethical practice in MSc courses on #AI, #MachineLearning & #DataScience.",
         "tweet_url": "https://twitter.com/OfficeforAI/status/1230825210569469953"
     },
     "33": {
@@ -204,11 +176,7 @@ Read how a new joint-study with
     },
     "36": {
         "sentiment_label": "positive",
-        "text_of_tweet": "I produced this in Ulaanbaatar in Mongolia in February 2006. A truly incredible experience. Hakuho is now Sumo's biggest and most successful star who has won more Championships & more bouts than anyone else...EVER.
-
-What a legend
-@HakuhoSho69
- ",
+        "text_of_tweet": "I produced this in Ulaanbaatar in Mongolia in February 2006. A truly incredible experience. Hakuho is now Sumo's biggest and most successful star who has won more Championships & more bouts than anyone else...EVER. What a legend @HakuhoSho69 ",
         "tweet_url": "https://twitter.com/JFreemanTV/status/1223228904963559424"
     },
     "37": {
@@ -243,7 +211,7 @@ What a legend
     },
     "43": {
         "sentiment_label": "positive",
-        "text_of_tweet": ""It's easy for me to make the commitment that I will support any of the Democratic candidates if they get the nomination," says Michael Bloomberg. "But it's easy to do it because the alternative is Donald Trump and that we don't want"",
+        "text_of_tweet": "'It's easy for me to make the commitment that I will support any of the Democratic candidates if they get the nomination,' says Michael Bloomberg. 'But it's easy to do it because the alternative is Donald Trump and that we don't want'",
         "tweet_url": "https://twitter.com/CNNPolitics/status/1232830906479599617"
     },
     "44": {
@@ -258,16 +226,12 @@ What a legend
     },
     "46": {
         "sentiment_label": "negative",
-        "text_of_tweet": "A US airstrike in Somalia killed an al-Shabaab leader who had a role in "planning and directing terrorist operations," including an attack that killed three Americans in Kenya, the US military says",
+        "text_of_tweet": "A US airstrike in Somalia killed an al-Shabaab leader who had a role in 'planning and directing terrorist operations,' including an attack that killed three Americans in Kenya, the US military says",
         "tweet_url": "https://twitter.com/cnnbrk/status/1232357373722976256"
     },
     "47": {
         "sentiment_label": "positive",
-        "text_of_tweet": "Get smart quick on the countries you do business with Strategic Intelligence, a powerful new tool from
-@WSJ
- &
-@DuckerFrontier
- that simplifies decision-making. Access a customizable dashboard w/ 15 million data points & monthly forecasts. https://on.wsj.com/37oVn9k #EmergingMarkets",
+        "text_of_tweet": "Get smart quick on the countries you do business with Strategic Intelligence, a powerful new tool from @WSJ & @DuckerFrontier that simplifies decision-making. Access a customizable dashboard w/ 15 million data points & monthly forecasts. https://on.wsj.com/37oVn9k #EmergingMarkets",
         "tweet_url": "https://twitter.com/DowJones/status/1232027948745666561"
     },
     "48": {
@@ -282,12 +246,7 @@ What a legend
     },
     "50": {
         "sentiment_label": "negative",
-        "text_of_tweet": "You know what will make it harder for the administration to combat COVID-19?
--the lies that destroyed its credibility
--its cutback of health resources
--its focus on the stock market instead of the virus
--the stunning incompetence of its appointees
--its attacks on whistleblowers",
+        "text_of_tweet": "You know what will make it harder for the administration to combat COVID-19? -the lies that destroyed its credibility -its cutback of health resources -its focus on the stock market instead of the virus -the stunning incompetence of its appointees -its attacks on whistleblowers",
         "tweet_url": "https://twitter.com/waltshaub/status/1232646239692431361"
     }
 }
