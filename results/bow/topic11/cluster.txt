@@ -1,0 +1,469 @@
+Experiment cluster 
+***********************
+MOVIE :De prins van Egypte
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :The Golden Compass
+CLUSTER :0
+Chris Pratt : 6
+Brad Pitt : 5
+Daniel Radcliffe : 5
+Antonio Banderas : 5
+Harry Melling : 4
+Richard Griffiths : 4
+Fiona Shaw : 4
+Christopher Walken : 4
+Laurence Fishburne : 4
+Jeff Goldblum : 4
+***********************
+MOVIE :Spies in Disguise
+CLUSTER :7
+Scarlett Johansson : 6
+J.K. Simmons : 6
+Samuel L. Jackson : 6
+Chris Evans : 5
+Hugh Jackman : 5
+Ryan Reynolds : 5
+Robert Downey Jr. : 4
+Josh Brolin : 4
+Zoe Saldana : 4
+Pierce Brosnan : 4
+***********************
+MOVIE :Playing with Fire
+CLUSTER :3
+Toni Collette : 5
+Willem Dafoe : 4
+Bill Murray : 4
+Edward Norton : 3
+Tom Wilkinson : 3
+Bill Nighy : 3
+George Clooney : 3
+Kirsten Dunst : 3
+James Remar : 3
+James Badge Dale : 3
+***********************
+MOVIE :Pocahontas
+CLUSTER :0
+Chris Pratt : 6
+Brad Pitt : 5
+Daniel Radcliffe : 5
+Antonio Banderas : 5
+Harry Melling : 4
+Richard Griffiths : 4
+Fiona Shaw : 4
+Christopher Walken : 4
+Laurence Fishburne : 4
+Jeff Goldblum : 4
+***********************
+MOVIE :Toy Story 2
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Hacksaw Ridge
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :American Sniper
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :The Lord of the Rings: The Two Towers
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Haunt
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :The Talented Mr. Ripley
+CLUSTER :3
+Toni Collette : 5
+Willem Dafoe : 4
+Bill Murray : 4
+Edward Norton : 3
+Tom Wilkinson : 3
+Bill Nighy : 3
+George Clooney : 3
+Kirsten Dunst : 3
+James Remar : 3
+James Badge Dale : 3
+***********************
+MOVIE :Legion
+CLUSTER :7
+Scarlett Johansson : 6
+J.K. Simmons : 6
+Samuel L. Jackson : 6
+Chris Evans : 5
+Hugh Jackman : 5
+Ryan Reynolds : 5
+Robert Downey Jr. : 4
+Josh Brolin : 4
+Zoe Saldana : 4
+Pierce Brosnan : 4
+***********************
+MOVIE :The Hummingbird Project
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :The Favourite
+CLUSTER :6
+Anthony Daniels : 5
+Carrie Fisher : 5
+Mark Hamill : 5
+Oscar Isaac : 4
+John Boyega : 3
+Adam Driver : 3
+Daisy Ridley : 3
+Lupita Nyong'o : 3
+Domhnall Gleeson : 3
+James Earl Jones : 3
+***********************
+MOVIE :The Brave Little Toaster
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :The Wonderful World of the Brothers Grimm
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :How I Live Now
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :Gunga Din
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Tombstone
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :Joheunnom nabbeunnom isanghannom
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Iron Man
+CLUSTER :7
+Scarlett Johansson : 6
+J.K. Simmons : 6
+Samuel L. Jackson : 6
+Chris Evans : 5
+Hugh Jackman : 5
+Ryan Reynolds : 5
+Robert Downey Jr. : 4
+Josh Brolin : 4
+Zoe Saldana : 4
+Pierce Brosnan : 4
+***********************
+MOVIE :Incredibles 2
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :The Lodge
+CLUSTER :7
+Scarlett Johansson : 6
+J.K. Simmons : 6
+Samuel L. Jackson : 6
+Chris Evans : 5
+Hugh Jackman : 5
+Ryan Reynolds : 5
+Robert Downey Jr. : 4
+Josh Brolin : 4
+Zoe Saldana : 4
+Pierce Brosnan : 4
+***********************
+MOVIE :Blazing Saddles
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Mardaani 2
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :High Noon
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :Twilight
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :Edward Scissorhands
+CLUSTER :6
+Anthony Daniels : 5
+Carrie Fisher : 5
+Mark Hamill : 5
+Oscar Isaac : 4
+John Boyega : 3
+Adam Driver : 3
+Daisy Ridley : 3
+Lupita Nyong'o : 3
+Domhnall Gleeson : 3
+James Earl Jones : 3
+***********************
+MOVIE :Battle of Britain
+CLUSTER :2
+John Wayne : 6
+Clint Eastwood : 5
+Joe Pantoliano : 4
+Will Smith : 4
+John Anderson : 4
+Ward Bond : 4
+Tom Hanks : 3
+Brad Pitt : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+***********************
+MOVIE :Salinui chueok
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :Gangs of New York
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :Antebellum
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :Come to Daddy
+CLUSTER :7
+Scarlett Johansson : 6
+J.K. Simmons : 6
+Samuel L. Jackson : 6
+Chris Evans : 5
+Hugh Jackman : 5
+Ryan Reynolds : 5
+Robert Downey Jr. : 4
+Josh Brolin : 4
+Zoe Saldana : 4
+Pierce Brosnan : 4
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :5
+Woody Harrelson : 6
+Emma Stone : 6
+Michael Keaton : 6
+Ryan Gosling : 5
+Samuel L. Jackson : 4
+Jesse Eisenberg : 4
+Zooey Deschanel : 4
+Angela Lansbury : 4
+Anthony Michael Hall : 4
+Mandy Moore : 4
+***********************
+MOVIE :Captain Fantastic
+CLUSTER :10
+John Wayne : 6
+Kirk Douglas : 5
+Timothy Olyphant : 4
+William Sanderson : 4
+Dom DeLuise : 4
+Michael Fassbender : 3
+Jason Alexander : 3
+Wallace Shawn : 3
+Tom Selleck : 3
+Michael Shannon : 3
+***********************
+MOVIE :Sink the Bismarck!
+CLUSTER :0
+Chris Pratt : 6
+Brad Pitt : 5
+Daniel Radcliffe : 5
+Antonio Banderas : 5
+Harry Melling : 4
+Richard Griffiths : 4
+Fiona Shaw : 4
+Christopher Walken : 4
+Laurence Fishburne : 4
+Jeff Goldblum : 4

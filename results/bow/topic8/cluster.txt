@@ -1,0 +1,469 @@
+Experiment cluster 
+***********************
+MOVIE :De prins van Egypte
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :The Golden Compass
+CLUSTER :2
+BD Wong : 5
+Laurence Fishburne : 5
+Edward Norton : 4
+Harvey Keitel : 4
+Jeff Goldblum : 4
+Mark Strong : 4
+Amy Adams : 4
+Bill Murray : 3
+Chris Pine : 3
+Terry Crews : 3
+***********************
+MOVIE :Spies in Disguise
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Playing with Fire
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :Pocahontas
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Toy Story 2
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Hacksaw Ridge
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :American Sniper
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :The Lord of the Rings: The Two Towers
+CLUSTER :1
+Johnny Depp : 5
+John Wayne : 4
+Cate Blanchett : 3
+Dove Cameron : 3
+Dan Payne : 3
+Melanie Paxson : 3
+Booboo Stewart : 3
+Brenna D'Amico : 3
+Cameron Boyce : 3
+Sofia Carson : 3
+***********************
+MOVIE :Haunt
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :The Talented Mr. Ripley
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Legion
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :The Hummingbird Project
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :The Favourite
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :The Brave Little Toaster
+CLUSTER :3
+Stanley Tucci : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Carrie Fisher : 4
+Matthew Broderick : 4
+Andy Serkis : 4
+Julie Andrews : 4
+Dom DeLuise : 4
+Michael Peña : 3
+Anthony Daniels : 3
+***********************
+MOVIE :The Wonderful World of the Brothers Grimm
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :How I Live Now
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Gunga Din
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Tombstone
+CLUSTER :0
+John Wayne : 8
+Bruce Dern : 6
+Clint Eastwood : 6
+Henry Fonda : 5
+Noah Centineo : 4
+Leonardo DiCaprio : 4
+John Carradine : 4
+Jeff Bridges : 4
+Sam Shepard : 4
+Kirk Douglas : 4
+***********************
+MOVIE :Joheunnom nabbeunnom isanghannom
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Iron Man
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Incredibles 2
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :The Lodge
+CLUSTER :0
+John Wayne : 8
+Bruce Dern : 6
+Clint Eastwood : 6
+Henry Fonda : 5
+Noah Centineo : 4
+Leonardo DiCaprio : 4
+John Carradine : 4
+Jeff Bridges : 4
+Sam Shepard : 4
+Kirk Douglas : 4
+***********************
+MOVIE :Blazing Saddles
+CLUSTER :5
+Anne Hathaway : 4
+Jon Voight : 4
+Christine Baranski : 4
+Christopher Plummer : 3
+Michael Shannon : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+Will Smith : 3
+Tina Fey : 3
+Andy Garcia : 3
+***********************
+MOVIE :Mardaani 2
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :High Noon
+CLUSTER :0
+John Wayne : 8
+Bruce Dern : 6
+Clint Eastwood : 6
+Henry Fonda : 5
+Noah Centineo : 4
+Leonardo DiCaprio : 4
+John Carradine : 4
+Jeff Bridges : 4
+Sam Shepard : 4
+Kirk Douglas : 4
+***********************
+MOVIE :Twilight
+CLUSTER :7
+Brad Pitt : 4
+J.K. Simmons : 4
+John Cleese : 4
+Jamie Dornan : 4
+Brian Caspe : 3
+Margot Robbie : 3
+Al Pacino : 3
+Will Ferrell : 3
+Michael Keaton : 3
+Allison Janney : 3
+***********************
+MOVIE :Edward Scissorhands
+CLUSTER :3
+Stanley Tucci : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Carrie Fisher : 4
+Matthew Broderick : 4
+Andy Serkis : 4
+Julie Andrews : 4
+Dom DeLuise : 4
+Michael Peña : 3
+Anthony Daniels : 3
+***********************
+MOVIE :Battle of Britain
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :Salinui chueok
+CLUSTER :2
+BD Wong : 5
+Laurence Fishburne : 5
+Edward Norton : 4
+Harvey Keitel : 4
+Jeff Goldblum : 4
+Mark Strong : 4
+Amy Adams : 4
+Bill Murray : 3
+Chris Pine : 3
+Terry Crews : 3
+***********************
+MOVIE :Gangs of New York
+CLUSTER :0
+John Wayne : 8
+Bruce Dern : 6
+Clint Eastwood : 6
+Henry Fonda : 5
+Noah Centineo : 4
+Leonardo DiCaprio : 4
+John Carradine : 4
+Jeff Bridges : 4
+Sam Shepard : 4
+Kirk Douglas : 4
+***********************
+MOVIE :Antebellum
+CLUSTER :5
+Anne Hathaway : 4
+Jon Voight : 4
+Christine Baranski : 4
+Christopher Plummer : 3
+Michael Shannon : 3
+Martin Lawrence : 3
+Theresa Randle : 3
+Will Smith : 3
+Tina Fey : 3
+Andy Garcia : 3
+***********************
+MOVIE :Come to Daddy
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :1
+Johnny Depp : 5
+John Wayne : 4
+Cate Blanchett : 3
+Dove Cameron : 3
+Dan Payne : 3
+Melanie Paxson : 3
+Booboo Stewart : 3
+Brenna D'Amico : 3
+Cameron Boyce : 3
+Sofia Carson : 3
+***********************
+MOVIE :Captain Fantastic
+CLUSTER :0
+John Wayne : 8
+Bruce Dern : 6
+Clint Eastwood : 6
+Henry Fonda : 5
+Noah Centineo : 4
+Leonardo DiCaprio : 4
+John Carradine : 4
+Jeff Bridges : 4
+Sam Shepard : 4
+Kirk Douglas : 4
+***********************
+MOVIE :Sink the Bismarck!
+CLUSTER :6
+Ryan Reynolds : 8
+Michael Fassbender : 7
+Robert Downey Jr. : 6
+Dwayne Johnson : 6
+Karen Gillan : 6
+Rebecca Ferguson : 6
+Idris Elba : 6
+Samuel L. Jackson : 6
+Daniel Radcliffe : 6
+Richard Griffiths : 6

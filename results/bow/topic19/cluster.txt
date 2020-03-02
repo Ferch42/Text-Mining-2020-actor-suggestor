@@ -1,0 +1,469 @@
+Experiment cluster 
+***********************
+MOVIE :De prins van Egypte
+CLUSTER :8
+Vin Diesel : 4
+Anne Hathaway : 4
+Dwayne Johnson : 3
+Rhys Darby : 3
+Karen Gillan : 3
+Michelle Rodriguez : 3
+Jordana Brewster : 3
+Ray Winstone : 3
+Amy Madigan : 3
+Matthew McConaughey : 3
+***********************
+MOVIE :The Golden Compass
+CLUSTER :5
+Hugh Jackman : 3
+Mads Mikkelsen : 3
+Oscar Isaac : 3
+Laurence Fishburne : 3
+Rose Byrne : 3
+Michael Fassbender : 3
+Bill Paxton : 3
+James Marsden : 2
+Andrew Scott : 2
+Dafne Keen : 2
+***********************
+MOVIE :Spies in Disguise
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Playing with Fire
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Pocahontas
+CLUSTER :12
+Laurence Fishburne : 5
+Zoe Saldana : 4
+Djimon Hounsou : 3
+Kristen Bell : 3
+Ciarán Hinds : 3
+Josh Gad : 3
+Brad Pitt : 3
+Keanu Reeves : 3
+David Morse : 3
+Tom Wilkinson : 3
+***********************
+MOVIE :Toy Story 2
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Hacksaw Ridge
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :American Sniper
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :The Lord of the Rings: The Two Towers
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Haunt
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :The Talented Mr. Ripley
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Legion
+CLUSTER :5
+Hugh Jackman : 3
+Mads Mikkelsen : 3
+Oscar Isaac : 3
+Laurence Fishburne : 3
+Rose Byrne : 3
+Michael Fassbender : 3
+Bill Paxton : 3
+James Marsden : 2
+Andrew Scott : 2
+Dafne Keen : 2
+***********************
+MOVIE :The Hummingbird Project
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :The Favourite
+CLUSTER :14
+Daniel Radcliffe : 4
+Rupert Grint : 4
+Robert Pattinson : 3
+Geraldine Somerville : 3
+Maya Rudolph : 3
+Samuel L. Jackson : 3
+Julie Walters : 3
+Christine Baranski : 3
+Colm Feore : 2
+Heath Jones : 2
+***********************
+MOVIE :The Brave Little Toaster
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :The Wonderful World of the Brothers Grimm
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :How I Live Now
+CLUSTER :8
+Vin Diesel : 4
+Anne Hathaway : 4
+Dwayne Johnson : 3
+Rhys Darby : 3
+Karen Gillan : 3
+Michelle Rodriguez : 3
+Jordana Brewster : 3
+Ray Winstone : 3
+Amy Madigan : 3
+Matthew McConaughey : 3
+***********************
+MOVIE :Gunga Din
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Tombstone
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Joheunnom nabbeunnom isanghannom
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Iron Man
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Incredibles 2
+CLUSTER :12
+Laurence Fishburne : 5
+Zoe Saldana : 4
+Djimon Hounsou : 3
+Kristen Bell : 3
+Ciarán Hinds : 3
+Josh Gad : 3
+Brad Pitt : 3
+Keanu Reeves : 3
+David Morse : 3
+Tom Wilkinson : 3
+***********************
+MOVIE :The Lodge
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Blazing Saddles
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Mardaani 2
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :High Noon
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Twilight
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Edward Scissorhands
+CLUSTER :3
+Samuel L. Jackson : 3
+Billy Zane : 3
+Jonah Hill : 3
+Craig Ferguson : 3
+Drew Barrymore : 3
+Barry Keoghan : 3
+Riley Keough : 3
+Michelle Williams : 3
+Jorge Lendeborg Jr. : 2
+Martin Starr : 2
+***********************
+MOVIE :Battle of Britain
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Salinui chueok
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Gangs of New York
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5
+***********************
+MOVIE :Antebellum
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :Come to Daddy
+CLUSTER :16
+Patrick Wilson : 5
+Bill Hader : 4
+Vera Farmiga : 4
+Michael Peña : 3
+Joan Cusack : 3
+Tom Hanks : 3
+Miranda Otto : 3
+J.K. Simmons : 3
+Toni Collette : 3
+Frank Oz : 3
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :8
+Vin Diesel : 4
+Anne Hathaway : 4
+Dwayne Johnson : 3
+Rhys Darby : 3
+Karen Gillan : 3
+Michelle Rodriguez : 3
+Jordana Brewster : 3
+Ray Winstone : 3
+Amy Madigan : 3
+Matthew McConaughey : 3
+***********************
+MOVIE :Captain Fantastic
+CLUSTER :3
+Samuel L. Jackson : 3
+Billy Zane : 3
+Jonah Hill : 3
+Craig Ferguson : 3
+Drew Barrymore : 3
+Barry Keoghan : 3
+Riley Keough : 3
+Michelle Williams : 3
+Jorge Lendeborg Jr. : 2
+Martin Starr : 2
+***********************
+MOVIE :Sink the Bismarck!
+CLUSTER :11
+Brad Pitt : 7
+Chris Pratt : 6
+Timothy Olyphant : 6
+Will Smith : 6
+Morgan Freeman : 6
+Clint Eastwood : 6
+Bruce Dern : 5
+Robert De Niro : 5
+John Wayne : 5
+Jeremy Renner : 5

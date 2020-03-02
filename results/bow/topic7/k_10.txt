@@ -1,0 +1,443 @@
+Experiment 
+## METADATA ## 
+Vectorizer :CountVectorizer(analyzer='word', binary=False, decode_error='strict',
+                dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+                lowercase=True, max_df=1.0, max_features=None, min_df=1,
+                ngram_range=(1, 1), preprocessor=None, stop_words=None,
+                strip_accents=None, token_pattern='(?u)\\b\\w\\w+\\b',
+                tokenizer=<function tokenize at 0x000002459F2D3B88>,
+                vocabulary=None)
+N_topics :7
+K_nearest :10
+##############***********************
+MOVIE :De prins van Egypte
+Hugh Jackman : 1
+Jamie Harris : 1
+Daniel Davis : 1
+Piper Perabo : 1
+Rebecca Hall : 1
+Mark Ryan : 1
+Samantha Mahurin : 1
+Michael Caine : 1
+Jim Piddock : 1
+Christian Bale : 1
+***********************
+MOVIE :The Golden Compass
+Kevin Bacon : 2
+Claes Bang : 1
+Morfydd Clark : 1
+Dolly Wells : 1
+Hanna Mangan Lawrence : 1
+Kiersey Clemons : 1
+Andrew Crawford : 1
+Emory Cohen : 1
+Benedict Samuel : 1
+Paddy Considine : 1
+***********************
+MOVIE :Spies in Disguise
+Patrick Wilson : 1
+Stephen McHattie : 1
+Laura Mennell : 1
+Matthew Goode : 1
+Billy Crudup : 1
+Matt Frewer : 1
+Jackie Earle Haley : 1
+James M. Connor : 1
+Mary Ann Burger : 1
+John Shaw : 1
+***********************
+MOVIE :Playing with Fire
+Danny Trejo : 1
+Harvey Keitel : 1
+Ernest Liu : 1
+Tom Savini : 1
+Fred Williamson : 1
+Juliette Lewis : 1
+Brenda Hillhouse : 1
+Salma Hayek : 1
+Cheech Marin : 1
+Marc Lawrence : 1
+***********************
+MOVIE :Pocahontas
+Noah Huntley : 2
+Harry Dean Stanton : 1
+Yaphet Kotto : 1
+John Hurt : 1
+Helen Horton : 1
+Sigourney Weaver : 1
+Ian Holm : 1
+Veronica Cartwright : 1
+Tom Skerritt : 1
+Bolaji Badejo : 1
+***********************
+MOVIE :Toy Story 2
+Chris Noth : 1
+Sarah Jessica Parker : 1
+Kristin Davis : 1
+Cynthia Nixon : 1
+Kim Cattrall : 1
+David Eigenberg : 1
+Omid Djalili : 1
+Dominic Cooper : 1
+Josh Dylan : 1
+Amanda Seyfried : 1
+***********************
+MOVIE :Hacksaw Ridge
+Damon Herriman : 1
+James Edmanson : 1
+Sam Claflin : 1
+Harry Greenwood : 1
+Charlie Jampijinpa Brown : 1
+Ben McIvor : 1
+Baykali Ganambarr : 1
+Ewen Leslie : 1
+Aisling Franciosi : 1
+Charlie Shotwell : 1
+***********************
+MOVIE :American Sniper
+Patrick Wilson : 1
+Stephen McHattie : 1
+Laura Mennell : 1
+Matthew Goode : 1
+Billy Crudup : 1
+Matt Frewer : 1
+Jackie Earle Haley : 1
+James M. Connor : 1
+Mary Ann Burger : 1
+John Shaw : 1
+***********************
+MOVIE :The Lord of the Rings: The Two Towers
+Patrick Swayze : 1
+Oliver Platt : 1
+Nick Stahl : 1
+Catherine O'Hara : 1
+Joe Grifasi : 1
+Bert Kramer : 1
+Stephen Lang : 1
+Moira Sinise : 1
+Eric Lawson : 1
+Scott Glenn : 1
+***********************
+MOVIE :Haunt
+Aubrey Anderson-Emmons : 1
+Ed O'Neill : 1
+Rico Rodriguez : 1
+Ariel Winter : 1
+Nolan Gould : 1
+Ty Burrell : 1
+Jesse Tyler Ferguson : 1
+Eric Stonestreet : 1
+Julie Bowen : 1
+Sarah Hyland : 1
+***********************
+MOVIE :The Talented Mr. Ripley
+Daniel Shalikar : 1
+Joshua Shalikar : 1
+Ron Canada : 1
+Julia Sweeney : 1
+Michael Milhoan : 1
+Keri Russell : 1
+Linda Carlson : 1
+Rick Moranis : 1
+Robert Oliveri : 1
+Gregory Sierra : 1
+***********************
+MOVIE :Legion
+Rafe Spall : 2
+Tom Holland : 2
+Kristoffer Polaha : 1
+Kristen Wiig : 1
+Lyon Beckwith : 1
+Connie Nielsen : 1
+Oakley Bull : 1
+Chris Pine : 1
+Ravi Patel : 1
+Manoj Anand : 1
+***********************
+MOVIE :The Hummingbird Project
+David Jensen : 2
+Robert C. Treveiler : 1
+Frances Sternhagen : 1
+Chris Owen : 1
+Toby Jones : 1
+Jeffrey DeMunn : 1
+Alexa Davalos : 1
+Laurie Holden : 1
+Thomas Jane : 1
+Nathan Gamble : 1
+***********************
+MOVIE :The Favourite
+Danny Huston : 2
+Sophie Turner : 1
+Corey Hawkins : 1
+Dane Foxx : 1
+Elizabeth Perkins : 1
+Eliza Scanlen : 1
+Ryan James Nelson : 1
+Justin Welborn : 1
+Amy Adams : 1
+Betsy Baker : 1
+***********************
+MOVIE :The Brave Little Toaster
+William Devane : 2
+Cate Blanchett : 1
+Andrew Divoff : 1
+John Hurt : 1
+Dimitri Diatchenko : 1
+Ray Winstone : 1
+Igor Jijikine : 1
+Venya Manzyuk : 1
+Shia LaBeouf : 1
+Pasha D. Lychnikoff : 1
+***********************
+MOVIE :The Wonderful World of the Brothers Grimm
+Nicolas Cage : 2
+Catherine Keener : 1
+Kelly Marie Tran : 1
+Peter Dinklage : 1
+Cloris Leachman : 1
+Clark Duke : 1
+Leslie Mann : 1
+Ryan Reynolds : 1
+Emma Stone : 1
+Tamás Hagyuó : 1
+***********************
+MOVIE :How I Live Now
+A Martinez : 1
+Adam Bartley : 1
+Zahn McClarnon : 1
+Louanne Stephens : 1
+Cassidy Freeman : 1
+Lou Diamond Phillips : 1
+Bailey Chase : 1
+Robert Taylor : 1
+Katee Sackhoff : 1
+Yomo Tlazotlalli : 1
+***********************
+MOVIE :Gunga Din
+Christian Berkel : 2
+Sebastian Stan : 2
+Stephanie Beatriz : 1
+Joe Lo Truglio : 1
+Dirk Blocker : 1
+Melissa Fumero : 1
+Chelsea Peretti : 1
+Joel McKinnon Miller : 1
+Terry Crews : 1
+Andre Braugher : 1
+***********************
+MOVIE :Tombstone
+Benito Martinez : 2
+George Clooney : 2
+John Brascia : 1
+Mary Wickes : 1
+Dean Jagger : 1
+Bing Crosby : 1
+Danny Kaye : 1
+Vera-Ellen : 1
+Rosemary Clooney : 1
+Anne Whitfield : 1
+***********************
+MOVIE :Joheunnom nabbeunnom isanghannom
+Sean Pertwee : 2
+Michael Chiklis : 1
+Donal Logue : 1
+Robin Lord Taylor : 1
+Jessica Lucas : 1
+Ben McKenzie : 1
+David Mazouz : 1
+Drew Powell : 1
+Chris Chalk : 1
+Morena Baccarin : 1
+***********************
+MOVIE :Iron Man
+Helen Mirren : 2
+Sean Pertwee : 2
+Jennifer Saunders : 2
+Nell Williams : 1
+Daniel Betts : 1
+Lucian Msamati : 1
+Spike White : 1
+Phil Dunster : 1
+Tunji Kasim : 1
+Jim Carter : 1
+***********************
+MOVIE :Incredibles 2
+Jennette McCurdy : 1
+Miranda Cosgrove : 1
+Jerry Trainor : 1
+Nathan Kress : 1
+Noah Munck : 1
+Drew Barrymore : 1
+Courteney Cox : 1
+Lois Saunders : 1
+Neve Campbell : 1
+Lawrence Hecht : 1
+***********************
+MOVIE :The Lodge
+Stephanie Moore : 1
+Chris Gann : 1
+Andrew Garfield : 1
+Deborah Geffner : 1
+Jessica Makinson : 1
+Izzie Coffey : 1
+Sky Elobar : 1
+Kayla DiVenere : 1
+Reese Hartwig : 1
+Riley Keough : 1
+***********************
+MOVIE :Blazing Saddles
+Michael Jeter : 1
+Harry Dean Stanton : 1
+Sam Rockwell : 1
+Patricia Clarkson : 1
+Michael Clarke Duncan : 1
+Barry Pepper : 1
+Dabbs Greer : 1
+David Morse : 1
+Jeffrey DeMunn : 1
+Eve Brent : 1
+***********************
+MOVIE :Mardaani 2
+Rubén Blades : 2
+Tom Cruise : 1
+Raymond J. Barry : 1
+Caroline Kava : 1
+Jamie Talisman : 1
+Amanda Davis : 1
+Bryan Larkin : 1
+Seth Allen : 1
+Sean Stone : 1
+John Getz : 1
+***********************
+MOVIE :High Noon
+Benito Martinez : 2
+Joanne Kelly : 1
+Genelle Williams : 1
+Allison Scagliotti : 1
+Saul Rubinek : 1
+CCH Pounder : 1
+Aaron Ashmore : 1
+Eddie McClintock : 1
+Basil Ruysdael : 1
+James Stewart : 1
+***********************
+MOVIE :Twilight
+Aubrey Anderson-Emmons : 1
+Ed O'Neill : 1
+Rico Rodriguez : 1
+Ariel Winter : 1
+Nolan Gould : 1
+Ty Burrell : 1
+Jesse Tyler Ferguson : 1
+Eric Stonestreet : 1
+Julie Bowen : 1
+Sarah Hyland : 1
+***********************
+MOVIE :Edward Scissorhands
+Julie Walters : 3
+Daniel Radcliffe : 2
+Harry Melling : 2
+Emma Watson : 2
+Richard Griffiths : 2
+Bonnie Wright : 2
+Rupert Grint : 2
+Fiona Shaw : 2
+Will Bowes : 1
+Aubrey Plaza : 1
+***********************
+MOVIE :Battle of Britain
+Kim Dickens : 1
+Paula Malcomson : 1
+Leon Rippy : 1
+Molly Parker : 1
+Ian McShane : 1
+Brad Dourif : 1
+Sean Bridgers : 1
+William Sanderson : 1
+Brent Sexton : 1
+Dayton Callie : 1
+***********************
+MOVIE :Salinui chueok
+Deji LaRay : 1
+Titus Welliver : 1
+Sarah Clarke : 1
+Jamie Hector : 1
+Amy Aquino : 1
+Madison Lintz : 1
+Troy Evans : 1
+Paul Calderon : 1
+DaJuan Johnson : 1
+Lance Reddick : 1
+***********************
+MOVIE :Gangs of New York
+Andre Braugher : 2
+Mike Epps : 1
+Tasha Smith : 1
+Luenell : 1
+Kodi Smit-McPhee : 1
+Wesley Snipes : 1
+Snoop Dogg : 1
+Tituss Burgess : 1
+Chris Rock : 1
+Eddie Murphy : 1
+***********************
+MOVIE :Antebellum
+Zoë Kravitz : 1
+David H. Holmes : 1
+Kingsley Ben-Adir : 1
+Jake Lacy : 1
+Da'Vine Joy Randolph : 1
+Rainbow Francks : 1
+Edmund Donovan : 1
+Adrian Scarborough : 1
+Jimmy Vee : 1
+Nikesh Patel : 1
+***********************
+MOVIE :Come to Daddy
+Patrick Swayze : 1
+Oliver Platt : 1
+Nick Stahl : 1
+Catherine O'Hara : 1
+Joe Grifasi : 1
+Bert Kramer : 1
+Stephen Lang : 1
+Moira Sinise : 1
+Eric Lawson : 1
+Scott Glenn : 1
+***********************
+MOVIE :The Princess Diaries
+Michael Keaton : 2
+Jessy Hodges : 1
+Abby Elliott : 1
+Erica Muñoz : 1
+Anders Garrett : 1
+Steven Weber : 1
+Adam Pally : 1
+Fran Drescher : 1
+Wilfrid Hyde-White : 1
+Isobel Elsom : 1
+***********************
+MOVIE :Captain Fantastic
+Bruce Dern : 2
+Hugh Jackman : 1
+Wayne Duvall : 1
+Kyla-Drew : 1
+David Dastmalchian : 1
+Terrence Howard : 1
+Erin Gerasimovich : 1
+Dylan Minnette : 1
+Len Cariou : 1
+Viola Davis : 1
+***********************
+MOVIE :Sink the Bismarck!
+Patrick Wilson : 1
+Stephen McHattie : 1
+Laura Mennell : 1
+Matthew Goode : 1
+Billy Crudup : 1
+Matt Frewer : 1
+Jackie Earle Haley : 1
+James M. Connor : 1
+Mary Ann Burger : 1
+John Shaw : 1
