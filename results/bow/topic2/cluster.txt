@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :De prins van Egypte
+MOVIE :Onward
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :The Golden Compass
+MOVIE :Little Shop of Horrors
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :Spies in Disguise
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Playing with Fire
+MOVIE :Avatar: The Last Airbender
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :Pocahontas
+MOVIE :Wonder Park
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :Toy Story 2
+MOVIE :Dr. No
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :A Simple Favor
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Hereditary
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Wynonna Earp
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Star Trek: Voyager
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :Hacksaw Ridge
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :American Sniper
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :The Lord of the Rings: The Two Towers
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Haunt
+MOVIE :Project T
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :The Talented Mr. Ripley
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Legion
+MOVIE :Oordeel te Neurenberg
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :The Hummingbird Project
+MOVIE :Daredevil
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :The Ridiculous 6
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :The Favourite
+MOVIE :The English Patient
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :The Brave Little Toaster
+MOVIE :Chicago
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :The Wonderful World of the Brothers Grimm
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+MOVIE :Texas Rising
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :How I Live Now
+MOVIE :Underworld: Blood Wars
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :Official Secrets
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :The Texican
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Heaven's Gate
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :The Babysitter
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Avengers: Infinity War
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :The Human Centipede (First Sequence)
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :The Green Inferno
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :West Side Story
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :Beetlejuice
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :P.S. I Love You
+CLUSTER :1
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
+***********************
+MOVIE :Earth Girls Are Easy
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :Kingsman: The Secret Service
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
 MOVIE :Gunga Din
+CLUSTER :0
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
+***********************
+MOVIE :A Confession
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :Tombstone
+MOVIE :The Godfather
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :Joheunnom nabbeunnom isanghannom
+MOVIE :Ocean's Eight
 CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Brad Pitt : 9
+Anne Hathaway : 9
+Daniel Radcliffe : 8
+Leonardo DiCaprio : 8
+Timothy Olyphant : 8
+Nick Offerman : 8
+Christopher Walken : 8
+Shea Whigham : 8
+Robert De Niro : 8
+John Wayne : 8
 ***********************
-MOVIE :Iron Man
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Incredibles 2
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :The Lodge
+MOVIE :Descendants
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :Blazing Saddles
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Mardaani 2
+MOVIE :Teen Titans Go! To the Movies
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8
 ***********************
-MOVIE :High Noon
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Twilight
+MOVIE :Tropic Thunder
 CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Edward Scissorhands
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Battle of Britain
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
-***********************
-MOVIE :Salinui chueok
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Gangs of New York
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Antebellum
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Come to Daddy
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :The Princess Diaries
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Captain Fantastic
-CLUSTER :0
-Jake Gyllenhaal : 10
-Scarlett Johansson : 9
-Emma Thompson : 8
-Chris Pratt : 8
-Brad Pitt : 8
-Anne Hathaway : 8
-Helena Bonham Carter : 8
-Julie Walters : 8
-Octavia Spencer : 7
-Jude Law : 7
-***********************
-MOVIE :Sink the Bismarck!
-CLUSTER :1
-Samuel L. Jackson : 15
-John Wayne : 13
-Will Smith : 9
-Robert Downey Jr. : 9
-Anthony Mackie : 9
-Laurence Fishburne : 9
-Stanley Tucci : 9
-Scarlett Johansson : 8
-Chris Hemsworth : 8
-J.K. Simmons : 8
+Samuel L. Jackson : 14
+Alan Tudyk : 11
+Laurence Fishburne : 11
+Scarlett Johansson : 10
+Johnny Depp : 10
+Djimon Hounsou : 9
+Idris Elba : 9
+Sigourney Weaver : 9
+John Wayne : 9
+Tom Hanks : 8

@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :De prins van Egypte
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :The Golden Compass
-CLUSTER :2
-Margot Robbie : 5
-Woody Harrelson : 5
-Christian Bale : 5
-Josh Brolin : 5
-Hugh Jackman : 5
-Jesse Eisenberg : 4
-Winona Ryder : 4
-Gerard Butler : 4
-Alison Pill : 4
-Laurence Fishburne : 4
-***********************
-MOVIE :Spies in Disguise
+MOVIE :Onward
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Playing with Fire
-CLUSTER :5
-Djimon Hounsou : 5
-Octavia Spencer : 4
-Michelle Rodriguez : 4
-Vin Diesel : 4
-Sigourney Weaver : 4
-Will Smith : 4
-Stellan Skarsgård : 4
-Diane Lane : 4
-Demián Bichir : 4
-Kyle Chandler : 4
-***********************
-MOVIE :Pocahontas
+MOVIE :Little Shop of Horrors
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Toy Story 2
-CLUSTER :1
-Julie Andrews : 7
-Richard Griffiths : 6
-John Cleese : 6
-Jim Cummings : 5
-Daniel Radcliffe : 5
-Harry Melling : 5
-Fiona Shaw : 5
-Christopher Lloyd : 5
-Dwayne Johnson : 4
-Idris Elba : 4
-***********************
-MOVIE :Hacksaw Ridge
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
-***********************
-MOVIE :American Sniper
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
-***********************
-MOVIE :The Lord of the Rings: The Two Towers
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
-***********************
-MOVIE :Haunt
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :The Talented Mr. Ripley
-CLUSTER :1
-Julie Andrews : 7
-Richard Griffiths : 6
-John Cleese : 6
-Jim Cummings : 5
-Daniel Radcliffe : 5
-Harry Melling : 5
-Fiona Shaw : 5
-Christopher Lloyd : 5
-Dwayne Johnson : 4
-Idris Elba : 4
-***********************
-MOVIE :Legion
-CLUSTER :5
-Djimon Hounsou : 5
-Octavia Spencer : 4
-Michelle Rodriguez : 4
-Vin Diesel : 4
-Sigourney Weaver : 4
-Will Smith : 4
-Stellan Skarsgård : 4
-Diane Lane : 4
-Demián Bichir : 4
-Kyle Chandler : 4
-***********************
-MOVIE :The Hummingbird Project
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :The Favourite
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :The Brave Little Toaster
+MOVIE :Avatar: The Last Airbender
 CLUSTER :3
-Mark Hamill : 6
-Oscar Isaac : 5
 Anthony Daniels : 5
-Carrie Fisher : 5
-Domhnall Gleeson : 5
-Chris Pratt : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
 Adam Driver : 4
-Stanley Tucci : 4
-Amy Adams : 4
-John Leguizamo : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
 ***********************
-MOVIE :The Wonderful World of the Brothers Grimm
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :How I Live Now
+MOVIE :Wonder Park
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Dr. No
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
 Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :A Simple Favor
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Hereditary
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Wynonna Earp
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
+Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :Star Trek: Voyager
+CLUSTER :1
+Samuel L. Jackson : 8
+Jon Favreau : 5
+Daniel Radcliffe : 5
+Harry Melling : 5
+Richard Griffiths : 5
+Fiona Shaw : 5
+T.J. Miller : 5
+Bobby Cannavale : 5
+Zoe Saldana : 5
+Gary Oldman : 5
+***********************
+MOVIE :Project T
+CLUSTER :1
+Samuel L. Jackson : 8
+Jon Favreau : 5
+Daniel Radcliffe : 5
+Harry Melling : 5
+Richard Griffiths : 5
+Fiona Shaw : 5
+T.J. Miller : 5
+Bobby Cannavale : 5
+Zoe Saldana : 5
+Gary Oldman : 5
+***********************
+MOVIE :Oordeel te Neurenberg
+CLUSTER :3
+Anthony Daniels : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
+***********************
+MOVIE :Daredevil
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
+Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :The Ridiculous 6
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :The English Patient
+CLUSTER :3
+Anthony Daniels : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
+***********************
+MOVIE :Chicago
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
+Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :Texas Rising
+CLUSTER :0
+Chris Pratt : 5
+Samuel L. Jackson : 5
+John Goodman : 5
+Jimmy O. Yang : 4
+Stellan Skarsgård : 4
+J.K. Simmons : 4
+Ben Affleck : 4
+BD Wong : 4
+Titus Welliver : 4
+Jeremy Renner : 4
+***********************
+MOVIE :Underworld: Blood Wars
+CLUSTER :3
+Anthony Daniels : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
+***********************
+MOVIE :Official Secrets
+CLUSTER :0
+Chris Pratt : 5
+Samuel L. Jackson : 5
+John Goodman : 5
+Jimmy O. Yang : 4
+Stellan Skarsgård : 4
+J.K. Simmons : 4
+Ben Affleck : 4
+BD Wong : 4
+Titus Welliver : 4
+Jeremy Renner : 4
+***********************
+MOVIE :The Texican
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
+Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :Heaven's Gate
+CLUSTER :5
+John Wayne : 11
+Leonardo DiCaprio : 5
+Domhnall Gleeson : 5
+Wallace Shawn : 5
+Clint Eastwood : 5
+Kirk Douglas : 5
+Johnny Depp : 5
+Bruce Dern : 5
+Arthur Hunnicutt : 5
+Woody Harrelson : 5
+***********************
+MOVIE :The Babysitter
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Avengers: Infinity War
+CLUSTER :2
+Julie Andrews : 6
+John Cleese : 6
+Antonio Banderas : 4
+Alan Tudyk : 4
+Frank Oz : 4
+Christine Baranski : 4
+Mike Myers : 4
+Cameron Diaz : 4
+Eddie Murphy : 4
+John Cena : 3
+***********************
+MOVIE :The Human Centipede (First Sequence)
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :The Green Inferno
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :West Side Story
+CLUSTER :0
+Chris Pratt : 5
+Samuel L. Jackson : 5
+John Goodman : 5
+Jimmy O. Yang : 4
+Stellan Skarsgård : 4
+J.K. Simmons : 4
+Ben Affleck : 4
+BD Wong : 4
+Titus Welliver : 4
+Jeremy Renner : 4
+***********************
+MOVIE :Beetlejuice
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :P.S. I Love You
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Earth Girls Are Easy
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
+***********************
+MOVIE :Kingsman: The Secret Service
+CLUSTER :3
+Anthony Daniels : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
 ***********************
 MOVIE :Gunga Din
+CLUSTER :3
+Anthony Daniels : 5
+Brad Pitt : 5
+Ian McShane : 5
+Oscar Isaac : 4
+Adam Driver : 4
+Lupita Nyong'o : 4
+Carrie Fisher : 4
+Mark Hamill : 4
+Michael Fassbender : 4
+Tilda Swinton : 4
+***********************
+MOVIE :A Confession
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Tombstone
-CLUSTER :2
-Margot Robbie : 5
-Woody Harrelson : 5
-Christian Bale : 5
-Josh Brolin : 5
-Hugh Jackman : 5
-Jesse Eisenberg : 4
-Winona Ryder : 4
-Gerard Butler : 4
-Alison Pill : 4
-Laurence Fishburne : 4
-***********************
-MOVIE :Joheunnom nabbeunnom isanghannom
+MOVIE :The Godfather
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Iron Man
+MOVIE :Ocean's Eight
 CLUSTER :4
-Samuel L. Jackson : 7
 Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Incredibles 2
-CLUSTER :5
-Djimon Hounsou : 5
-Octavia Spencer : 4
-Michelle Rodriguez : 4
-Vin Diesel : 4
-Sigourney Weaver : 4
-Will Smith : 4
-Stellan Skarsgård : 4
-Diane Lane : 4
-Demián Bichir : 4
-Kyle Chandler : 4
+MOVIE :Descendants
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :The Lodge
-CLUSTER :5
-Djimon Hounsou : 5
-Octavia Spencer : 4
-Michelle Rodriguez : 4
-Vin Diesel : 4
-Sigourney Weaver : 4
-Will Smith : 4
-Stellan Skarsgård : 4
-Diane Lane : 4
-Demián Bichir : 4
-Kyle Chandler : 4
+MOVIE :Teen Titans Go! To the Movies
+CLUSTER :4
+Scarlett Johansson : 6
+Miranda Otto : 6
+Adam Sandler : 6
+Natalie Portman : 6
+Jude Law : 5
+Anthony Hopkins : 5
+Stanley Tucci : 5
+Amy Adams : 5
+Laurence Fishburne : 5
+Patrick Wilson : 5
 ***********************
-MOVIE :Blazing Saddles
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :Mardaani 2
-CLUSTER :5
-Djimon Hounsou : 5
-Octavia Spencer : 4
-Michelle Rodriguez : 4
-Vin Diesel : 4
-Sigourney Weaver : 4
-Will Smith : 4
-Stellan Skarsgård : 4
-Diane Lane : 4
-Demián Bichir : 4
-Kyle Chandler : 4
-***********************
-MOVIE :High Noon
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :Twilight
+MOVIE :Tropic Thunder
 CLUSTER :1
-Julie Andrews : 7
-Richard Griffiths : 6
-John Cleese : 6
-Jim Cummings : 5
+Samuel L. Jackson : 8
+Jon Favreau : 5
 Daniel Radcliffe : 5
 Harry Melling : 5
+Richard Griffiths : 5
 Fiona Shaw : 5
-Christopher Lloyd : 5
-Dwayne Johnson : 4
-Idris Elba : 4
-***********************
-MOVIE :Edward Scissorhands
-CLUSTER :3
-Mark Hamill : 6
-Oscar Isaac : 5
-Anthony Daniels : 5
-Carrie Fisher : 5
-Domhnall Gleeson : 5
-Chris Pratt : 5
-Adam Driver : 4
-Stanley Tucci : 4
-Amy Adams : 4
-John Leguizamo : 4
-***********************
-MOVIE :Battle of Britain
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
-***********************
-MOVIE :Salinui chueok
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
-***********************
-MOVIE :Gangs of New York
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :Antebellum
-CLUSTER :3
-Mark Hamill : 6
-Oscar Isaac : 5
-Anthony Daniels : 5
-Carrie Fisher : 5
-Domhnall Gleeson : 5
-Chris Pratt : 5
-Adam Driver : 4
-Stanley Tucci : 4
-Amy Adams : 4
-John Leguizamo : 4
-***********************
-MOVIE :Come to Daddy
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :The Princess Diaries
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :Captain Fantastic
-CLUSTER :0
-Tom Cruise : 5
-Anne Hathaway : 5
-James Gammon : 5
-Barry Corbin : 5
-Colin Farrell : 5
-Timothée Chalamet : 4
-Michael Keaton : 4
-Jennifer Garner : 4
-Bryan Cranston : 4
-George Clooney : 4
-***********************
-MOVIE :Sink the Bismarck!
-CLUSTER :4
-Samuel L. Jackson : 7
-Scarlett Johansson : 6
-Chris Hemsworth : 6
-Tom Hiddleston : 6
-Jeremy Renner : 6
-Robert Downey Jr. : 5
-Elizabeth Olsen : 5
-Chris Evans : 5
-John Wayne : 5
-Clint Eastwood : 5
+T.J. Miller : 5
+Bobby Cannavale : 5
+Zoe Saldana : 5
+Gary Oldman : 5

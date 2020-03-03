@@ -1,220 +1,376 @@
 Experiment cluster 
 ***********************
-MOVIE :De prins van Egypte
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Onward
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Golden Compass
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Little Shop of Horrors
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Spies in Disguise
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Avatar: The Last Airbender
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Playing with Fire
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Wonder Park
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Pocahontas
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Dr. No
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Toy Story 2
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :A Simple Favor
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Hacksaw Ridge
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Hereditary
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :American Sniper
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Wynonna Earp
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Lord of the Rings: The Two Towers
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Star Trek: Voyager
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Haunt
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Project T
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Talented Mr. Ripley
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Oordeel te Neurenberg
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Legion
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Daredevil
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Hummingbird Project
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :The Ridiculous 6
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Favourite
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :The English Patient
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Brave Little Toaster
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Chicago
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Wonderful World of the Brothers Grimm
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Texas Rising
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :How I Live Now
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Underworld: Blood Wars
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Official Secrets
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :The Texican
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Heaven's Gate
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :The Babysitter
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Avengers: Infinity War
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :The Human Centipede (First Sequence)
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :The Green Inferno
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :West Side Story
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Beetlejuice
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :P.S. I Love You
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Earth Girls Are Easy
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
+Patrick Wilson : 14
+Stanley Tucci : 14
+Tom Hanks : 13
+Jake Gyllenhaal : 13
+J.K. Simmons : 13
+***********************
+MOVIE :Kingsman: The Secret Service
+CLUSTER :10
+Samuel L. Jackson : 19
+John Wayne : 17
+Scarlett Johansson : 16
+Laurence Fishburne : 16
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
@@ -222,246 +378,90 @@ Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
 MOVIE :Gunga Din
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Tombstone
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :A Confession
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Joheunnom nabbeunnom isanghannom
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :The Godfather
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Iron Man
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Ocean's Eight
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Incredibles 2
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Descendants
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :The Lodge
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Teen Titans Go! To the Movies
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
 Jake Gyllenhaal : 13
 J.K. Simmons : 13
 ***********************
-MOVIE :Blazing Saddles
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
+MOVIE :Tropic Thunder
+CLUSTER :10
+Samuel L. Jackson : 19
 John Wayne : 17
+Scarlett Johansson : 16
 Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Mardaani 2
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :High Noon
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Twilight
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Edward Scissorhands
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Battle of Britain
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Salinui chueok
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Gangs of New York
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Antebellum
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Come to Daddy
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :The Princess Diaries
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Captain Fantastic
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
-Patrick Wilson : 14
-Stanley Tucci : 14
-Tom Hanks : 13
-Jake Gyllenhaal : 13
-J.K. Simmons : 13
-***********************
-MOVIE :Sink the Bismarck!
-CLUSTER :8
-Samuel L. Jackson : 18
-Scarlett Johansson : 17
-John Wayne : 17
-Laurence Fishburne : 16
-Brad Pitt : 15
+Brad Pitt : 14
 Patrick Wilson : 14
 Stanley Tucci : 14
 Tom Hanks : 13
