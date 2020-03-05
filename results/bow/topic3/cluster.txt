@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :Onward
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Little Shop of Horrors
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Avatar: The Last Airbender
+MOVIE :The Amazing World of Gumball
 CLUSTER :2
-Daniel Radcliffe : 7
-Anne Hathaway : 6
-Harry Melling : 6
-Richard Griffiths : 6
-Fiona Shaw : 6
-Sam Rockwell : 6
-J.K. Simmons : 5
-Vera Farmiga : 5
-Angelina Jolie : 4
-Ralph Fiennes : 4
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
 ***********************
-MOVIE :Wonder Park
+MOVIE :Kaubôi bibappu
 CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
 ***********************
-MOVIE :Dr. No
+MOVIE :Something Like Summer
 CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
 ***********************
-MOVIE :A Simple Favor
+MOVIE :Son of the Mask
 CLUSTER :2
-Daniel Radcliffe : 7
-Anne Hathaway : 6
-Harry Melling : 6
-Richard Griffiths : 6
-Fiona Shaw : 6
-Sam Rockwell : 6
-J.K. Simmons : 5
-Vera Farmiga : 5
-Angelina Jolie : 4
-Ralph Fiennes : 4
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
 ***********************
-MOVIE :Hereditary
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Wynonna Earp
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Star Trek: Voyager
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Project T
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Oordeel te Neurenberg
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Daredevil
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The Ridiculous 6
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The English Patient
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Chicago
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Texas Rising
+MOVIE :Chitty Chitty Bang Bang
 CLUSTER :2
-Daniel Radcliffe : 7
-Anne Hathaway : 6
-Harry Melling : 6
-Richard Griffiths : 6
-Fiona Shaw : 6
-Sam Rockwell : 6
-J.K. Simmons : 5
-Vera Farmiga : 5
-Angelina Jolie : 4
-Ralph Fiennes : 4
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
 ***********************
-MOVIE :Underworld: Blood Wars
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Official Secrets
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The Texican
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Heaven's Gate
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The Babysitter
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Avengers: Infinity War
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The Human Centipede (First Sequence)
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :The Green Inferno
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :West Side Story
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Beetlejuice
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :P.S. I Love You
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Earth Girls Are Easy
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Kingsman: The Secret Service
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :Gunga Din
-CLUSTER :1
-Samuel L. Jackson : 13
-John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
-***********************
-MOVIE :A Confession
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :The Godfather
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Ocean's Eight
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Descendants
-CLUSTER :0
-Antonio Banderas : 7
-Rachel McAdams : 7
-Octavia Spencer : 6
-Scarlett Johansson : 6
-Christopher Walken : 6
-Brad Pitt : 6
-Jude Law : 6
-Robert De Niro : 6
-Nicole Kidman : 6
-Christine Baranski : 6
-***********************
-MOVIE :Teen Titans Go! To the Movies
+MOVIE :Camp
 CLUSTER :2
-Daniel Radcliffe : 7
-Anne Hathaway : 6
-Harry Melling : 6
-Richard Griffiths : 6
-Fiona Shaw : 6
-Sam Rockwell : 6
-J.K. Simmons : 5
-Vera Farmiga : 5
-Angelina Jolie : 4
-Ralph Fiennes : 4
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
 ***********************
-MOVIE :Tropic Thunder
+MOVIE :Saw III
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :Glengarry Glen Ross
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Minuscule - Les mandibules du bout du monde
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Lucy in the Sky
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Conspiracy
 CLUSTER :1
-Samuel L. Jackson : 13
+Samuel L. Jackson : 15
+Tom Cruise : 15
+Vin Diesel : 14
+Matt Damon : 14
+Desmond Llewelyn : 13
+Jason Statham : 13
+Sean Connery : 13
+Willem Dafoe : 13
 John Wayne : 13
-Laurence Fishburne : 12
-Scarlett Johansson : 10
-Oscar Isaac : 9
-Patrick Wilson : 9
-Christian Bale : 9
-Djimon Hounsou : 8
-Jake Gyllenhaal : 8
-Robert Downey Jr. : 8
+Sylvester Stallone : 12
+***********************
+MOVIE :The Matrix Reloaded
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :American Mary
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :The Wall
+CLUSTER :1
+Samuel L. Jackson : 15
+Tom Cruise : 15
+Vin Diesel : 14
+Matt Damon : 14
+Desmond Llewelyn : 13
+Jason Statham : 13
+Sean Connery : 13
+Willem Dafoe : 13
+John Wayne : 13
+Sylvester Stallone : 12
+***********************
+MOVIE :Urban Cowboy
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Trolls
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Churchill
+CLUSTER :1
+Samuel L. Jackson : 15
+Tom Cruise : 15
+Vin Diesel : 14
+Matt Damon : 14
+Desmond Llewelyn : 13
+Jason Statham : 13
+Sean Connery : 13
+Willem Dafoe : 13
+John Wayne : 13
+Sylvester Stallone : 12
+***********************
+MOVIE :Max
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :Bandidas
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :De vrouw die gelyncht moest worden
+CLUSTER :1
+Samuel L. Jackson : 15
+Tom Cruise : 15
+Vin Diesel : 14
+Matt Damon : 14
+Desmond Llewelyn : 13
+Jason Statham : 13
+Sean Connery : 13
+Willem Dafoe : 13
+John Wayne : 13
+Sylvester Stallone : 12
+***********************
+MOVIE :Frozen II
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Ice Age
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Welcome to Marwen
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :The Witches of Eastwick
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Au revoir les enfants
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Como Caído Del Cielo
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Jeanne D'Arc
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Patch Adams
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :The Incredible Hulk
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :How I Met Your Mother
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Sixteen Candles
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Gilmore Girls: A Year in the Life
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Rise of the Guardians
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :The Lovebirds
+CLUSTER :0
+Samuel L. Jackson : 14
+Laurence Fishburne : 14
+Tom Hanks : 13
+Steve Buscemi : 13
+Brian Cox : 13
+Scarlett Johansson : 12
+Woody Harrelson : 12
+James Franco : 12
+Nicolas Cage : 12
+Morgan Freeman : 12
+***********************
+MOVIE :Queen
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13
+***********************
+MOVIE :Black Robe
+CLUSTER :2
+Jim Cummings : 27
+Frank Welker : 21
+Jeff Bennett : 18
+Anne Hathaway : 16
+Adam Sandler : 16
+John Cleese : 15
+Fred Astaire : 14
+Rob Paulsen : 14
+Steve Buscemi : 13
+Maya Rudolph : 13

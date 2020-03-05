@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :Onward
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Amazing World of Gumball
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Little Shop of Horrors
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Kaubôi bibappu
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Avatar: The Last Airbender
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Something Like Summer
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Wonder Park
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Son of the Mask
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Dr. No
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Chitty Chitty Bang Bang
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :A Simple Favor
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Camp
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Hereditary
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Saw III
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Wynonna Earp
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Glengarry Glen Ross
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Star Trek: Voyager
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Minuscule - Les mandibules du bout du monde
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Project T
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Lucy in the Sky
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Oordeel te Neurenberg
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Conspiracy
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Daredevil
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Matrix Reloaded
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Ridiculous 6
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :American Mary
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The English Patient
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Wall
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Chicago
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Urban Cowboy
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Texas Rising
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Trolls
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Underworld: Blood Wars
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Churchill
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Official Secrets
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Max
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Texican
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Bandidas
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Heaven's Gate
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :De vrouw die gelyncht moest worden
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Babysitter
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Frozen II
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Avengers: Infinity War
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Ice Age
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Human Centipede (First Sequence)
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Welcome to Marwen
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Green Inferno
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Witches of Eastwick
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :West Side Story
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Au revoir les enfants
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Beetlejuice
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Como Caído Del Cielo
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :P.S. I Love You
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Jeanne D'Arc
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Earth Girls Are Easy
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Patch Adams
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Kingsman: The Secret Service
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Incredible Hulk
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Gunga Din
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :How I Met Your Mother
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :A Confession
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Sixteen Candles
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :The Godfather
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Gilmore Girls: A Year in the Life
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Ocean's Eight
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Rise of the Guardians
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Descendants
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :The Lovebirds
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Teen Titans Go! To the Movies
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Queen
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27
 ***********************
-MOVIE :Tropic Thunder
-CLUSTER :7
-Samuel L. Jackson : 18
-John Wayne : 17
-Scarlett Johansson : 16
-Laurence Fishburne : 16
-Brad Pitt : 15
-Tom Hanks : 14
-Patrick Wilson : 14
-Stanley Tucci : 14
-Jake Gyllenhaal : 13
-Anne Hathaway : 12
+MOVIE :Black Robe
+CLUSTER :2
+Samuel L. Jackson : 35
+John Wayne : 34
+Jim Cummings : 32
+Steve Buscemi : 32
+Willem Dafoe : 30
+Woody Harrelson : 30
+Johnny Depp : 30
+Tom Hanks : 28
+Christopher Plummer : 28
+Morgan Freeman : 27

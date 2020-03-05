@@ -6,439 +6,439 @@ Vectorizer :TfidfVectorizer(analyzer='word', binary=False, decode_error='strict'
                 min_df=1, ngram_range=(1, 1), norm='l2', preprocessor=None,
                 smooth_idf=True, stop_words=None, strip_accents=None,
                 sublinear_tf=False, token_pattern='(?u)\\b\\w\\w+\\b',
-                tokenizer=<function tokenize at 0x0000026860B33B88>,
+                tokenizer=<function tokenize at 0x000002A7A47069D8>,
                 use_idf=True, vocabulary=None)
 N_topics :3
 K_nearest :10
 ##############***********************
-MOVIE :Onward
-Claes Bang : 1
-Morfydd Clark : 1
-Dolly Wells : 1
-Kelly Gough : 1
-Jamie Dornan : 1
-David Beattie : 1
-Tara Lee : 1
-Emmett J Scanlan : 1
-Bronagh Waugh : 1
-Valene Kane : 1
-***********************
-MOVIE :Little Shop of Horrors
-Glenn Yarbrough : 1
-Theodore Gottlieb : 1
-Jack DeLeon : 1
-Otto Preminger : 1
-Orson Bean : 1
-John Huston : 1
-Paul Frees : 1
-John Stephenson : 1
-Cyril Ritchard : 1
-Don Messick : 1
-***********************
-MOVIE :Avatar: The Last Airbender
-Ken Stovitz : 1
-Hope Lange : 1
-Brad Dourif : 1
-Jack Nance : 1
-Frances Bay : 1
-Laura Dern : 1
-Dennis Hopper : 1
-Isabella Rossellini : 1
-Kyle MacLachlan : 1
-J. Michael Hunter : 1
-***********************
-MOVIE :Wonder Park
-Matthew Modine : 1
-Claire Holt : 1
-Yani Gellman : 1
-Mandy Moore : 1
-Santiago Segura : 1
-Chris Johnson : 1
-Lee Tergesen : 1
-Keanu Reeves : 1
-Patrick Swayze : 1
-Gary Busey : 1
-***********************
-MOVIE :Dr. No
-Emilija Baranac : 2
-Madeleine Arthur : 2
-Noah Centineo : 2
-Janel Parrish : 2
-Lana Condor : 2
-Elizabeth Perkins : 1
-Eliza Scanlen : 1
-Ryan James Nelson : 1
-Justin Welborn : 1
-Amy Adams : 1
-***********************
-MOVIE :A Simple Favor
-Lucy Lawless : 1
-Ray Santiago : 1
-Dana DeLorenzo : 1
-Bruce Campbell : 1
-Sami Outalbali : 1
-Lisa Palfrey : 1
-Ncuti Gatwa : 1
-Sharon Duncan-Brewster : 1
-Patricia Allison : 1
-Connor Swindells : 1
-***********************
-MOVIE :Hereditary
-Michael Shannon : 2
-Jane Withers : 1
-Carroll Baker : 1
-Rock Hudson : 1
-Sal Mineo : 1
-Mercedes McCambridge : 1
-Dennis Hopper : 1
-Judith Evelyn : 1
-James Dean : 1
-Robert Nichols : 1
-***********************
-MOVIE :Wynonna Earp
-Harry Lloyd : 2
-J.K. Simmons : 2
-Alice Orr-Ewing : 1
-Finlay Wright-Stephens : 1
-Thomas Morrison : 1
-Sophie Perry : 1
-Emily Watson : 1
-Eddie Redmayne : 1
-Gruffudd Glyn : 1
-Simon McBurney : 1
-***********************
-MOVIE :Star Trek: Voyager
-Keiko Yokozawa : 1
-Ryûji Saikachi : 1
-Machiko Washio : 1
-Ichirô Nagai : 1
-Tarako : 1
-Fujio Tokita : 1
-Sukekiyo Kameyama : 1
-Yoshito Yasuhara : 1
-James Van Der Beek : 1
-Minori Terada : 1
-***********************
-MOVIE :Project T
-Jon Voight : 2
-Stephen Root : 1
-Diedrich Bader : 1
-Gary Cole : 1
-Alexandra Wentworth : 1
-Jennifer Aniston : 1
-Kinna McInroe : 1
-Richard Riehle : 1
-John C. McGinley : 1
-Paul Willson : 1
-***********************
-MOVIE :Oordeel te Neurenberg
-Paul Desmond : 1
-Henry Thomas : 1
-Karina Lombard : 1
-Tantoo Cardinal : 1
-Gordon Tootoosis : 1
-Aidan Quinn : 1
-John Novak : 1
-Bill Dow : 1
-Julia Ormond : 1
-Anthony Hopkins : 1
-***********************
-MOVIE :Daredevil
-Ross Butler : 1
-Sarayu Blue : 1
-John Corbett : 1
-Kelcey Mawema : 1
-Jordan Fisher : 1
-Emilija Baranac : 1
-Momona Tamada : 1
-Holland Taylor : 1
-Madeleine Arthur : 1
-Anna Cathcart : 1
-***********************
-MOVIE :The Ridiculous 6
-Lee Marvin : 2
-Lawrence Turner : 1
-Alice Braga : 1
-Christopher James Baker : 1
-Kimberly Daugherty : 1
-Giles Matthey : 1
-Felicity Price : 1
-Woody Harrelson : 1
-David Born : 1
-Christopher Berry : 1
-***********************
-MOVIE :The English Patient
-Jeong-eun Lee : 1
-Kathryn Kirkpatrick : 1
-Je-mun Yun : 1
-Seo-hyun Ahn : 1
-Tilda Swinton : 1
-Jose Carias : 1
-Michael Mitton : 1
-Sheena Kamal : 1
-Shirley Henderson : 1
-Colm Hill : 1
-***********************
-MOVIE :Chicago
-James McAvoy : 2
-Nicholas Hoult : 2
-Rose Byrne : 2
-Jennifer Lawrence : 2
-Michael Fassbender : 2
-Gary Oldman : 1
-Nicholas Jones : 1
-Richard Lumsden : 1
-Benjamin Whitrow : 1
-Stephen Dillane : 1
-***********************
-MOVIE :Texas Rising
-Manoj Anand : 2
-Claude Rains : 1
-Zia Mohyeddin : 1
-Omar Sharif : 1
-I.S. Johar : 1
-Michel Ray : 1
-Donald Wolfit : 1
-Peter O'Toole : 1
-John Dimech : 1
-Jack Hawkins : 1
-***********************
-MOVIE :Underworld: Blood Wars
-Max Casella : 1
-Dominic Maldonado : 1
-Mark David : 1
-Gabriel Damon : 1
-Luke Edwards : 1
-Arvie Lowe Jr. : 1
-Trey Parker : 1
-Aaron Lohr : 1
-Marty Belafsky : 1
-Joseph Conrad : 1
-***********************
-MOVIE :Official Secrets
-Sofie Gråbøl : 2
-Drew Barrymore : 1
-Mary Elizabeth Ellis : 1
-Liv Hewson : 1
-Skyler Gisondo : 1
-Timothy Olyphant : 1
-Hans Conried : 1
-Katrin Tatar : 1
-Wendell Corey : 1
-Duci De Kerekjarto : 1
-***********************
-MOVIE :The Texican
-Ben O'Toole : 1
-Trevante Rhodes : 1
-Jack Kesy : 1
-Thad Luckinbill : 1
-Kenny Sheard : 1
-Chris Hemsworth : 1
-Rob Riggle : 1
-Michael Peña : 1
-William Fichtner : 1
-Austin Hébert : 1
-***********************
-MOVIE :Heaven's Gate
+MOVIE :The Amazing World of Gumball
+Olivia Colman : 2
 Scarlett Johansson : 2
-Samuel L. Jackson : 2
-Laurence Fishburne : 2
-Michael Shannon : 2
-Mads Mikkelsen : 2
-Rebel Wilson : 1
-Sam Rockwell : 1
-Stephen Merchant : 1
-Archie Yates : 1
-Gabriel Andrews : 1
+Katherine Kelly : 1
+Noah Jupe : 1
+Aure Atika : 1
+Aymen Hamdouchi : 1
+Alistair Petrie : 1
+Hovik Keuchkerian : 1
+Adeel Akhtar : 1
+Marta Torné : 1
 ***********************
-MOVIE :The Babysitter
-Emma Stone : 2
-Cam Gigandet : 1
-Patricia Clarkson : 1
-Jake Sandvig : 1
-Thomas Haden Church : 1
-Juliette Goglia : 1
-Lisa Kudrow : 1
-Penn Badgley : 1
-Malcolm McDowell : 1
-Fred Armisen : 1
+MOVIE :Kaubôi bibappu
+Kurt Russell : 2
+Byung-hun Lee : 1
+John Malkovich : 1
+Jong Kun Lee : 1
+Tim Pigott-Smith : 1
+Mitchell Mullen : 1
+Neal McDonough : 1
+Helen Mirren : 1
+Brian Cox : 1
+Catherine Zeta-Jones : 1
 ***********************
-MOVIE :Avengers: Infinity War
-Giovanni Ivan Scratuglia : 1
-Remo De Angelis : 1
-José Bódalo : 1
-Rafael Albaicín : 1
-Ángel Álvarez : 1
-Franco Nero : 1
-Gino Pernice : 1
-José Canalejas : 1
-Loredana Nusciak : 1
-Eduardo Fajardo : 1
+MOVIE :Something Like Summer
+Johnny Gibbon : 1
+Amanda Drew : 1
+Patrick Gibson : 1
+Alex Ferns : 1
+Brian Fletcher : 1
+Simon Kunz : 1
+Ben McGregor : 1
+Felix Auer : 1
+Charles Furness : 1
+Hubert Burton : 1
 ***********************
-MOVIE :The Human Centipede (First Sequence)
-Bryan Cranston : 2
-E.R. Ruiz : 1
-Keanu Reeves : 1
-Aye Hasegawa : 1
-Jayda Fink : 1
-Jim Carrey : 1
-Louie Lopez Jr. : 1
-Cory Roberts : 1
-Yolonda Ross : 1
-Joni Podesta : 1
+MOVIE :Son of the Mask
+Olivia Colman : 2
+Bobby Vinton : 1
+Ann-Margret : 1
+Christopher George : 1
+John Wayne : 1
+Ricardo Montalban : 1
+Rod Taylor : 1
+Ben Johnson : 1
+Jerry Gatlin : 1
+Maya Rudolph : 1
 ***********************
-MOVIE :The Green Inferno
-Paul Walker : 2
-Neal McDonough : 2
-Henry Fonda : 2
-Sean McNamara : 1
-Jen Taylor : 1
-Steve Downes : 1
-Luke Grimes : 1
-Callum Keith Rennie : 1
-Brant Daugherty : 1
-Max Martini : 1
+MOVIE :Chitty Chitty Bang Bang
+Tracie Thoms : 1
+Qing Xu : 1
+Pierce Gagnon : 1
+Nick Gomez : 1
+Piper Perabo : 1
+Bruce Willis : 1
+Jeff Daniels : 1
+Emily Blunt : 1
+Jon Eyez : 1
+Paul Dano : 1
 ***********************
-MOVIE :West Side Story
-Megan Smart : 1
-Margot Robbie : 1
-Damon Herriman : 1
-Andy Gathergood : 1
-Rose Byrne : 1
-Aimee Horne : 1
-Dalip Sondhi : 1
-Rupert Degas : 1
-Neveen Hanna : 1
-David Oyelowo : 1
+MOVIE :Camp
+Jamie Maclachlan : 1
+Sam Spruell : 1
+Billy Howle : 1
+Stephen Dillane : 1
+Chris Pine : 1
+Ben Clifford : 1
+Callan Mulvey : 1
+Jonny Phillips : 1
+Steven Cree : 1
+Tony Curran : 1
 ***********************
-MOVIE :Beetlejuice
-Tony Curran : 2
-Amy Cunningham : 1
-Harriet Leitch : 1
-Geneva Corlett : 1
-Juliet Glaves : 1
-Daniel Day-Lewis : 1
-Lesley Manville : 1
-Maryanne Frost : 1
-Julie Vollono : 1
-Sue Clark : 1
+MOVIE :Saw III
+Nathan Lane : 1
+Carmen Ejogo : 1
+Alessandro Nivola : 1
+Adrian Lester : 1
+Jimmy Yuill : 1
+Timothy Spall : 1
+Anthony O'Donnell : 1
+Geraldine McEwan : 1
+Natascha McElhone : 1
+Kenneth Branagh : 1
 ***********************
-MOVIE :P.S. I Love You
-Harry Lloyd : 2
-J.K. Simmons : 2
-Thomas Middleditch : 1
-Matt Ross : 1
-Zach Woods : 1
-Josh Brener : 1
-Martin Starr : 1
-Kumail Nanjiani : 1
-Jimmy O. Yang : 1
-Chris Diamantopoulos : 1
+MOVIE :Glengarry Glen Ross
+Pemba Sherpa : 1
+Charlotte Bøving : 1
+Thomas M. Wright : 1
+Tim Dantay : 1
+Ang Phula Sherpa : 1
+Jason Clarke : 1
+Michael Kelly : 1
+Tom Goodman-Hill : 1
+Chris Reilly : 1
+Todd Boyce : 1
 ***********************
-MOVIE :Earth Girls Are Easy
-Keanu Reeves : 1
-Thomas Sadoski : 1
-David Patrick Kelly : 1
-Common : 1
-Ian McShane : 1
-Tobias Segal : 1
-Ruby Rose : 1
-Claudia Gerini : 1
-Riccardo Scamarcio : 1
-Laurence Fishburne : 1
+MOVIE :Minuscule - Les mandibules du bout du monde
+Chris Pratt : 3
+BD Wong : 3
+Bryce Dallas Howard : 3
+Justice Smith : 2
+Omar Sy : 2
+Daniella Pineda : 2
+Isabella Sermon : 2
+Jake Johnson : 2
+Jeff Goldblum : 2
+Robert Downey Jr. : 1
 ***********************
-MOVIE :Kingsman: The Secret Service
-Julie Gonzalo : 1
-Kevin Kilner : 1
-Mary Pat Gleason : 1
-Whip Hubley : 1
-Hilary Duff : 1
-Madeline Zima : 1
-Chad Michael Murray : 1
-Jennifer Coolidge : 1
-Andrea Avery Ray : 1
-Paul Rodriguez : 1
-***********************
-MOVIE :Gunga Din
-Patrick Wilson : 2
-Vera Farmiga : 2
-Colin Firth : 1
-Lin-Manuel Miranda : 1
-Nathanael Saleh : 1
-Joel Dawson : 1
-Ben Whishaw : 1
-Julie Walters : 1
-Dick Van Dyke : 1
-Jeremy Swift : 1
-***********************
-MOVIE :A Confession
-Scott Patterson : 1
-Keiko Agena : 1
-Yanic Truesdale : 1
-Edward Herrmann : 1
-Alexis Bledel : 1
-Liz Torres : 1
-Sean Gunn : 1
-Kelly Bishop : 1
-Lauren Graham : 1
-Melissa McCarthy : 1
-***********************
-MOVIE :The Godfather
-Jeffrey Tambor : 2
-Richard Thomas : 1
-Mary Beth McDonough : 1
-Jon Walmsley : 1
-Kami Cotler : 1
-Ellen Corby : 1
-Ronnie Claire Edwards : 1
-Earl Hamner Jr. : 1
-Ralph Waite : 1
-Will Geer : 1
-***********************
-MOVIE :Ocean's Eight
-Logan Lerman : 1
-Brandon T. Jackson : 1
-Nathan Fillion : 1
-Katelyn Mager : 1
-Jake Abel : 1
-Anthony Head : 1
-Paloma Kwiatkowski : 1
-Alisha Newton : 1
-Samuel Braun : 1
-Connor Dunn : 1
-***********************
-MOVIE :Descendants
+MOVIE :Lucy in the Sky
 James Stewart : 2
-John Cleese : 2
-Katharine Hepburn : 1
-Cary Grant : 1
-John Halliday : 1
-Roland Young : 1
-Mary Nash : 1
-Virginia Weidler : 1
-Ruth Hussey : 1
-Rex Evans : 1
+George Kennedy : 1
+Andrew Prine : 1
+Clint Ritchie : 1
+Tom Heaton : 1
+Rudy Diaz : 1
+Guy Raymond : 1
+Perry Lopez : 1
+Harry Carey Jr. : 1
+Don 'Red' Barry : 1
 ***********************
-MOVIE :Teen Titans Go! To the Movies
-Tom Nardini : 1
-Jay C. Flippen : 1
-Michael Callan : 1
-Dwayne Hickman : 1
-Lee Marvin : 1
-Bruce Cabot : 1
-Arthur Hunnicutt : 1
-Paul Gilbert : 1
-Reginald Denny : 1
-Nat 'King' Cole : 1
+MOVIE :Conspiracy
+John Malkovich : 1
+Billy Blair : 1
+Tom Wopat : 1
+Wes Bentley : 1
+Megan Fox : 1
+Sean Boyd : 1
+Julia Jones : 1
+Michael Fassbender : 1
+Will Arnett : 1
+John Gallagher Jr. : 1
 ***********************
-MOVIE :Tropic Thunder
-Anthony Daniels : 1
-Des Webb : 1
-Jack Purvis : 1
-Kenny Baker : 1
-Alec Guinness : 1
-Jeremy Bulloch : 1
-Harrison Ford : 1
-Billy Dee Williams : 1
-John Hollis : 1
-Carrie Fisher : 1
+MOVIE :The Matrix Reloaded
+Suzy Parker : 1
+Sue England : 1
+Robert Flemyng : 1
+Ruta Lee : 1
+Alex Gerry : 1
+Michel Auclair : 1
+Virginia Gibson : 1
+Iphigenie Castiglioni : 1
+Fred Astaire : 1
+Jean Del Val : 1
+***********************
+MOVIE :American Mary
+W. Earl Brown : 1
+Kim Dickens : 1
+Jason Davis : 1
+William Sadler : 1
+David Born : 1
+Dean Denton : 1
+Kevin Costner : 1
+John Carroll Lynch : 1
+David Furr : 1
+Kaley Wheless : 1
+***********************
+MOVIE :The Wall
+Kelsey Grammer : 2
+J. Edward Bromberg : 1
+Chris-Pin Martin : 1
+Montagu Love : 1
+Janet Beecher : 1
+Frank Puglia : 1
+Gale Sondergaard : 1
+Basil Rathbone : 1
+George Regas : 1
+Eugene Borden : 1
+***********************
+MOVIE :Urban Cowboy
+Doria Tillier : 1
+Pierre Arditi : 1
+Bruno Raffaelli : 1
+Thomas Scimeca : 1
+Daniel Auteuil : 1
+Lizzie Brocheré : 1
+Christiane Millet : 1
+Cédric Zimmerlin : 1
+Fanny Ardant : 1
+Denis Podalydès : 1
+***********************
+MOVIE :Trolls
+Dee Bradley Baker : 2
+Jess Harnell : 2
+Jeffrey Tambor : 1
+Mary Elizabeth McGlynn : 1
+Diedrich Bader : 1
+Eden Espinosa : 1
+Laura Benanti : 1
+Julie Bowen : 1
+Kevin Michael Richardson : 1
+Mandy Moore : 1
+***********************
+MOVIE :Churchill
+David Arthur Sousa : 2
+Alfredo Varelli : 1
+John Saxon : 1
+Larry Hagman : 1
+Nino Castelnuovo : 1
+Rosanna Schiaffino : 1
+Brian Aherne : 1
+Hans von Borsody : 1
+Joachim Hansen : 1
+Peter Marshall : 1
+***********************
+MOVIE :Max
+Christopher Meloni : 2
+Stephanie Sechrist : 1
+Peter Sarsgaard : 1
+Jeannetta Arnette : 1
+Robert Prentiss : 1
+Cheyenne Rushing : 1
+Josh Ridgway : 1
+Chloë Sevigny : 1
+Rob Campbell : 1
+Alison Folland : 1
+***********************
+MOVIE :Bandidas
+Woody Harrelson : 2
+Haley Joel Osment : 1
+Jennifer Stone : 1
+Robert Duvall : 1
+Mitchel Musso : 1
+Adam Ozturk : 1
+Christian Kane : 1
+Josh Lucas : 1
+Kyra Sedgwick : 1
+Michael Caine : 1
+***********************
+MOVIE :De vrouw die gelyncht moest worden
+Laura Linney : 1
+Judy Clayton : 1
+Heidi Schanz : 1
+Jim Carrey : 1
+Noah Emmerich : 1
+Holland Taylor : 1
+Brian Delate : 1
+Natascha McElhone : 1
+Ron Taylor : 1
+Don Taylor : 1
+***********************
+MOVIE :Frozen II
+R. Michael Egan : 1
+Ariana Grande : 1
+Cameron Ocasio : 1
+Zoran Korach : 1
+Dre Swain : 1
+Jennette McCurdy : 1
+Maree Cheatham : 1
+Brandon Weaver : 1
+Dmitry Chepovetsky : 1
+Shelley Peterson : 1
+***********************
+MOVIE :Ice Age
+Alan Ladd : 2
+Michael Redgrave : 1
+Michael Bryant : 1
+Peter O'Toole : 1
+Siân Phillips : 1
+Elspeth March : 1
+Petula Clark : 1
+Jack Hedley : 1
+Michael Culver : 1
+Alison Leggatt : 1
+***********************
+MOVIE :Welcome to Marwen
+Abigail Breslin : 1
+John DeRosa : 1
+Nicole Marie Lenz : 1
+Evan Ellingson : 1
+Olivia Hancock : 1
+Jeffrey Markle : 1
+Marcos A. Ferraez : 1
+Jason Patric : 1
+Heather Wahlquist : 1
+Paul Butler : 1
+***********************
+MOVIE :The Witches of Eastwick
+Diana Bentley : 1
+Fiona Shaw : 1
+Olivia Luccardi : 1
+Luisa d'Oliveira : 1
+John Carroll Lynch : 1
+Luca Villacis : 1
+Seamus Patterson : 1
+Krisha Fairchild : 1
+Abigail Pniowsky : 1
+Maria Sten : 1
+***********************
+MOVIE :Au revoir les enfants
+Denver Pyle : 2
+James Stewart : 2
+Gilly Gilchrist : 1
+Jason Ryan : 1
+Christopher Fairbank : 1
+David Stoller : 1
+Paul Leonard Murray : 1
+Joe David Walters : 1
+Brian Vernel : 1
+Sladjana Biljman : 1
+***********************
+MOVIE :Como Caído Del Cielo
+Robert Elliott : 1
+Mary Doran : 1
+Florence Eldridge : 1
+Norma Shearer : 1
+Zelda Sears : 1
+George Irving : 1
+Helene Millard : 1
+Conrad Nagel : 1
+Tyler Brooke : 1
+Judith Wood : 1
+***********************
+MOVIE :Jeanne D'Arc
+Stephen Graham : 1
+Dave Davis : 1
+Lee Norris : 1
+Elisabeth Shue : 1
+Karl Glusman : 1
+Grayson Russell : 1
+Manuel Garcia-Rulfo : 1
+Devin Druid : 1
+Michael Benz : 1
+Maximilian Osinski : 1
+***********************
+MOVIE :Patch Adams
+Eddie Redmayne : 2
+Dan Fogler : 2
+Katherine Waterston : 2
+Ezra Miller : 2
+Gilles Quéant : 1
+Peter Ustinov : 1
+Marianne Walla : 1
+Alfred Schieske : 1
+Trevor Howard : 1
+Anna Neagle : 1
+***********************
+MOVIE :The Incredible Hulk
+Rachel Nichols : 1
+Victor Webster : 1
+Stephen Lobo : 1
+Luvia Petersen : 1
+Ian Tracey : 1
+Brian Markinson : 1
+Omari Newton : 1
+Richard Harmon : 1
+Lexa Doig : 1
+Terry Chen : 1
+***********************
+MOVIE :How I Met Your Mother
+Noriko Sakura : 1
+Gen Seto : 1
+Nadja Mazalica : 1
+Stephanie Vogt : 1
+Yûho Yamashita : 1
+Terry Diab : 1
+Osamu Tanpopo : 1
+Akiko Iwase : 1
+Ibuki Kaneda : 1
+Taylor Kinney : 1
+***********************
+MOVIE :Sixteen Candles
+John Wayne : 2
+Dominique Daguier : 1
+Clotilde Mollet : 1
+Alba Gaïa Bellugi : 1
+Christian Ameri : 1
+Omar Sy : 1
+François Caron : 1
+François Cluzet : 1
+Salimata Kamate : 1
+Absa Diatou Toure : 1
+***********************
+MOVIE :Gilmore Girls: A Year in the Life
+William Dear : 1
+Fred Ward : 1
+Jonathan Bahnks : 1
+L.Q. Jones : 1
+Susan Dear : 1
+Belinda Bauer : 1
+Macon McCalman : 1
+Ben Zeller : 1
+Chris Mulkey : 1
+Peter Coyote : 1
+***********************
+MOVIE :Rise of the Guardians
+Johnny Lever : 1
+Hrithik Roshan : 1
+Alok Nath : 1
+Kajol : 1
+Rani Mukerji : 1
+Achala Sachdev : 1
+Jibraan Khan : 1
+Sushma Seth : 1
+Himani Shivpuri : 1
+Kareena Kapoor : 1
+***********************
+MOVIE :The Lovebirds
+Mason Gooding : 1
+Thamys Bertoldi : 1
+Wes Brown : 1
+Bradley Whitford : 1
+Jean Louisa Kelly : 1
+Omar Sy : 1
+Terry Notary : 1
+Preston Bailey : 1
+Stephanie Czajkowski : 1
+Alex Solowitz : 1
+***********************
+MOVIE :Queen
+Joan Cusack : 1
+Jim Varney : 1
+Tim Allen : 1
+Laurie Metcalf : 1
+Wallace Shawn : 1
+Tom Hanks : 1
+John Ratzenberger : 1
+John Morris : 1
+Annie Potts : 1
+R. Lee Ermey : 1
+***********************
+MOVIE :Black Robe
+Josiah Page : 1
+Rocky McKenzie : 1
+Magda Szubanski : 1
+Deborah Mailman : 1
+Dan Sultan : 1
+Missy Higgins : 1
+Geoffrey Rush : 1
+Stephen B'Aamba Albert : 1
+Ernie Dingo : 1
+Tom Budge : 1

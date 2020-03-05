@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :Onward
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
+MOVIE :The Amazing World of Gumball
+CLUSTER :3
+Jim Carrey : 5
+Patrick Warburton : 5
+Peyton List : 5
+Tara Strong : 5
+Rose Byrne : 4
+Chloë Grace Moretz : 4
+Kate Micucci : 4
+Steve Zahn : 4
+Robert Capron : 4
+Grey Griffin : 4
 ***********************
-MOVIE :Little Shop of Horrors
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :Avatar: The Last Airbender
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Wonder Park
-CLUSTER :10
-Cate Blanchett : 4
-Riley Keough : 4
-George MacKay : 4
-Jude Law : 3
-Jason Schwartzman : 3
-Sam Rockwell : 3
-Terry Crews : 3
-Leonardo DiCaprio : 3
-Keanu Reeves : 3
-Ian McShane : 3
-***********************
-MOVIE :Dr. No
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :A Simple Favor
-CLUSTER :4
-Alan Tudyk : 4
-Josh Gad : 4
-Michael Keaton : 4
-Kristen Bell : 3
-Adam Driver : 3
-Scarlett Johansson : 3
-Ben Whishaw : 2
-Naomie Harris : 2
-Alfred Molina : 2
-Sterling K. Brown : 2
-***********************
-MOVIE :Hereditary
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :Wynonna Earp
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Star Trek: Voyager
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Project T
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Oordeel te Neurenberg
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Daredevil
-CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
-***********************
-MOVIE :The Ridiculous 6
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :The English Patient
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Chicago
-CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
-***********************
-MOVIE :Texas Rising
-CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
-***********************
-MOVIE :Underworld: Blood Wars
+MOVIE :Kaubôi bibappu
 CLUSTER :8
-Vin Diesel : 4
-Gal Gadot : 4
-Michelle Rodriguez : 3
-Jordana Brewster : 3
-Sung Kang : 2
-Michael Rooker : 2
-Charlize Theron : 2
-John Cena : 2
-Kristen Wiig : 2
-Doug Jones : 2
-***********************
-MOVIE :Official Secrets
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
+Sigourney Weaver : 9
+Patrick Stewart : 8
+Zoe Saldana : 8
+Simon Pegg : 8
 Laurence Fishburne : 8
+Dee Bradley Baker : 8
+Halle Berry : 7
+Samuel L. Jackson : 7
 Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
+Idris Elba : 7
+***********************
+MOVIE :Something Like Summer
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Son of the Mask
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Chitty Chitty Bang Bang
+CLUSTER :10
+Christopher Plummer : 9
+Mel Gibson : 6
 Harrison Ford : 6
-Paul Bettany : 6
+John Wayne : 6
+Trevor Howard : 6
+Donald Sutherland : 5
+Michael Caine : 5
+Stanley Tucci : 4
+Stephen Lang : 4
+Elizabeth Banks : 4
 ***********************
-MOVIE :The Texican
-CLUSTER :5
-Woody Harrelson : 4
-Orlando Bloom : 3
-Jesse Eisenberg : 3
-Emma Stone : 3
-Laurie Metcalf : 3
-Walton Goggins : 3
-Joan Cusack : 3
-Benedict Wong : 3
-Ezra Miller : 3
-Chiwetel Ejiofor : 3
+MOVIE :Camp
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
 ***********************
-MOVIE :Heaven's Gate
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
+MOVIE :Saw III
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Glengarry Glen Ross
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Minuscule - Les mandibules du bout du monde
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Lucy in the Sky
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Conspiracy
+CLUSTER :10
+Christopher Plummer : 9
+Mel Gibson : 6
+Harrison Ford : 6
+John Wayne : 6
+Trevor Howard : 6
+Donald Sutherland : 5
+Michael Caine : 5
+Stanley Tucci : 4
+Stephen Lang : 4
+Elizabeth Banks : 4
+***********************
+MOVIE :The Matrix Reloaded
+CLUSTER :8
+Sigourney Weaver : 9
+Patrick Stewart : 8
+Zoe Saldana : 8
+Simon Pegg : 8
 Laurence Fishburne : 8
+Dee Bradley Baker : 8
+Halle Berry : 7
+Samuel L. Jackson : 7
 Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
+Idris Elba : 7
 ***********************
-MOVIE :The Babysitter
+MOVIE :American Mary
 CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
+Robert De Niro : 8
+Al Pacino : 6
+Scarlett Johansson : 5
+Sam Rockwell : 5
+Angelina Jolie : 5
+Adam Sandler : 5
+Donald Sutherland : 5
+J.K. Simmons : 5
+James Hong : 5
+Keanu Reeves : 5
 ***********************
-MOVIE :Avengers: Infinity War
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :The Human Centipede (First Sequence)
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :The Green Inferno
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :West Side Story
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :Beetlejuice
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :P.S. I Love You
+MOVIE :The Wall
 CLUSTER :6
-Leonardo DiCaprio : 3
-Kang-ho Song : 3
-Woody Harrelson : 3
-Mario Brega : 3
-James Remar : 3
-Wesley Snipes : 3
-Mary Elizabeth Winstead : 2
-David Hemmings : 2
-Russell Crowe : 2
-Richard Harris : 2
+Tom Hanks : 7
+Jim Cummings : 7
+Michael Peña : 7
+Woody Harrelson : 7
+Nicolas Cage : 7
+Joan Cusack : 6
+Mark Strong : 6
+Julianne Moore : 6
+Robert De Niro : 6
+Mark Wahlberg : 6
 ***********************
-MOVIE :Earth Girls Are Easy
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
+MOVIE :Urban Cowboy
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Trolls
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Churchill
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Max
+CLUSTER :10
+Christopher Plummer : 9
+Mel Gibson : 6
 Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Kingsman: The Secret Service
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
 John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
+Trevor Howard : 6
+Donald Sutherland : 5
+Michael Caine : 5
+Stanley Tucci : 4
+Stephen Lang : 4
+Elizabeth Banks : 4
 ***********************
-MOVIE :Gunga Din
+MOVIE :Bandidas
 CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
+John Wayne : 18
+Jack Elam : 16
+James Stewart : 14
+Kirk Douglas : 13
+Lee Van Cleef : 12
+Harry Carey Jr. : 12
+Henry Fonda : 11
+Randolph Scott : 10
+Ben Johnson : 10
+Charles Bronson : 9
 ***********************
-MOVIE :A Confession
+MOVIE :De vrouw die gelyncht moest worden
+CLUSTER :9
+John Wayne : 18
+Jack Elam : 16
+James Stewart : 14
+Kirk Douglas : 13
+Lee Van Cleef : 12
+Harry Carey Jr. : 12
+Henry Fonda : 11
+Randolph Scott : 10
+Ben Johnson : 10
+Charles Bronson : 9
+***********************
+MOVIE :Frozen II
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Ice Age
+CLUSTER :8
+Sigourney Weaver : 9
+Patrick Stewart : 8
+Zoe Saldana : 8
+Simon Pegg : 8
+Laurence Fishburne : 8
+Dee Bradley Baker : 8
+Halle Berry : 7
+Samuel L. Jackson : 7
+Will Smith : 7
+Idris Elba : 7
+***********************
+MOVIE :Welcome to Marwen
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :The Witches of Eastwick
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Au revoir les enfants
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Como Caído Del Cielo
+CLUSTER :5
+Ryan Reynolds : 5
+Gary Oldman : 5
+Adam Sandler : 5
+Antonio Banderas : 5
+Jonah Hill : 4
+Theo James : 4
+Colin Farrell : 4
+Willem Dafoe : 4
+John Malkovich : 4
+Samuel L. Jackson : 4
+***********************
+MOVIE :Jeanne D'Arc
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :Patch Adams
 CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
+Robert De Niro : 8
+Al Pacino : 6
+Scarlett Johansson : 5
+Sam Rockwell : 5
+Angelina Jolie : 5
+Adam Sandler : 5
+Donald Sutherland : 5
+J.K. Simmons : 5
+James Hong : 5
+Keanu Reeves : 5
 ***********************
-MOVIE :The Godfather
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
+MOVIE :The Incredible Hulk
+CLUSTER :10
+Christopher Plummer : 9
+Mel Gibson : 6
 Harrison Ford : 6
-Paul Bettany : 6
-***********************
-MOVIE :Ocean's Eight
-CLUSTER :7
-Brad Pitt : 4
-Alan Arkin : 4
-Noah Centineo : 4
-Elizabeth McGovern : 4
-Timothy Olyphant : 3
-Emilija Baranac : 3
-Madeleine Arthur : 3
-Janel Parrish : 3
-Lana Condor : 3
-Gary Oldman : 3
-***********************
-MOVIE :Descendants
-CLUSTER :0
-Daniel Radcliffe : 5
-John Goodman : 5
-Harry Melling : 4
-Richard Griffiths : 4
-Fiona Shaw : 4
-Emma Watson : 4
-Helena Bonham Carter : 4
-Rupert Grint : 4
-Julie Walters : 4
-Meryl Streep : 4
-***********************
-MOVIE :Teen Titans Go! To the Movies
-CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
 John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
+Trevor Howard : 6
+Donald Sutherland : 5
+Michael Caine : 5
+Stanley Tucci : 4
+Stephen Lang : 4
+Elizabeth Banks : 4
 ***********************
-MOVIE :Tropic Thunder
+MOVIE :How I Met Your Mother
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Sixteen Candles
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Gilmore Girls: A Year in the Life
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Rise of the Guardians
+CLUSTER :1
+Jim Cummings : 9
+John Cleese : 9
+Sandra Bullock : 8
+Cameron Diaz : 7
+Jeff Bennett : 7
+Frank Welker : 7
+Tress MacNeille : 7
+Eddie Murphy : 6
+Bruce Greenwood : 6
+Mike Myers : 5
+***********************
+MOVIE :The Lovebirds
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Queen
+CLUSTER :11
+Paul Rudd : 9
+Adam Sandler : 9
+Judy Garland : 8
+Elvis Presley : 8
+Cate Blanchett : 7
+Anne Hathaway : 7
+Reese Witherspoon : 7
+Leslie Mann : 7
+Jason Segel : 7
+Jonah Hill : 7
+***********************
+MOVIE :Black Robe
 CLUSTER :9
-Samuel L. Jackson : 10
-Robert Downey Jr. : 8
-Laurence Fishburne : 8
-Will Smith : 7
-Scarlett Johansson : 6
-Jon Favreau : 6
-Clark Gregg : 6
-John Wayne : 6
-Harrison Ford : 6
-Paul Bettany : 6
+John Wayne : 18
+Jack Elam : 16
+James Stewart : 14
+Kirk Douglas : 13
+Lee Van Cleef : 12
+Harry Carey Jr. : 12
+Henry Fonda : 11
+Randolph Scott : 10
+Ben Johnson : 10
+Charles Bronson : 9

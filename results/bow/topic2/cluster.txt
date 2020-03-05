@@ -1,469 +1,469 @@
 Experiment cluster 
 ***********************
-MOVIE :Onward
+MOVIE :The Amazing World of Gumball
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Kaubôi bibappu
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
 ***********************
-MOVIE :Little Shop of Horrors
+MOVIE :Something Like Summer
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Avatar: The Last Airbender
+MOVIE :Son of the Mask
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Chitty Chitty Bang Bang
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Camp
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Saw III
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Glengarry Glen Ross
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Minuscule - Les mandibules du bout du monde
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Lucy in the Sky
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Conspiracy
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
 ***********************
-MOVIE :Wonder Park
-CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
-***********************
-MOVIE :Dr. No
-CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
-***********************
-MOVIE :A Simple Favor
-CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
-***********************
-MOVIE :Hereditary
-CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
-***********************
-MOVIE :Wynonna Earp
-CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
-***********************
-MOVIE :Star Trek: Voyager
+MOVIE :The Matrix Reloaded
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
 ***********************
-MOVIE :Project T
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :Oordeel te Neurenberg
+MOVIE :American Mary
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Daredevil
+MOVIE :The Wall
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
 ***********************
-MOVIE :The Ridiculous 6
+MOVIE :Urban Cowboy
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :The English Patient
+MOVIE :Trolls
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
 ***********************
-MOVIE :Chicago
+MOVIE :Churchill
+CLUSTER :0
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
+***********************
+MOVIE :Max
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Texas Rising
+MOVIE :Bandidas
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Underworld: Blood Wars
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :Official Secrets
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :The Texican
+MOVIE :De vrouw die gelyncht moest worden
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Heaven's Gate
+MOVIE :Frozen II
+CLUSTER :0
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
+***********************
+MOVIE :Ice Age
+CLUSTER :0
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
+***********************
+MOVIE :Welcome to Marwen
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :The Babysitter
+MOVIE :The Witches of Eastwick
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Avengers: Infinity War
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :The Human Centipede (First Sequence)
+MOVIE :Au revoir les enfants
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :The Green Inferno
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :West Side Story
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :Beetlejuice
+MOVIE :Como Caído Del Cielo
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :P.S. I Love You
+MOVIE :Jeanne D'Arc
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Earth Girls Are Easy
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :Kingsman: The Secret Service
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :Gunga Din
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
-***********************
-MOVIE :A Confession
+MOVIE :Patch Adams
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :The Godfather
+MOVIE :The Incredible Hulk
+CLUSTER :0
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
+***********************
+MOVIE :How I Met Your Mother
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Ocean's Eight
+MOVIE :Sixteen Candles
 CLUSTER :1
-Brad Pitt : 9
-Anne Hathaway : 9
-Daniel Radcliffe : 8
-Leonardo DiCaprio : 8
-Timothy Olyphant : 8
-Nick Offerman : 8
-Christopher Walken : 8
-Shea Whigham : 8
-Robert De Niro : 8
-John Wayne : 8
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Descendants
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+MOVIE :Gilmore Girls: A Year in the Life
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Teen Titans Go! To the Movies
-CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+MOVIE :Rise of the Guardians
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
 ***********************
-MOVIE :Tropic Thunder
+MOVIE :The Lovebirds
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Queen
+CLUSTER :1
+John Wayne : 23
+Steve Buscemi : 22
+Robert De Niro : 22
+Jack Elam : 21
+James Stewart : 20
+Adam Sandler : 19
+Woody Harrelson : 17
+Robert Duvall : 17
+Elvis Presley : 17
+Brad Pitt : 16
+***********************
+MOVIE :Black Robe
 CLUSTER :0
-Samuel L. Jackson : 14
-Alan Tudyk : 11
-Laurence Fishburne : 11
-Scarlett Johansson : 10
-Johnny Depp : 10
-Djimon Hounsou : 9
-Idris Elba : 9
-Sigourney Weaver : 9
-John Wayne : 9
-Tom Hanks : 8
+Jim Cummings : 24
+Frank Welker : 20
+Patrick Stewart : 20
+Samuel L. Jackson : 19
+Laurence Fishburne : 19
+Michael Caine : 18
+Christopher Plummer : 18
+Ralph Fiennes : 17
+Dwayne Johnson : 17
+Willem Dafoe : 17
