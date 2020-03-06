@@ -1,469 +1,7923 @@
 Experiment cluster 
 ***********************
-MOVIE :The Amazing World of Gumball
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Kaubôi bibappu
+MOVIE :The Croods
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Balkanskiy rubezh
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
 Dwayne Johnson : 17
-Willem Dafoe : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
-MOVIE :Something Like Summer
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Son of the Mask
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Chitty Chitty Bang Bang
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Camp
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Saw III
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Glengarry Glen Ross
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Minuscule - Les mandibules du bout du monde
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Lucy in the Sky
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Conspiracy
+MOVIE :Zone Blanche
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :The Matrix Reloaded
+MOVIE :The Dark Crystal
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Eight Crazy Nights
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
-***********************
-MOVIE :American Mary
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
+Harry Carey Jr. : 19
 Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :The Wall
+MOVIE :Gedo senki
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
-***********************
-MOVIE :Urban Cowboy
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
+Harry Carey Jr. : 19
 Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :Trolls
+MOVIE :Last Tango in Paris
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :Churchill
+MOVIE :Sharp Objects
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Black Clover
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Fifty Shades of Grey
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :One Punch Man: Wanpanman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
 Dwayne Johnson : 17
-Willem Dafoe : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
-MOVIE :Max
+MOVIE :Zathura: A Space Adventure
 CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
-MOVIE :Bandidas
+MOVIE :ALF
 CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
-MOVIE :De vrouw die gelyncht moest worden
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
+MOVIE :A Good Year
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
 Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Unfaithful
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :G.I. Blues
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Reader
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Vamos a matar, compañeros
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Taking Lives
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Bad Times at the El Royale
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :M - Eine Stadt sucht einen Mörder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Us
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Nerve
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Grudge
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :London Has Fallen
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :High Ground
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Russian Doll
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :My Little Pony: Equestria Girls - Legend of Everfree
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Insidious: The Last Key
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Interstellar
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Man in the Wilderness
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Son
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Baby-Sitters Club
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Yankee Doodle Dandy
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Silent Tongue
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Teen Beach 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Infinite
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Strangers
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Bugsy Malone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Thoroughly Modern Millie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dumplin'
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Battle of Passchendaele
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Aquaman 2
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Ant-Man
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Boys
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Hunt for Red October
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Wings
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Hollow Man
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Thunderball
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Justice League Part Two
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Couples Retreat
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :De dictator
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Scooby-Doo 2: Monsters Unleashed
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :High School Musical: The Musical - The Series
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Thin Red Line
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Joan of Arc
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Ruling Class
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :St. Elmo's Fire
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Someone Great
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Gran Hotel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Apple Dumpling Gang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Scream 2
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Darkest Minds
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Gamgi
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Willow
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Coming Home
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Résistance
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Fury
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Batman: Arkham Knight
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Penny Dreadful: City of Angels
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Hitch
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dora the Explorer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Politician
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Librarians
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Dark
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Kiseijû: Sei no kakuritsu
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Unicorn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Pirates of the Caribbean: Dead Man's Chest
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Harry Potter and the Goblet of Fire
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Last House on the Left
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Devil
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
 MOVIE :Frozen II
-CLUSTER :0
-Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
 Dwayne Johnson : 17
-Willem Dafoe : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
 ***********************
-MOVIE :Ice Age
+MOVIE :Leprechaun
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
-***********************
-MOVIE :Welcome to Marwen
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
+Harry Carey Jr. : 19
 Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :The Witches of Eastwick
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Au revoir les enfants
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Como Caído Del Cielo
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Jeanne D'Arc
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Patch Adams
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :The Incredible Hulk
+MOVIE :Rio Conchos
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
-Dwayne Johnson : 17
-Willem Dafoe : 17
-***********************
-MOVIE :How I Met Your Mother
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
+Harry Carey Jr. : 19
 Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
 ***********************
-MOVIE :Sixteen Candles
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Gilmore Girls: A Year in the Life
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Rise of the Guardians
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :The Lovebirds
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Queen
-CLUSTER :1
-John Wayne : 23
-Steve Buscemi : 22
-Robert De Niro : 22
-Jack Elam : 21
-James Stewart : 20
-Adam Sandler : 19
-Woody Harrelson : 17
-Robert Duvall : 17
-Elvis Presley : 17
-Brad Pitt : 16
-***********************
-MOVIE :Black Robe
+MOVIE :New York Minute
 CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
 Jim Cummings : 24
-Frank Welker : 20
-Patrick Stewart : 20
-Samuel L. Jackson : 19
-Laurence Fishburne : 19
-Michael Caine : 18
-Christopher Plummer : 18
-Ralph Fiennes : 17
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Helen of Troy
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Haute tension
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
 Dwayne Johnson : 17
-Willem Dafoe : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :State Fair
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Lone Ranger
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :La influencia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :John Wick: Chapter 4
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Haunting
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Hamburger Hill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Cinderella 2000
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Band of Brothers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Do-Over
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Ice Age: Collision Course
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Lighthouse
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Intern
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Pulp Fiction
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Morgan
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Max en de maximonsters
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Working Girl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Malcolm X
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Good Luck Chuck
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Carrie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Eden Lake
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :True Lies
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Curious Case of Benjamin Button
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mutiny on the Bounty
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Power Rangers Beast Morphers
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Lili
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mortal Kombat: Annihilation
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Terminator: Dark Fate
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Absentia
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Splice
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Hoo-goong: Je-wang-eui cheob
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Jagga Jasoos
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Patriot Games
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Event Horizon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Salinui chueok
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Ruin
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Santa Fe Marshal
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Rider
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Tears of the Sun
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Force 10 from Navarone
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Town
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Eureka
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :SpaceCamp
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Basmati Blues
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Young Sheldon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Thirteenth Year
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Crying Game
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :De ondraaglijke lichtheid van het bestaan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Levend of dood
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Feng huo fang fei
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Deception
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Rare Breed
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Poltergeist
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Big Kill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Swiss Army Man
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Booksmart
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sorry to Bother You
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Diary of a Wimpy Kid
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Bleach: Burîchi
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Nun
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Killing Me Softly
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :De Wilde Ganzen
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Edge of Seventeen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Gears 5
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :10 Cloverfield Lane
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Zoo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Flight of the Navigator
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Doubt
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Breaking Glass
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :My Bodyguard
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Apocalypse Now
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Noah
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Spaceballs
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Far Horizons
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Inside Out
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :As Above, So Below
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Transformers
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Henry Danger
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Bestemming Tokio
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Pirate Movie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Phantom Thread
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Een uilskuiken trekt ten oorlog
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Captain America: Civil War
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Amazing Spider-Man 2
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Diagnosis Murder
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Thing
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Zulu
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Wild Bill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Victor Frankenstein
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Possession
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Gone in Sixty Seconds
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Much Ado About Nothing
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Wild Boys
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Plainsman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sense8
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Merry Widow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :1944
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Flintstones in Viva Rock Vegas
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Back to the Beach
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Craft
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Spider-Man
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Devil's Disciple
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Babysitter
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Hereditary
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Return of the Texas Chainsaw Massacre
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Fantastic Mr. Fox
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Artificial Intelligence: AI
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Yes Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mary Poppins
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Toy Story 3
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Heroes of Telemark
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Man from Snowy River
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Eter
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Beyond Skyline
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Remains of the Day
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :School Daze
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Iron Will
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Glass
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Kenny Rogers as The Gambler
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :A Cure for Wellness
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :I Could Go on Singing
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sharknado
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Jarhead 3: The Siege
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Paddington 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Barquero
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Revengers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Percy Jackson: Sea of Monsters
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :In het voetspoor van Django
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dragonball Evolution
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :White Christmas
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Reno 911!
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Flash Gordon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Deathwatch
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Batwoman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :A Soldier's Story
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Monster House
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Everything's Gonna Be Okay
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Texican
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mientras dure la guerra
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :De prinses uit de onderwereld
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Mayhem
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Pride and Prejudice
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :North to Alaska
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :My Life Is Murder
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Wild Horses
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Rise of Empires: Ottoman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Man in the Gray Flannel Suit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Kundun
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Tombstone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Bad Boys II
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Yellow Sky
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Homefront
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Mr. & Mrs. Smith
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Argo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Rachel Getting Married
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Seventh Son
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :De man met het geweer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :City of Lies
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Call of Duty: Infinite Warfare
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The NeverEnding Story
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :After
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Missing in Action
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Spectral
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Mikado
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Ayla: The Daughter of War
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Bodyguard
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Journey 2: The Mysterious Island
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Jungle
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sophie Scholl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Liv and Maddie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dead Birds
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Gevaarlijk spel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Under the Shadow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Meet the Parents
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Guy and Madeline on a Park Bench
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mohabbatein
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Loving Vincent
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Healer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :St. Trinian's
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sam & Cat
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Good, the Bad and the Dead
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Neon Demon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Home Alone 3
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :La haine
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Harry Potter and the Order of the Phoenix
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Loving You
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Damages
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Omar Mukhtar: Lion of the Desert
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Unsere Mütter, unsere Väter
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Riphagen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Uncle Buck
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :This Means War
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Me and Earl and the Dying Girl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Powerpuff Girls
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dawn of the Dead
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Liu lang di qiu
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Michael Collins
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :North and South, Book II
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Bean
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Katy Keene
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Blackthorn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Montana Sky
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :I Love You, Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Hang 'Em High
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Black Panther
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Road to Bali
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Theory of Everything
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Osmosis Jones
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Hell in the Pacific
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Firm
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :La migliore offerta
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sleepwalkers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sahara
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Texas Rising
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Minority Report
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Het commando der wrake
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Three Stooges
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Timerider: The Adventure of Lyle Swann
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Munsters
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :CSI: Miami
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Flight 7500
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Last Hard Men
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Final Destination
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Snow Day
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Schat in het zilvermeer
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Lie with Me
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Karmouz War
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Taza, Son of Cochise
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Wonderland
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dredd
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Contact
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Tucker and Dale vs Evil
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Mystic River
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Annie Hall
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Awkwafina Is Nora from Queens
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :State of Play
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Call of Duty: WWII
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Suspiria
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Imaginarium of Doctor Parnassus
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Blue Lagoon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Crossfire Trail
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :1776
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mission: Impossible II
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Unfriended: Dark Web
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Escort
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :La llorona
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Drive
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Disaster Movie
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :BlacKkKlansman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Signs
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Conjuring 2
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Lust in the Dust
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Shubh Mangal Saavdhan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :When Harry Met Sally...
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Lincoln Lawyer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Lifeforce
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Let It Snow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Patriot
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Eragon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Savages
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Brooklyn Nine-Nine
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Chronicles of Narnia: Prince Caspian
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Young Guns
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dumbo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Spy Kids 4: All the Time in the World
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Les parapluies de Cherbourg
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Call of the Wild
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Armageddon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Spectros
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :I Know What You Did Last Summer
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :1941
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Cosby Show
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Sense and Sensibility
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :S.W.A.T.
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :How the West Was Won
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Rio Lobo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Land Before Time III: The Time of the Great Giving
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Where Eagles Dare
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Valerian and the City of a Thousand Planets
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Josh
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Charlotte Gray
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Nightbreed
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Woman in the Window
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Cabin Fever
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Forbidden Planet
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Max
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Kingdom Hearts III
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Good Trouble
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Nutcracker in 3D
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :A Single Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Crawl
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :He's Out There
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Annabelle Comes Home
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Wraith
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Green Acres
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Doom Asylum
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Jojo Rabbit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Bad Batch
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :War and Remembrance
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Skyscraper
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :7 Men from Now
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Little Prince
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Polar
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Snowpiercer
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Broken Arrow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Chronicles of Narnia: The Voyage of the Dawn Treader
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Epic
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Doom: Annihilation
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Favourite
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Sons of Katie Elder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Hatchet
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Lawman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mimic
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Elvira: Mistress of the Dark
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Nosferatu
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Fiddler on the Roof
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Jason Bourne
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Cloverfield Paradox
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :X-Men: First Class
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :True Romance
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Richard III
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Dark Skies
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Verraderlijker dan een slang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mortal Engines
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Mannequin
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :From Dusk Till Dawn
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Jauja
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Corpse Bride
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Terrifier
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Widows
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Lock, Stock and Two Smoking Barrels
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Last Man Standing
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Cuba
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Teenage Mutant Ninja Turtles: Out of the Shadows
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Against the Wind
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Toruk: The First Flight
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Frighteners
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Resident Evil
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Green Inferno
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Cargo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Aeronauts
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Bring Me the Head of Alfredo Garcia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :De ongelooflijke overwinning
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :A Dog's Purpose
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Flipped
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Young Billy Young
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Eagle Eye
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Magnum Force
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Peggy Sue Got Married
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Indecent Proposal
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Free State of Jones
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Man from Earth
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Lady Bird
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Les yeux sans visage
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Bronson
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Iron Eagle
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Spider-Man: Far from Home
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Jurassic World: Fallen Kingdom
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Pat Garrett & Billy the Kid
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Traffic
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Stage Fright
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Mother India
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Misfits
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Grand Hotel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Wu Assassins
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Visit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Muppets' Wizard of Oz
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Countdown
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :War of the Worlds
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :Mr. Jones
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :A Nightmare on Elm Street
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Princess Bride
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Peter Pan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Escape to Witch Mountain
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :American Hustle
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Hilda
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :The Bye Bye Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16
+***********************
+MOVIE :Red Dragon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 20
+Idris Elba : 18
+Dwayne Johnson : 17
+Gary Oldman : 17
+Ryan Reynolds : 17
+Morgan Freeman : 17
+Willem Dafoe : 16
+Woody Harrelson : 16
+Michael Caine : 16
+Nicolas Cage : 16
+***********************
+MOVIE :The Last Samurai
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 29
+Jim Cummings : 24
+Harry Carey Jr. : 19
+Adam Sandler : 19
+James Stewart : 19
+Jack Elam : 19
+Jeff Bennett : 17
+Christopher Plummer : 17
+Frank Welker : 16
+Steve Buscemi : 16

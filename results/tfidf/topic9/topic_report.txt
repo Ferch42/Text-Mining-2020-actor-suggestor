@@ -1,13 +1,44 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['find', 'family', 'take', 'kill', 'father', 'tell', 'go', 'life', 'back', 'house', 'new', 'friend', 'return', 'home', 'man', 'later', 'get', 'town', 'year', 'escape']
+MOST IMPORTANT WORDS: ['kay', 'patty', 'josie', 'batman', 'kang', 'schmidt', 'banning', 'mei', 'te', 'aang', 'susie', 'dormer', 'mcquade', 'snake', 'origin', 'serf', 'character', 'eye', 'story', 'tae']
 MOVIES OF THIS TOPIC: 
-War of the Worlds
+Snake Eyes
+---------------- 
+TOPIC : 1
+MOST IMPORTANT WORDS: ['jin', 'kira', 'kiki', 'lara', 'curly', 'mo', 'seymour', 'joon', 'ah', 'redfly', 'jung', 'gaunt', 'tae', 'longo', 'dae', 'forrest', 'flash', 'screen', 'seok', 'message']
+MOVIES OF THIS TOPIC: 
+Extreme Prejudice
+---------------- 
+TOPIC : 2
+MOST IMPORTANT WORDS: ['gru', 'tod', 'shen', 'rasputin', 'laney', 'donnie', 'copper', 'wheelchair', 'coraline', 'keeping', 'teenager', 'dark', 'suspect', 'begin', 'secret', 'carnival', 'whatever', 'us', 'exists', 'row']
+MOVIES OF THIS TOPIC: 
+Dave
+Run
+The Row
+Boudica
+Carnival Row
+Seberg
+---------------- 
+TOPIC : 3
+MOST IMPORTANT WORDS: ['foley', 'greta', 'brahms', 'maleficent', 'blair', 'rapunzel', 'yang', 'polly', 'juno', 'allie', 'zeke', 'holmes', 'quasimodo', 'wesley', 'perseus', 'kai', 'zheng', 'ying', 'xin', 'season']
+MOVIES OF THIS TOPIC: 
+Enola Holmes
+Bosch
+---------------- 
+TOPIC : 4
+MOST IMPORTANT WORDS: ['andie', 'dolittle', 'alamein', 'kimmy', 'milly', 'stefan', 'giselle', 'chang', 'edmond', 'jw', 'prince', 'julianne', 'tae', 'awaits', 'exhausted', 'disaster', 'ambitious', 'era', 'orphan', 'granted']
+MOVIES OF THIS TOPIC: 
+Cinderella
+Churchill
+The Magicians
+---------------- 
+TOPIC : 5
+MOST IMPORTANT WORDS: ['find', 'family', 'take', 'kill', 'father', 'life', 'tell', 'new', 'back', 'friend', 'go', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'child', 'time']
+MOVIES OF THIS TOPIC: 
 Harry Potter and the Deathly Hallows: Part 1
 The Stand
 Van Helsing
-Toy Story 3
 Charlie's Angels
 A Knight's Tale
 Tomb Raider
@@ -23,10 +54,8 @@ Transformers: The Last Knight
 Godzilla
 The Mummy
 Apocalypto
-Noah
 JoJo no kimyô-na bôken
 Adventure Time with Finn & Jake
-Mortal Engines
 Star Wars: Episode II - Attack of the Clones
 Incredibles 2
 National Lampoon's Vacation
@@ -40,7 +69,6 @@ Monsters, Inc.
 The Book of Eli
 Frontier
 Indiana Jones and the Temple of Doom
-Snake Eyes
 Mortal Kombat
 Iron Man Three
 Waterworld
@@ -79,7 +107,6 @@ Dante's Peak
 The Rocketeer
 Shichinin no samurai
 Kong: Skull Island
-Ant-Man
 Warcraft: The Beginning
 A Bug's Life
 Power Rangers
@@ -90,7 +117,6 @@ Alice in Wonderland
 Iron Man 2
 X-Men Origins: Wolverine
 From Russia with Love
-Eureka
 Fantastic Four
 Isle of Dogs
 De Lego Film 2
@@ -103,18 +129,14 @@ Die Another Day
 Hauru no ugoku shiro
 Fast & Furious 5
 Clash of the Titans
-X-Men: First Class
 The Secret Life of Pets
-The NeverEnding Story
 Masters of the Universe
-Pirates of the Caribbean: Dead Man's Chest
 Escape from New York
 Stargirl
 Assassin's Creed
 Thor: The Dark World
 The Hunger Games: Catching Fire
 The Chronicles of Riddick
-The Green Inferno
 Back to the Future Part III
 The Pacific
 Idiocracy
@@ -124,7 +146,6 @@ Holes
 Pirates of the Caribbean: At World's End
 Green Lantern
 Jurassic Park III
-Dumbo
 Labyrinth
 Naruto: Shippûden
 Colony
@@ -134,28 +155,22 @@ Thelma & Louise
 Dances with Wolves
 Kick-Ass
 The Descent
-The Blue Lagoon
 Who Framed Roger Rabbit
 The Mask of Zorro
-Dragonball Evolution
 Missing Link
 Monty Python and the Holy Grail
 The Tourist
 The Parent Trap
-Doom: Annihilation
 Timeless
 Austin Powers: International Man of Mystery
 Brave
 Blood Diamond
-Fantastic Mr. Fox
 The World Is Not Enough
 Star Trek: Into Darkness
 Stargate
-Where Eagles Dare
+The Incredible Hulk
 Super Mario Bros.
-Spaceballs
 Toy Story 2
-Armageddon
 Spider-Man 2
 Dirk Gently's Holistic Detective Agency
 Tayna pechati drakona
@@ -164,7 +179,6 @@ Conan the Barbarian
 The Last Airbender
 12 Monkeys
 Wreck-It Ralph
-Percy Jackson: Sea of Monsters
 Cold Mountain
 Samurai Jack
 X-Men: Days of Future Past
@@ -190,6 +204,7 @@ The Expendables 3
 Apollo 13
 First Blood
 The Dark Tower
+Trolls
 The BFG
 Sword Art Online
 The Last of the Mohicans
@@ -198,7 +213,6 @@ Night at the Museum: Battle of the Smithsonian
 Battleship
 The Rock
 Kiki's vliegende koeriersdienst
-Nerve
 Monsters Universiteit
 Naruto
 Broken Lance
@@ -215,15 +229,13 @@ Doom
 'Crocodile' Dundee II
 Deliverance
 Dr. No
-Power Rangers Beast Morphers
 The Golden Compass
 Tangled: The Series
-Peter Pan
 The Witches
+Ice Age
 The Great Escape
 Death Stranding
 Roep der Wildernis
-Teenage Mutant Ninja Turtles: Out of the Shadows
 Dawn of the Planet of the Apes
 Farscape
 Life of Pi
@@ -231,11 +243,9 @@ Raya and the Last Dragon
 Miss Peregrine's Home for Peculiar Children
 The Mummy Returns
 Pacific Rim
-The Amazing Spider-Man 2
 Allegiant
 Street Fighter
 The Abyss
-Flash Gordon
 'Crocodile' Dundee
 Ender's Game
 Fear and Loathing in Las Vegas
@@ -245,9 +255,7 @@ What Happened to Monday
 Wizards of Waverly Place
 Deep Blue Sea
 Mission: Impossible III
-The Hunt for Red October
 Goldfinger
-Call of the Wild
 Serenity
 Total Recall
 Transformers: Dark of the Moon
@@ -279,7 +287,6 @@ Loki
 De Lego Film
 Teenage Mutant Ninja Turtles
 Star Trek: First Contact
-Black Clover
 Maze Runner: The Scorch Trials
 Wyatt Earp
 Popeye
@@ -300,17 +307,15 @@ Sausage Party
 Pocahontas
 Barry Lyndon
 Harold & Kumar Go to White Castle
-Mission: Impossible II
-Gedo senki
 Snow White and the Huntsman
 The Darjeeling Limited
 The Life Aquatic with Steve Zissou
 Barbarella
 Free Willy
 G.I. Joe: The Rise of Cobra
-Seventh Son
 The Twilight Saga: New Moon
 Kung Fu Panda
+Chitty Chitty Bang Bang
 G.I. Joe: Retaliation
 Charlie's Angels: Full Throttle
 Wonder Park
@@ -325,18 +330,15 @@ The Croods 2
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze
 Catch-22
 The Expendables
+Kaubôi bibappu
 Tarzan
 American Honey
 Wo hu cang long
-Flight of the Navigator
 Zoom
 Kick-Ass 2
 The Great Wall
-The Librarians
 North by Northwest
-The Lone Ranger
 DuckTales
-The Chronicles of Narnia: Prince Caspian
 Alice Through the Looking Glass
 Shrek 2
 The Man Who Killed Don Quixote
@@ -358,7 +360,6 @@ Anastasia
 TRON
 Seven Years in Tibet
 The Dirty Dozen
-Journey 2: The Mysterious Island
 Romancing the Stone
 Das Boot
 The Kid Who Would Be King
@@ -370,7 +371,6 @@ The Expendables 2
 The Hitchhiker's Guide to the Galaxy
 La montaña sagrada
 De Tien Geboden
-Sahara
 Jumper
 War Horse
 Austin Powers in Goldmember
@@ -399,12 +399,9 @@ Krypton
 Iron Sky: The Coming Race
 Descendants 2
 Keizer Kuzco
-Mortal Kombat: Annihilation
 Dragon Ball Super: Doragon bôru cho
 Atlantis: The Lost Empire
-Thunderball
 Poseidon
-The Chronicles of Narnia: The Voyage of the Dawn Treader
 A Wrinkle in Time
 Robots
 Star Trek II: The Wrath of Khan
@@ -412,18 +409,14 @@ Alpha
 Swiss Family Robinson
 Grimsby
 The Losers
-Jungle
 National Lampoon's European Vacation
 The Owl House
-The Imaginarium of Doctor Parnassus
 Live and Let Die
 Star Trek: The Motion Picture
-Mutiny on the Bounty
 Pan
 Diamonds Are Forever
 Vertical Limit
 Shrek Forever After
-A Dog's Purpose
 Kim Possible
 Never Say Never Again
 Hart to Hart
@@ -435,16 +428,13 @@ Into the Blue
 Smallfoot
 Congo
 On Her Majesty's Secret Service
-The Croods
 Night at the Museum: Secret of the Tomb
 A Night on the Town
 The Six Million Dollar Man
 Land of the Lost
 Regular Show
 Ne Zha zhi mo tong jiang shi
-Zathura: A Space Adventure
 The Man in the Iron Mask
-The Do-Over
 Resident Evil: Afterlife
 Licence to Kill
 Carriers
@@ -454,7 +444,6 @@ Iron Sky
 Journey to the Center of the Earth
 Anaconda
 Outlander
-Paddington 2
 Legion
 Maverick
 Wonder Woman
@@ -468,54 +457,41 @@ The Time Machine
 101 Dalmatians
 Big Fat Liar
 Emerald City
-Inside Out
 Indebted
 American Dad!
 After Life
 Men in Black
 Lady and the Tramp
 Ferdinand
-One Punch Man: Wanpanman
 The Man from U.N.C.L.E.
 Pieter Konijn
 The Lobster
 Emma
 About Time
 American Graffiti
-Lock, Stock and Two Smoking Barrels
-Dave
 The Intouchables
-Henry Danger
 Doc Martin
-Russian Doll
 American Housewife
 Pretty Woman
 The Upside
-Mary Poppins
 Fuller House
 The Mask
-Couples Retreat
-The Babysitter
 The Lost Boys
 Old School
 Sky High
 Hook
 Groundhog Day
 Breeders
-Bad Boys II
 Moonrise Kingdom
 Single Parents
 The King of Queens
 Scary Movie
 The Office
-The Politician
 Home Alone
 Mrs. Doubtfire
 Hot Fuzz
 Mamma Mia!
 Superbad
-Hitch
-Awkwafina Is Nora from Queens
 No Strings Attached
 The Royal Tenenbaums
 Amélie
@@ -530,16 +506,13 @@ American Reunion
 The Nanny
 Just Go with It
 Midnight in Paris
-Everything's Gonna Be Okay
 Grown-ish
 Airplane!
 This Is 40
-The Unicorn
 Grown Ups
 Santa Clarita Diet
 21 Jump Street
 Easy A
-Yes Man
 Pride and Prejudice and Zombies
 Extra Ordinary
 Office Space
@@ -562,7 +535,6 @@ Dollface
 Matilda
 Descendants
 Kindergarten Cop
-Run
 A Million Ways to Die in the West
 The Hitman's Bodyguard
 The Disaster Artist
@@ -580,7 +552,6 @@ Splash
 The Nice Guys
 Wedding Crashers
 Up in the Air
-True Lies
 Schooled
 Heathers
 Chicago
@@ -594,7 +565,6 @@ Love, Simon
 The Proposal
 Shampoo
 Friday Night Dinner
-Cinderella
 Bad Moms
 Stuber
 Malavita
@@ -613,8 +583,8 @@ Dumb and Dumber
 The Graduate
 Click
 Hatsukoi
+Gilmore Girls: A Year in the Life
 Pretty in Pink
-Sorry to Bother You
 Good Witch
 Shallow Hal
 Crazy Ex-Girlfriend
@@ -634,7 +604,6 @@ Little Miss Sunshine
 Forgetting Sarah Marshall
 Swingers
 A Haunted House
-High School Musical: The Musical - The Series
 White Chicks
 Movie 43
 The Hitman's Wife's Bodyguard
@@ -648,16 +617,15 @@ Isn't It Romantic
 Man Like Mobeen
 3 Idiots
 Beverly Hills Cop
+Sixteen Candles
 Mars Attacks!
 American Ultra
 iCarly
-Disaster Movie
 King of the Hill
 Pain & Gain
 Seven Psychopaths
 Grown Ups 2
 The First Wives Club
-The Princess Diaries
 Ash vs Evil Dead
 Dream Horse
 Wet Hot American Summer
@@ -666,13 +634,11 @@ Legally Blonde
 Medical Police
 Four Weddings and a Funeral
 Not Another Teen Movie
-The Intern
 He's Just Not That Into You
 7th Heaven
 Step by Step
 Mid90s
 Sweet Home Alabama
-When Harry Met Sally...
 Cougar Town
 I Now Pronounce You Chuck & Larry
 RED
@@ -690,7 +656,6 @@ Bridget Jones's Diary
 Juno
 The Wonder Years
 Love
-Mr. & Mrs. Smith
 Adam-12
 Mrs. Fletcher
 Do the Right Thing
@@ -708,7 +673,6 @@ Scary Movie 2
 Buffaloed
 Crashing
 The Suite Life of Zack & Cody
-Wings
 Casper
 The Naked Gun: From the Files of Police Squad!
 The Square
@@ -716,7 +680,6 @@ The Square
 Magic Mike
 Nancy Drew and the Hidden Staircase
 Piranha 3D
-The Edge of Seventeen
 Mixed-ish
 Breakfast at Tiffany's
 This Is the End
@@ -734,7 +697,6 @@ P.S. I Love You
 Frances Ha
 Ugly Betty
 Love & Other Drugs
-Uncle Buck
 Growing Pains
 Blockers
 The House Bunny
@@ -757,7 +719,6 @@ Bala
 Miss Congeniality
 Dinner for Schmucks
 The Neighborhood
-Swiss Army Man
 Limitless
 Grandma's Boy
 The Perfect Date
@@ -768,22 +729,20 @@ The Dictator
 50 First Dates
 Police Academy 2: Their First Assignment
 In the Dark
+The Lovebirds
 You Don't Mess with the Zohan
 A Cinderella Story
 Bruce Almighty
 Doctor Doctor
 The Bachelor and the Bobby-Soxer
-Dumplin'
 Friends with Benefits
 Wild at Heart
 Young Frankenstein
 De danskoning
 Monty Python's Life of Brian
-The Cosby Show
 Ghost World
 Focus
 Police Academy 4: Citizens on Patrol
-Peggy Sue Got Married
 Daddy's Home 2
 Hocus Pocus
 Vicky Cristina Barcelona
@@ -791,7 +750,6 @@ Boy
 Eighth Grade
 The Beverly Hillbillies
 The Lego Batman Movie
-Diary of a Wimpy Kid
 Raven's Thuis
 The House with a Clock in Its Walls
 Perfect Strangers
@@ -799,10 +757,8 @@ Annie
 Dr. Seuss' How the Grinch Stole Christmas
 The Nightmare Before Christmas
 Hotel Transylvania
-The Munsters
 Megamind
 A Little Princess
-Liv and Maddie
 Diary of a Future President
 Drake & Josh
 Raising Hope
@@ -810,16 +766,14 @@ Bedtime Stories
 Sonic X
 Family Ties
 The Cat in the Hat
-Eragon
 Pee-wee's Big Adventure
 Oz the Great and Powerful
 Koe no katachi
 Gargoyles
 Nanny McPhee
 Ponyo
-Kingdom Hearts III
+The Amazing World of Gumball
 The Dick Van Dyke Show
-Osmosis Jones
 A Goofy Movie
 The Lorax
 Shrek the Third
@@ -833,9 +787,7 @@ My Fair Lady
 H2O: Just Add Water
 Oliver & Company
 Pinocchio
-The Dark Crystal
 Finding Neverland
-Sam & Cat
 One Hundred and One Dalmatians
 Star vs. de Kracht van het Kwaad
 Home Alone 2: Lost in New York
@@ -848,13 +800,11 @@ Despicable Me 2
 Explorers
 Angry Birds
 Trouble
-Scooby-Doo 2: Monsters Unleashed
 Because of Winn-Dixie
 Major Payne
 The Sorcerer's Apprentice
 The Boss Baby
 Race to Witch Mountain
-Green Acres
 Noelle
 Boku no hîrô akademia THE MOVIE ~ 2-ri no eiyû ~
 Brother Bear
@@ -864,7 +814,6 @@ Anne of Green Gables
 3 Men and a Baby
 Aquamarine
 The Nutcracker and the Four Realms
-ALF
 The Spiderwick Chronicles
 RV
 Taare Zameen Par
@@ -874,7 +823,6 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
-Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -883,7 +831,6 @@ Teen Titans Go!
 Dinosaur
 Paddington
 A Princess for Christmas
-Corpse Bride
 The Grinch
 Patrick
 James and the Giant Peach
@@ -894,7 +841,6 @@ The Muppets
 Elf
 Problem Child
 Charlotte's Web
-Ice Age: Collision Course
 The Book of Life
 Doragon bôru chô: Burorî
 The Emoji Movie
@@ -909,19 +855,14 @@ Platvoet en zijn vriendjes
 De IJzeren reus
 Sneeuwwitje
 Daddy Day Care
-Home Alone 3
-Loving Vincent
-The Three Stooges
 Touched by an Angel
 Hop
 Anastasia: Once Upon a Time
-Monster House
 Dr. Dolittle
 We Bought a Zoo
 De Kleine zeemeermin II
 Yours, Mine & Ours
 It Takes Two
-St. Trinian's
 The Rescuers
 Modern Times
 Playmobil: The Movie
@@ -934,6 +875,7 @@ The SpongeBob SquarePants Movie
 Wee Willie Winkie
 Le chant du loup
 Antz
+Son of the Mask
 Goosebumps 2: Haunted Halloween
 Agent Cody Banks
 Over the Hedge
@@ -967,11 +909,9 @@ What a Girl Wants
 Monsters vs. Aliens
 Sister, Sister
 The Muppet Movie
-Max en de maximonsters
 The Sword in the Stone
 Mr. Bean's Holiday
 Sherlock Gnomes
-The Flintstones in Viva Rock Vegas
 Honey, We Shrunk Ourselves!
 The 10th Kingdom
 October Sky
@@ -1007,12 +947,10 @@ The Master of Disguise
 Ned's Declassified School Survival Guide
 The SpongeBob Movie: Sponge Out of Water
 Zookeeper
-The Thirteenth Year
 Kari-gurashi no Arietti
 The Music Man
 Monster Trucks
 Diary of a Wimpy Kid: Dog Days
-The Baby-Sitters Club
 Chicken Girls
 No Good Nick
 Mon inconnue
@@ -1029,6 +967,7 @@ Flubber
 Pee-wee's Big Holiday
 Watership Down
 The Pink Panther
+Rise of the Guardians
 Ice Age: Dawn of the Dinosaurs
 Mickey Mouse Clubhouse
 TMNT
@@ -1042,7 +981,6 @@ Muppets Most Wanted
 Tuck Everlasting
 FernGully: The Last Rainforest
 Shake It Up
-Bugsy Malone
 The Lego Ninjago Movie
 Wolfblood
 The Spy Next Door
@@ -1059,28 +997,23 @@ The One and Only Ivan
 Horton
 Sinbad: Legend of the Seven Seas
 The Curse of the Were-Rabbit
-Snow Day
-Dora the Explorer
 Fly Away Home
 Neko no ongaeshi
-SpaceCamp
 Mac and Me
+Minuscule - Les mandibules du bout du monde
 The Adventures of Pinocchio
 Titan A.E.
 Song of the South
 Red Dog
 Le Petit Prince
 Song of the Sea
-Spy Kids 4: All the Time in the World
 The Return of Jafar
-Escape to Witch Mountain
 Aladdin and the King of Thieves
 Thunderbirds
 Diary of a Wimpy Kid: The Long Haul
 The Honeymooners
 Gnomeo & Juliet
 An American Tail
-Epic
 A-X-L
 Koneko monogatari
 The Odd Life of Timothy Green
@@ -1088,20 +1021,14 @@ The Odd Life of Timothy Green
 Man of the House
 ParaNorman
 Andi Mack
-My Bodyguard
 Inkheart
 Balto
-Iron Will
-Bean
 *batteries not included
 A Street Cat Named Bob
 3 Men and a Little Lady
 The Wedding Do Over
-New York Minute
 Kaguyahime no monogatari
 Mr. Popper's Penguins
-Hilda
-The Healer
 Middle School: The Worst Years of My Life
 Diary of a Wimpy Kid: Rodrick Rules
 Gekijouban Poketto monsutâ: Minna no Monogatari
@@ -1109,7 +1036,6 @@ Batman: Mask of the Phantasm
 The Healing Powers of Dude
 RocketMan
 Empty Nest
-The Powerpuff Girls
 Norm of the North: Family Vacation
 Smurfs: The Lost Village
 Teen Titans Go! To the Movies
@@ -1122,7 +1048,6 @@ Rio 2
 My Girl 2
 Charles in Charge
 Thumbelina
-Pride and Prejudice
 Revolutionary Road
 Ophelia
 Brooklyn
@@ -1131,7 +1056,6 @@ The Fault in Our Stars
 The Hours
 Leaving Las Vegas
 Original Sin
-Hoo-goong: Je-wang-eui cheob
 Crimson Peak
 J'ai perdu mon corps
 Looking for Alaska
@@ -1143,8 +1067,6 @@ A Ghost Story
 Closer
 Remember Me
 Before Sunrise
-Malcolm X
-The Reader
 Cruel Intentions
 War & Peace
 Faa yeung nin wa
@@ -1152,15 +1074,12 @@ Waterloo Bridge
 Life Itself
 De klokkenluider van de Notre Dame
 The Age of Innocence
-Unfaithful
 The Birds
 Sleeping Beauty
 The Twilight Saga: Eclipse
 Knight of Cups
-Indecent Proposal
 Lady Macbeth
 If Beale Street Could Talk
-The Crying Game
 Werk ohne Autor
 The Space Between Us
 The Best of Me
@@ -1168,8 +1087,6 @@ El secreto de sus ojos
 The Last Picture Show
 Red Joan
 The Next Three Days
-Last Tango in Paris
-St. Elmo's Fire
 The Giver
 Durante la tormenta
 Memoirs of a Geisha
@@ -1205,12 +1122,12 @@ Buffalo '66
 Sex and the City
 Sneeuwwitje en de zeven dwergen
 Royal Wedding
+Urban Cowboy
 Singin' in the Rain
 The Artist
 Paterson
 Earth Girls Are Easy
 The Life and Times of Judge Roy Bean
-A Good Year
 Earthquake Bird
 A Bronx Tale
 Killers
@@ -1219,21 +1136,18 @@ The Adjustment Bureau
 Collateral Beauty
 Pati Patni Aur Woh
 Body Heat
-The Escort
 Habitación en Roma
 Les Misérables
 Beauty and the Beast
-Annie Hall
+Welcome to Marwen
 Kabir Singh
 Only Lovers Left Alive
-This Means War
 Little Children
 My Best Friend's Wedding
 Aloha
 Les demoiselles de Rochefort
 Can't Buy Me Love
 Sleepless in Seattle
-De ondraaglijke lichtheid van het bestaan
 50/50
 Rules of Engagement
 Sideways
@@ -1248,7 +1162,6 @@ Hall Pass
 Sex Tape
 Bad Teacher
 Howards End
-Someone Great
 Seven Brides for Seven Brothers
 Zack and Miri Make a Porno
 Solaris
@@ -1279,10 +1192,8 @@ You've Got Mail
 Safe Haven
 The Holiday
 Frida
-Let It Snow
 Romeo and Juliet
 Before Midnight
-Working Girl
 Sex Drive
 The Layover
 Somewhere in Time
@@ -1293,7 +1204,6 @@ Cashback
 The Wedding Planner
 Happiest Season
 Sidney Hall
-Shubh Mangal Saavdhan
 Second Act
 The Apartment
 Near Dark
@@ -1341,13 +1251,11 @@ Troy: Fall of a City
 What If
 Sleeping with Other People
 Ammonite
-Mannequin
 Fool's Gold
 Monster's Ball
 To All the Boys: Always and Forever, Lara Jean
 Speed 2: Cruise Control
 Dirty Dancing
-A Single Man
 Spanglish
 Fallen
 Bakjwi
@@ -1358,16 +1266,13 @@ Jeune et jolie
 Home Again
 Lars and the Real Girl
 The Divorcee
-La migliore offerta
 Kate & Leopold
 The Host
 Anger Management
 The New World
-Meet the Parents
 Two Mothers
 Love Story
 Made of Honour
-I Love You, Man
 My Cousin Rachel
 Moonstruck
 Steins;Gate
@@ -1400,15 +1305,11 @@ To Catch a Thief
 Stranger Than Fiction
 Supergirl
 Every Day
-The Darkest Minds
 While You Were Sleeping
-Lie with Me
 House of Flying Daggers
 Victoria
-Good Luck Chuck
 Heartbreakers
 The Two Faces of January
-Much Ado About Nothing
 How to Be Single
 Lucía y el sexo
 Son in Law
@@ -1425,28 +1326,24 @@ Little Italy
 Charade
 Lark Rise to Candleford
 Pushing Daisies
-Flipped
 Mrs. Miniver
 The Saint
 I Love You Phillip Morris
 Julie & Julia
+Patch Adams
 Invasion
 The Thorn Birds
 When We First Met
 Australia
-The Remains of the Day
 Stuck in Love.
 Sabrina
-Rachel Getting Married
 Open Range
 Mad About You
-Me and Earl and the Dying Girl
 Perfect
 The Love Witch
 10
 I Am Mother
 Batman & Robin
-Event Horizon
 District 9
 Cloud Atlas
 Geostorm
@@ -1462,17 +1359,12 @@ Gravity
 Terminator 3: Rise of the Machines
 Haven
 Downsizing
-Minority Report
-The Bad Batch
 The Circle
 Motherland: Fort Salem
-A Cure for Wellness
 11.22.63
 28 Weeks Later
 Stalker
-10 Cloverfield Lane
 Terminator Salvation
-Resident Evil
 RoboCop
 Life
 Blade
@@ -1484,9 +1376,9 @@ They Live
 The Faculty
 The Rain
 Luke Cage
+Lucy in the Sky
 The First Purge
 Paradise Hills
-Contact
 Sweetheart
 Samaritan
 X-Men: The Last Stand
@@ -1494,22 +1386,15 @@ Raising Dion
 The Silence
 Captive State
 Years and Years
-The Thing
 Westworld
 Species
 Light of My Life
 Akira
-Dredd
-Zoo
-Gamgi
 The Amazing Spider-Man
 Face/Off
 Logan's Run
 Ghost in the Shell
 Alien³
-Signs
-Splice
-Artificial Intelligence: AI
 Metropolis
 The Fly
 Melancholia
@@ -1531,7 +1416,6 @@ Coherence
 Superman Returns
 Sunshine
 Wild Wild West
-The Cloverfield Paradox
 Cube
 Hotel Artemis
 Wayward Pines
@@ -1540,7 +1424,6 @@ I, Robot
 Blade: Trinity
 V
 X-Men 2
-Morgan
 Happy Death Day 2U
 Predator 2
 The World's End
@@ -1556,7 +1439,6 @@ Chappie
 The Happening
 Transcendence
 Dollhouse
-Spectral
 The Endless
 Pixels
 Equilibrium
@@ -1571,7 +1453,6 @@ Jonathan Strange & Mr Norrell
 Midnight Special
 Terminator: The Sarah Connor Chronicles
 Strange Days
-The Man from Earth
 The Running Man
 From Beyond
 Tank Girl
@@ -1586,11 +1467,9 @@ Stargate: Universe
 Kôkaku Kidôtai
 Sleight
 The Dead Zone
-Aquaman 2
 Cloak & Dagger
 Resident Evil: Retribution
 World Invasion: Battle Los Angeles
-Justice League Part Two
 Dark Angel
 Evolution
 Black Mirror: Bandersnatch
@@ -1617,7 +1496,6 @@ Paul
 Shin Seiki Evangelion
 Andromeda
 Push
-Cargo
 Death Race
 Batman: Hush
 Soylent Green
@@ -1642,7 +1520,6 @@ AVP2: Aliens vs. Predator 2 - Requiem
 Tau
 Cocoon
 Terra Nova
-Liu lang di qiu
 Innerspace
 Mad Max Beyond Thunderdome
 The Rover
@@ -1656,11 +1533,9 @@ Transit
 Resident Evil: Extinction
 Project Almanac
 Lovecraft Country
-Bleach: Burîchi
 The Invisible Man
 Time Bandits
 Pi
-Forbidden Planet
 The Adventures of Buckaroo Banzai Across the 8th Dimension
 Dune
 Krull
@@ -1671,7 +1546,6 @@ The Darkest Hour
 The Manchurian Candidate
 Hardcore Henry
 Het recht van de sterkste
-Mimic
 Primer
 Untitled Star Trek Sequel
 The Invaders
@@ -1682,13 +1556,10 @@ Cyborg
 Underworld Awakening
 V for Vendetta
 Triangle
-Mr. Jones
 The Island
 Escape Room
 The Lovely Bones
-Skyscraper
 Blue Velvet
-Widows
 Fractured
 You Were Never Really Here
 Nightcrawler
@@ -1698,10 +1569,8 @@ Srpski film
 True Fiction
 The Last Stand
 Mulholland Drive
-Spectros
 The Fast and the Furious
 The Killing
-The Town
 The Terror
 I See You
 The Commuter
@@ -1710,7 +1579,6 @@ The Equalizer
 Nomis
 Under the Skin
 Fargo
-The Woman in the Window
 The Meg
 Madeo
 The Mummy's Curse
@@ -1720,7 +1588,6 @@ Freaks
 Candyman: Farewell to the Flesh
 Mayans M.C.
 Ocean's Eleven
-Crawl
 Mission: Impossible - Rogue Nation
 Nocturnal Animals
 The Conjuring
@@ -1737,7 +1604,6 @@ Gerald's Game
 Jackie Brown
 Zero Dark Thirty
 The Society
-Lock and Key
 The Warriors
 Don't Breathe
 Into the Dark
@@ -1753,8 +1619,6 @@ Bright
 Death Note: Desu nôto
 Pet Sematary
 The Most Dangerous Animal of All
-Snowpiercer
-Jason Bourne
 Blood on Her Name
 Atomic Blonde
 La piel que habito
@@ -1779,12 +1643,10 @@ Hotel Mumbai
 Now You See Me
 The Others
 Das Cabinet des Dr. Caligari
-Wonderland
 Crash
 Sicario: Day of the Soldado
 Scorpion
 Halloween
-The Neon Demon
 Running with the Devil
 Dragged Across Concrete
 The Girl on the Train
@@ -1808,7 +1670,6 @@ Hellraiser
 Side Effects
 Them That Follow
 Mile 22
-The Nun
 Haunt
 The Perfection
 The Punisher
@@ -1824,7 +1685,6 @@ Layer Cake
 Allied
 Training Day
 Insidious
-Absentia
 Cape Fear
 Deep Water
 The Equalizer 2
@@ -1838,10 +1698,8 @@ Misery
 Kiss the Girls
 Enemy
 The Girl in the Spider's Web
-Final Destination
 Road House
 Train to Busan 2
-Homefront
 Daniel Isn't Real
 Identity
 Ghost
@@ -1861,16 +1719,13 @@ Peppermint
 Hanna
 Smokin' Aces
 L.A. Confidential
-The Conjuring 2
 Hemlock Grove
 Hannibal
 Killer Joe
 Monster
 Gone Baby Gone
 Dirty Harry
-Mystic River
 Ghost Rider
-The Firm
 Munich
 CSI: NY
 Ang-ma-reul bo-at-da
@@ -1882,8 +1737,6 @@ Bloodline
 Captain Phillips
 Death Wish
 Gold Digger
-The Lincoln Lawyer
-Penny Dreadful: City of Angels
 21
 The Bourne Identity
 Escape Plan: The Extractors
@@ -1898,19 +1751,16 @@ Road to Perdition
 1922
 Inferno
 Gok-seong
-London Has Fallen
 Term Life
 Scream: The TV Series
 Sacred Games
 Nikita
 Operation Brothers
-Zone Blanche
 Sweeney Todd: The Demon Barber of Fleet Street
 Shirley
 Fatal Attraction
 Dog Day Afternoon
 The Italian Job
-The Craft
 Apostle
 Hush
 The Intruder
@@ -1919,14 +1769,12 @@ Valkyrie
 Collateral
 RocknRolla
 Shot Caller
-Red Dragon
 The Snowman
 Lights Out
 Wounds
 Fracture
 Fast & Furious
 Oldboy
-High Ground
 Basic Instinct 2
 The Conversation
 Die Hard 4.0
@@ -1961,7 +1809,6 @@ The Transporter
 Escape Plan
 The Bone Collector
 Velvet Buzzsaw
-John Wick: Chapter 4
 The Trial of the Chicago 7
 Gone
 13 Sins
@@ -1973,7 +1820,6 @@ Jigsaw
 Brick
 Salt
 Cop Land
-Patriot Games
 Insomnia
 The Village
 Sinister
@@ -1981,25 +1827,21 @@ Lost Highway
 Too Old to Die Young
 The Boy Next Door
 Angel of Mine
-A Nightmare on Elm Street
 A Confession
 Unforgotten
 Hugo
-Enola Holmes
 Constantine
 Incendies
 Citizen Kane
 It Comes at Night
 The Ring
 The Gift
-Diagnosis Murder
 The Missing
 Oculus
 Winter's Bone
 CHiPs
 Criminal: UK
 Scream 4
-Gran Hotel
 Sorjonen
 The Capture
 Manhunter
@@ -2008,7 +1850,6 @@ Annabelle
 You're Next
 Män som hatar kvinnor
 Angels & Demons
-The Strangers
 Tinker Tailor Soldier Spy
 Traces
 Angel Heart
@@ -2035,16 +1876,12 @@ The Ninth Gate
 Twin Peaks: Fire Walk with Me
 Defending Jacob
 First Reformed
-Grand Hotel
 Let Me In
-As Above, So Below
 Scream Queens
 Matlock
 Destroyer
-Insidious: The Last Key
 The Midnight Meat Train
 Four Brothers
-Magnum Force
 The Happytime Murders
 The Wicker Man
 Secret City
@@ -2059,7 +1896,6 @@ The Rockford Files
 De man zonder geweten
 Imposters
 Ich seh ich seh
-Damages
 The Name of the Rose
 Marrowbone
 Horns
@@ -2067,18 +1903,13 @@ Horns
 From Hell
 The Falling
 The Boys from Brazil
-My Life Is Murder
-I Know What You Did Last Summer
 Lucky Number Slevin
 Edge of Darkness
 The Glass House
 Ghostland
-The Visit
-Scream 2
 Kiss Kiss Bang Bang
 I Am the Night
 The Poughkeepsie Tapes
-M - Eine Stadt sucht einen Mörder
 Chen qing ling
 The Glades
 Disturbia
@@ -2088,7 +1919,6 @@ Innan vi dör
 American Vandal
 Secret Obsession
 In the Mouth of Madness
-Eagle Eye
 Unknown
 Vampire Academy
 Double Jeopardy
@@ -2109,7 +1939,7 @@ The Skeleton Key
 Hudson & Rex
 February
 Following
-State of Play
+Glengarry Glen Ross
 The Uninvited
 Exposed
 Summer of 84
@@ -2120,6 +1950,7 @@ Gerry
 Todos lo saben
 Mississippi Burning
 8MM
+Saw III
 Unsane
 Barnaby Jones
 Backdraft
@@ -2134,13 +1965,9 @@ Rope
 Buried
 Closet Monster
 Blowup
-City of Lies
 Solace
-Deception
 Scream 3
 Secret in Their Eyes
-Unfriended: Dark Web
-The Grudge
 Cruising
 Friday the 13th Part 2
 The Guest
@@ -2149,7 +1976,6 @@ Without a Paddle
 The Ghost Writer
 Unforgettable
 Rising Sun
-The Haunting
 Paper Towns
 Mindhunters
 The Loft
@@ -2163,7 +1989,6 @@ El orfanato
 Prom Night
 Janghwa, Hongryeon
 Odd Thomas
-Doubt
 Frantic
 Manyeo
 Departure
@@ -2173,20 +1998,16 @@ Angie Tribeca
 The Oxford Murders
 Color of Night
 The Fourth Kind
-Devil
 Abduction
 Forensic
 Until Dawn
-The Bye Bye Man
 Rashômon
 A Vigilante
 Super Troopers 2
-Killing Me Softly
 The Little Stranger
 Gi-eok-ui bam
 Mannix
 Klute
-Taking Lives
 Charlie Mortdecai
 Inland Empire
 Passion
@@ -2201,14 +2022,12 @@ Seven Ways from Sundown
 De goudenregen van het geluk
 The Last Wagon
 Gunfighters
-The Last Hard Men
 Calamity Jane
 The Three Burials of Melquiades Estrada
 Tomahawk
 Zorro
 Hombre
 The Sacketts
-Levend of dood
 Eenzaam zijn de ontembaren
 The Fastest Gun Alive
 Winds of the Wasteland
@@ -2219,8 +2038,6 @@ The Legend of the Lone Ranger
 Sholay
 Love Comes Softly
 Last of the Dogmen
-Wild Bill
-Extreme Prejudice
 Mohawk
 Sweet Country
 The First Texan
@@ -2228,7 +2045,6 @@ Wichita
 Major Dundee
 The Mark of Zorro
 American Outlaws
-Young Billy Young
 El Camino Christmas
 Continuavano a chiamarlo Trinità
 Even Cowgirls Get the Blues
@@ -2236,7 +2052,6 @@ Jesse James, de wreker
 The Keeping Room
 The Lawless Frontier
 Stagecoach
-North to Alaska
 The Missouri Breaks
 Man of the West
 The Man Behind the Gun
@@ -2258,8 +2073,6 @@ The Law and Jake Wade
 The Harvey Girls
 The Way West
 The Ox-Bow Incident
-Verraderlijker dan een slang
-Yellow Sky
 Tom Horn
 Lightning Jack
 The Gal Who Took the West
@@ -2274,9 +2087,7 @@ The Electric Horseman
 The Bravados
 Vera Cruz
 Shenandoah
-The Texican
 Rough Night in Jericho
-Wild Horses
 Het teken van Zorro
 Shadow on the Mesa
 Alferd Packer: The Musical
@@ -2311,8 +2122,6 @@ Killer Women
 Edge
 De spelbrekers
 Breakheart Pass
-Dead Birds
-The Plainsman
 Rough Riders
 Warlock
 The Yearling
@@ -2335,7 +2144,6 @@ The Kentuckian
 Wanda Nevada
 The Shooting
 The Burrowers
-Man in the Wilderness
 The Magnificent Seven Ride!
 Ned Kelly
 De man uit Laramie
@@ -2344,8 +2152,6 @@ Ride Lonesome
 The Virginian
 The Redhead from Wyoming
 The Hunting Party
-In het voetspoor van Django
-Jauja
 Outlaws and Angels
 In Pursuit of Honor
 Ghost Town
@@ -2367,20 +2173,16 @@ The Quick and the Dead
 Hour of the Gun
 Wagon Master
 BraveStarr
-Lust in the Dust
-Vamos a matar, compañeros
 Run for Cover
 Running Wild
 Monte Walsh
 Grey Owl
-Taza, Son of Cochise
 Saddle Tramp
 Straight to Hell
 Christmas on the Range
 I quattro dell'Apocalisse
 Dead 7
 The Legend of Nigger Charley
-Het commando der wrake
 The Rowdy Girls
 Dead Man's Walk
 The Big Trees
@@ -2396,7 +2198,6 @@ The Trap
 Eminence Hill
 No Name on the Bullet
 Duel at Diablo
-Silent Tongue
 Rancho Deluxe
 The Tall Men
 A Night in Old Mexico
@@ -2410,11 +2211,9 @@ Gunfight
 The One and Only, Genuine, Original Family Band
 Treasure of Matecumbe
 Gone Are the Days
-The Rare Breed
 The Roy Rogers Show
 Bite the Bullet
 Sam Whiskey
-Santa Fe Marshal
 Tickle Me
 Een stad neemt wraak
 I giorni dell'ira
@@ -2422,7 +2221,6 @@ Ride in the Whirlwind
 Legal Action
 Lonesome Dove: The Series
 Night Passage
-De man met het geweer
 Traded
 De hertogin en de vagebond
 The Last Outlaw
@@ -2438,14 +2236,12 @@ De voortrekkers van het Westen
 The Fighting Kentuckian
 Rawhide
 Dio perdona... Io no!
-Blackthorn
 The Big Trail
 De pantoffelheld
 De Pelsjager
 Jubal
 The Shakiest Gun in the West
 Last Stand at Saber River
-Timerider: The Adventure of Lyle Swann
 The Valley of Gwangi
 The True Story of Jesse James
 Preparati la bara!
@@ -2496,16 +2292,12 @@ De Sheriff schiet altijd raak
 King of Texas
 Dead Man's Gun
 Lonesome Dove: The Outlaw Years
-The Revengers
 Pony Express
 The Ballad of Josie
-7 Men from Now
 Butch and Sundance: The Early Days
-Kenny Rogers as The Gambler
 The Jack Bull
 Union Pacific
 Duivels te paard
-The Good, the Bad and the Dead
 Der Schuh des Manitu
 Deadman Standing
 North West Mounted Police
@@ -2517,9 +2309,7 @@ Mad Dog Morgan
 De schanddaad
 Une corde un Colt...
 The Deadly Companions
-Spirit Riding Free
 De trotse rebel
-The Far Horizons
 Rancho Notorious
 Billy Two Hats
 One More Train to Rob
@@ -2530,10 +2320,10 @@ Schiet niet op de bandiet
 Bender
 The Divide
 Secret of the Wastelands
+De vrouw die gelyncht moest worden
 Ten Wanted Men
 Die vervloekte Dunges Magee
 Dead Again in Tombstone
-Montana Sky
 Four Faces West
 Wong fei hung VI: Sai wik hung see
 'Doc'
@@ -2545,7 +2335,6 @@ The Leather Burners
 Tribute to a Bad Man
 You Know My Name
 Elvis in het Wilde Westen
-Barquero
 The Left Handed Gun
 Along Came Jones
 Deus e o Diabo na Terra do Sol
@@ -2553,7 +2342,6 @@ Barbarosa
 Good Day for a Hanging
 September Dawn
 Any Bullet Will Do
-Schat in het zilvermeer
 The Wind
 Botte di Natale
 The Great Locomotive Chase
@@ -2562,9 +2350,7 @@ Riding Shotgun
 Legend
 JL Ranch
 De Vallei van de Haat
-Rio Conchos
 Het zwaard en pijl
-Wild Boys
 Vallei der wetteloosheid
 The Great Northfield Minnesota Raid
 Virginia
@@ -2575,10 +2361,8 @@ The Human Centipede (First Sequence)
 The Mummy: Tomb of the Dragon Emperor
 Verónica
 The Texas Chain Saw Massacre
-Poltergeist
 Wrong Turn
 Black Summer
-Suspiria
 An American Crime
 Dracula Untold
 Planet Terror
@@ -2587,7 +2371,6 @@ Look Away
 Day of the Woman
 Texas Chainsaw 3D
 An American Werewolf in London
-Carrie
 Final Destination 5
 The Omen
 Slaughterhouse Rulez
@@ -2599,8 +2382,6 @@ Hostel: Part II
 The Shining
 Army of Darkness
 House of Wax
-Terrifier
-The Last House on the Left
 I Spit on Your Grave 2
 Grave
 In Fabric
@@ -2611,12 +2392,10 @@ Ghost Ship
 Death Becomes Her
 Society
 Christine
-Tucker and Dale vs Evil
 From Dusk Till Dawn: The Series
 The Final Destination
 Silent Hill: Revelation
 Wolves
-Possession
 Spawn
 Tokyo Ghoul
 El espinazo del diablo
@@ -2624,7 +2403,6 @@ Freddy vs. Jason
 Funny Games
 30 Days of Night
 The Haunting of Sharon Tate
-Nosferatu
 The Entity
 Fright Night
 Dog Soldiers
@@ -2633,8 +2411,6 @@ The Amityville Horror
 Cat People
 Drag Me to Hell
 The Texas Chainsaw Massacre
-Cabin Fever
-Dawn of the Dead
 Hei tai yang 731
 Assassination Nation
 31
@@ -2645,7 +2421,6 @@ The House of the Devil
 Mama
 Would You Rather
 Beloved
-Eden Lake
 Needful Things
 The Crazies
 Day of the Dead
@@ -2654,14 +2429,11 @@ The Fog
 Maggie
 Queen of the Damned
 Mob Psycho 100
-Sleepwalkers
 Creep
 Brotherhood of the Wolf
 Take Shelter
 Quarantine
-The Row
 Don't Look Now
-He's Out There
 Priest
 Evil Dead II
 Dance of the Vampires
@@ -2674,7 +2446,6 @@ Primal
 Buffy the Vampire Slayer
 The Blob
 Koroshiya 1
-The Wraith
 Vrijdag de dertiende - Deel 3
 Wolf Creek
 The Human Centipede III (Final Sequence)
@@ -2690,20 +2461,15 @@ Friday the 13th Part VI: Jason Lives
 The Exorcism of Emily Rose
 Mary Shelley's Frankenstein
 The Jack in the Box
-Beyond Skyline
 Ginger Snaps
 Teeth
 The Strangers: Prey at Night
-Victor Frankenstein
-Nightbreed
-Leprechaun
 Altered States
 Scanners
 The Car: Road to Revenge
 The Human Centipede II (Full Sequence)
 Frankenstein
 Jaws 2
-Dark Skies
 Camp Cold Brook
 Deep Rising
 The Monolith Monsters
@@ -2716,27 +2482,21 @@ Grave Encounters
 Down a Dark Hall
 Better Watch Out
 Dead Ringers
-La llorona
 Gremlins 2: The New Batch
 The Woman in Black
 All the Boys Love Mandy Lane
+The Witches of Eastwick
 Cell
-The Frighteners
 Salem's Lot
 Dreamcatcher
-Mayhem
-Lifeforce
 Bad Samaritan
 Don't Let Go
-Flight 7500
 Ouija: Origin of Evil
 The Slumber Party Massacre
 The Girl with All the Gifts
-Haute tension
 Dracula 2002
 Club Dread
 The Ruins
-Hatchet
 Halloween II
 A Nightmare on Elm Street Part 2: Freddy's Revenge
 Malevolent
@@ -2744,10 +2504,8 @@ Yoga Hosers
 eXistenZ
 Hellraiser: Judgment
 Maximum Overdrive
-Batman: Arkham Knight
 Hostel: Part III
 Cujo
-Doom Asylum
 Anna and the Apocalypse
 House on Haunted Hill
 The Open House
@@ -2763,14 +2521,12 @@ House at the End of the Street
 The Voices
 Friday the 13th: A New Beginning
 Kamera wo tomeruna!
-The Fury
 The Possession
 Repulsion
 Bride of Chucky
 Rattlesnake
 Dagon
 I'm Thinking of Ending Things
-La influencia
 Kenpû Denki Berserk
 Dust Devil
 The Possession of Hannah Grace
@@ -2785,13 +2541,11 @@ The Belko Experiment
 Jason X
 The Hunger
 The Thing from Another World
-Kiseijû: Sei no kakuritsu
 The Final Girls
 My Bloody Valentine
 Friday the 13th Part VII: The New Blood
 Rabid
 Mirrors
-Elvira: Mistress of the Dark
 Sinister 2
 Saw V
 Once Bitten
@@ -2806,14 +2560,12 @@ Disturbing Behavior
 I Am the Pretty Thing That Lives in the House
 Rust Creek
 Flowers in the Attic
-The Return of the Texas Chainsaw Massacre
 Raising Cain
 Wes Craven's New Nightmare
 The Furies
 Tremors: A Cold Day in Hell
 Killer Klowns from Outer Space
 The Last Days on Mars
-Sharknado
 Ghosts of Mars
 Troll 2
 Nurse 3-D
@@ -2845,6 +2597,7 @@ Lizzie
 Jaws: The Revenge
 The Howling
 Forbidden World
+American Mary
 Spring
 Escape Room 2
 Resident Evil 2
@@ -2859,7 +2612,6 @@ Vampires
 Hostile
 Dracula de vampier
 The Taking
-Les yeux sans visage
 Silver Bullet
 Stonehearst Asylum
 Species II
@@ -2884,7 +2636,6 @@ Blow
 To Kill a Mockingbird
 West Side Story
 Manbiki kazoku
-Wu Assassins
 The Assassination of Jesse James by the Coward Robert Ford
 Seven Seconds
 3:10 to Yuma
@@ -2893,11 +2644,11 @@ Blue Story
 Badlands
 Perfume: The Story of a Murderer
 Terminal
-Savages
 City on a Hill
 The Death of Dick Long
 Andhadhun
 Shaft
+Gandii Baat
 The Hate U Give
 Burn After Reading
 Outsiders
@@ -2917,8 +2668,6 @@ In the Line of Fire
 Roman J. Israel, Esq.
 Lethal Weapon 2
 The Bank Job
-Traffic
-Gone in Sixty Seconds
 Law Abiding Citizen
 StartUp
 Patriots Day
@@ -2945,11 +2694,9 @@ White Boy Rick
 Wall Street
 Temple
 ...and justice for all.
-La haine
 Hitman
 Rush Hour
 The Iceman
-Bronson
 Marshall
 Thoroughbreds
 Faster
@@ -2975,7 +2722,6 @@ Ronin
 Chinjeolhan geumjassi
 Animal Kingdom
 Midnight Express
-Reno 911!
 Ace Ventura: When Nature Calls
 Weekend at Bernie's
 Sexy Beast
@@ -3010,18 +2756,15 @@ Proud Mary
 The Score
 Bottle Rocket
 Den skyldige
-Coming Home
 The Eagle Has Landed
 K-19: The Widowmaker
-Under the Shadow
 Stalag 17
 Bajirao Mastani
-Kundun
-Iron Eagle
 Lust och fägring stor
 The Spy
 Un long dimanche de fiançailles
 Underground
+Conspiracy
 Act of Valor
 The Wind that Shakes the Barley
 Assassin's Creed: Odyssey
@@ -3031,14 +2774,12 @@ The Elder Scrolls V: Skyrim
 Cross of Iron
 Testament of Youth
 Kingudamu
-Michael Collins
 Megan Leavey
 Ride with the Devil
 The Beguiled
 Tora! Tora! Tora!
 Hurricane - Battle of Britain
 Threads
-Red Cliff
 The Ottoman Lieutenant
 Da 5 Bloods
 Buffalo Soldiers
@@ -3069,7 +2810,6 @@ Ironclad
 The Way to the Stars
 Sobibor
 Daar komen de Russen, daar komen ze aan...
-Shock and Awe
 Their Finest
 Phantom
 Flyboys
@@ -3082,18 +2822,15 @@ Salon Kitty
 Captain America
 The General
 Beyond Borders
-Call of Duty: WWII
 Lifeboat
 The Green Berets
 Pathfinder
 The Messenger
-De Wilde Ganzen
 Heaven & Earth
 The Yellow Birds
 Aces High
 Into the White
 The Tuskegee Airmen
-Force 10 from Navarone
 Che: Part One
 Gongdong gyeongbi guyeok JSA
 The Breadwinner
@@ -3105,12 +2842,10 @@ Ansisung
 The Selection
 Hell's Angels
 Waterloo
-Balkanskiy rubezh
 La Grande Illusion
 The Four Feathers
 Hitler: The Rise of Evil
 Van het westelijk front geen nieuws
-Sophie Scholl
 The Fall of the Roman Empire
 The Army of Shadows
 The Search
@@ -3118,7 +2853,6 @@ Little Boy
 Vatanim Sensin
 Muiterij op de Caine
 Assassin's Creed IV: Black Flag
-Ayla: The Daughter of War
 Head in the Clouds
 Father Goose
 The Lucky Ones
@@ -3137,7 +2871,6 @@ Legenda o Kolovrate
 Hanover Street
 The Young Lions
 Tuntematon sotilas
-Deathwatch
 Battle of the Bulge
 De dictator
 El Cid
@@ -3146,9 +2879,9 @@ De brug bij Remagen
 Sette contro la morte
 Jodhaa Akbar
 Private Peaceful
+Au revoir les enfants
 Salvador
 Ultimate Force
-Gevaarlijk spel
 A Perfect Day
 Merry Christmas Mr. Lawrence
 Ghost of Tsushima
@@ -3159,7 +2892,6 @@ Sniper: Ghost Shooter
 Dag II
 Monsters: Dark Continent
 Enigma
-A Soldier's Story
 Tigerland
 Huo zhe
 49th Parallel
@@ -3169,14 +2901,12 @@ Of Love and Shadows
 Hart's War
 Stalingrad
 Birkebeinerne
-Fear and Desire
 Sands of Iwo Jima
 De verdoemden
 Zhan lang II
 Baron Prásil
 Love and Death
 Voor wie de klok luidt
-Boudica
 Sergeant York
 More American Graffiti
 Sniper
@@ -3187,20 +2917,17 @@ Air America
 Taegukgi hwinalrimyeo
 Kono sekai no katasumi ni
 The Long Road Home
-Richard III
 Hell Is for Heroes
 Saboteur
 Fat Man and Little Boy
 Solomon and Sheba
 Odette
-The Heroes of Telemark
 Primeval
 The Night of the Generals
 Torpedo
 Birdy
 Uncommon Valor
 Zeven schoonheden
-North and South, Book II
 Who Killed Captain Alex?
 De forbandede år
 The Winds of War
@@ -3214,7 +2941,6 @@ Venuto al mondo
 Halo Infinite
 Bent
 Bitter Harvest
-War and Remembrance
 Miracle at St. Anna
 Twelve O'Clock High
 The Quiet American
@@ -3223,8 +2949,6 @@ The Razor's Edge
 Ship of Fools
 Die fälscher
 D-Day the Sixth of June
-Riphagen
-Against the Wind
 Escape from Sobibor
 Escape to Athena
 The Conqueror
@@ -3233,22 +2957,20 @@ Bitva za Sevastopol
 Reis der verdoemden
 Mister Roberts
 Roma città aperta
-Ruin
 A Mighty Heart
 Mandariinid
 Het schip waarop wij vochten
-Charlotte Gray
 The 300 Spartans
 Call of Duty: Black Ops
 Ugetsu monogatari
 A Matter of Life and Death
+Jeanne D'Arc
 Europa Europa
 Mediterraneo
 Zulu Dawn
 The Warlords
 The Good German
 Triple Cross
-Gears 5
 Lakshya
 Valiant
 Fallout 3
@@ -3260,7 +2982,6 @@ Murphy
 Light Up the Sky!
 Lore
 Lacombe Lucien
-Feng huo fang fei
 Dad's Army
 Au revoir là-haut
 Max Manus
@@ -3275,12 +2996,10 @@ Pred dozhdot
 The Charge of the Light Brigade
 Swing Shift
 Things to Come
-Cuba
+Another Mother's Son
 Omar
 Stop-Loss
-Jarhead 3: The Siege
 Utomlennye solntsem
-Missing in Action
 The Red Baron
 Wolfenstein II: The New Colossus
 Sniper: Legacy
@@ -3290,13 +3009,11 @@ Flight of the Intruder
 Soldaat van Oranje
 Shining Through
 Elle s'appelait Sarah
-The Man in the Gray Flannel Suit
 Khartoum
 An Ordinary Man
 The Boys in Company C
 Hyena Road
 The Hill
-Karmouz War
 In the Army Now
 Voskhozhdenie
 De ademtocht
@@ -3306,23 +3023,19 @@ Grey Knight
 Brestskaya krepost
 Alatriste
 The Devil's Brigade
-Call of Duty: Infinite Warfare
 The Mercenaries
 Operation Crossbow
 Dag
-Helen of Troy
 Börü
-1944
 City 44
 The Passing Bells
 In the Land of Blood and Honey
-Résistance
+Black Robe
 Léon Morin, prêtre
 Alexander Njefski
 Kingdom Come: Deliverance
 Kampen om tungtvannet
 Nuremberg
-Eter
 The Grey Zone
 Glorious 39
 The Incredible Mr. Limpet
@@ -3345,7 +3058,6 @@ The Finest Hour
 Sarajevo
 Flammen & Citronen
 Mughal-E-Azam
-The Devil's Disciple
 A Guy Named Joe
 9. april
 When Trumpets Fade
@@ -3354,7 +3066,6 @@ Wilkolak
 High Road to China
 Soy Cuba
 Brother Sun, Sister Moon
-Een uilskuiken trekt ten oorlog
 9th Company
 Die Brücke
 Il colosso di Rodi
@@ -3363,25 +3074,22 @@ Saints and Soldiers: War Pigs
 White Material
 Call of Duty: Black Ops 4
 The Jewel in the Crown
-Chi bi: Jue zhan tian xia
 Yojo Senki: Saga of Tanya the Evil
 The Forgotten Battle
 Cromwell
 Saints and Soldiers
 Paradise Now
 Black Gold
-Omar Mukhtar: Lion of the Desert
 Call of Duty: Black Ops II
-The Battle of Passchendaele
 Gallipoli
 This Land Is Mine
-Joan of Arc
 Love and Honor
 Beneath Hill 60
 In Tranzit
 The Caine Mutiny Court-Martial
 Ningen no jôken
 La historia oficial
+Queen
 Tomorrow, When the War Began
 The Bunker
 Aimée & Jaguar
@@ -3392,15 +3100,12 @@ Path to War
 Lady Hamilton
 The Seventh Cross
 Anzio
-Hell in the Pacific
 Ostre sledované vlaky
-Bestemming Tokio
 Biggles
 Redacted
 De avonturen van hammetje
 Meet Me in St. Louis
 Anand
-Lili
 Everyone Says I Love You
 Teletubbies
 Yeh Jawaani Hai Deewani
@@ -3421,18 +3126,16 @@ Buttons
 Godspell: A Musical Based on the Gospel According to St. Matthew
 Fame
 Breakin' 2: Electric Boogaloo
-Teen Beach 2
 Strange Magic
 The Jungle Book 2
 A Week Away
+Como Caído Del Cielo
 Charming
 Head
 My Wild Irish Rose
-Thoroughly Modern Millie
 Zet 'm op boys
 The Pirates of Penzance
 The Last Five Years
-Toruk: The First Flight
 10 Days Before the Wedding
 The Backyardigans
 Babes in Toyland
@@ -3457,7 +3160,6 @@ From Justin to Kelly
 Lady en de Vagebond II: Rakker's Avontuur
 Brigadoon
 The Rugrats Movie
-1776
 The Muppet Christmas Carol
 It's Great to Be Young!
 The Haunted World of El Superbeasto
@@ -3466,18 +3168,16 @@ The Sound of Music Live!
 The Muppets Take Manhattan
 Forbidden Zone
 Walking on Sunshine
+Camp
 The Adventures of Elmo in Grouchland
-Back to the Beach
 Cinderfella
 Carmen Jones
 Viva Las Vegas
 The Wind in the Willows
 Joe's Apartment
 Show Boat
-The Nutcracker in 3D
 The Singing Detective
 Phineas and Ferb the Movie: Candace Against the Universe
-Mohabbatein
 King Creole
 Erotisch waanzinnig
 The Little Princess
@@ -3493,16 +3193,12 @@ Kronk's New Groove
 Daffodils
 The Hunchback of Notre Dame 2: The Secret of the Bell
 The Human Tornado
-Guy and Madeline on a Park Bench
 Summer Stock
 Jetsons: The Movie
 True Stories
-Basmati Blues
 De terugkeer van de koning
-Eight Crazy Nights
 Erotic
 On the Town
-Yankee Doodle Dandy
 Beach Blanket Bingo
 As Boas Maneiras
 Moeder was Actrice
@@ -3517,11 +3213,9 @@ Bruine beer in het blauwe huis
 Rags to Riches
 Clambake
 De avonturen van Alice in Wonderland
-The Little Prince
 Baazigar
 Carousel
 Mickey, Donald, Goofy: The Three Musketeers
-Jagga Jasoos
 Peau d'âne
 Sexerella en Prins Erotico
 Bongo de Beer
@@ -3538,10 +3232,8 @@ The Broadway Melody
 Jingle Jangle
 Tom Sawyer
 Happily Ever After
-De prinses uit de onderwereld
 Porgy and Bess
 The Happiest Millionaire
-The Ruling Class
 Can't Stop the Music
 Flower Drum Song
 My Little Pony: Equestria Girls
@@ -3560,6 +3252,7 @@ Robin and the 7 Hoods
 Rags
 Opening Night
 The Cheetah Girls: One World
+Something Like Summer
 Easter Parade
 The Bohemian Girl
 Tom and Jerry: Willy Wonka and the Chocolate Factory
@@ -3568,7 +3261,6 @@ Bombay
 Lovestruck: The Musical
 Mame
 Een vreemdeling in't paradijs
-Les chansons d'amour
 Krullekopje
 Housefull 2
 Goodbye, Mr. Chips
@@ -3588,9 +3280,7 @@ The Chipmunk Adventure
 How to Rock
 Carefree
 Adventures in Wonderland
-G.I. Blues
 Aashiqui
-State Fair
 Cabin in the Sky
 Manichitrathazhu
 Barbie in the Nutcracker
@@ -3601,7 +3291,6 @@ Rigoletto
 Footlight Parade
 La flor
 Cop Rock
-The Color Purple
 Radioland Murders
 Santa Claus Is Comin' to Town
 Live a Little, Love a Little
@@ -3613,12 +3302,10 @@ The Princess and the Goblin
 The Frog Prince
 Were the World Mine
 The Devil's Carnival
-The Muppets' Wizard of Oz
 Beach Party
 Salaam-E-Ishq
 Follow That Dream
 Pooh's Heffalump Movie
-I Could Go on Singing
 Stage Door Canteen
 Piglet's Big Movie
 Mother Goose Rock 'n' Rhyme
@@ -3644,12 +3331,10 @@ Dance, Girl, Dance
 On a Clear Day You Can See Forever
 Girl Happy
 Pyaasa
-Josh
 My Little Pony: The Movie
 Rehnaa Hai Terre Dil Mein
 Don't Go in the Woods
 Monkey Business
-Breaking Glass
 The Pajama Game
 Leve de Jantjes
 Yaadein...
@@ -3658,17 +3343,14 @@ Awaara
 Billie
 Grace Stirs Up Success
 Speedway
-The Land Before Time III: The Time of the Great Giving
 I'll Be There
 Littlest Pet Shop
-Loving You
 Pajama Party
 The Search for Santa Paws
 Pooh's Grand Adventure: The Search for Christopher Robin
 Mujhse Dosti Karoge!
 At Long Last Love
 Standing Ovation
-Cinderella 2000
 Carmen
 Strike Up the Band
 Pufnstuf
@@ -3678,20 +3360,16 @@ Balto III: Wings of Change
 She Done Him Wrong
 Snezhnaya koroleva
 Anjaana Anjaani
-The Merry Widow
 Kiraware Matsuko no isshô
 Alleluia! The Devil's Carnival
 The Land Before Time XIV: Journey Of The Brave
 Company
 Teacher's Pet
 The Land Before Time V: The Mysterious Island
-Road to Bali
-Stage Fright
 Bye Bye Birdie
 Naughty Marietta
 Vaaranam Aayiram
 Bathing Beauty
-The Mikado
 So Dear to My Heart
 The Land Before Time IV: Journey Through the Mists
 The Trouble with Girls
@@ -3718,11 +3396,9 @@ The Year Without a Santa Claus
 It Happened at the World's Fair
 Paris Song
 You Were Never Lovelier
-Mother India
 The Glass Slipper
 Bran Nue Dae
 Raaz
-My Little Pony: Equestria Girls - Legend of Everfree
 Gay Purr-ee
 Hum Saath-Saath Hain: We Stand United
 Bright Eyes
@@ -3733,7 +3409,6 @@ Dolittle
 Toy Story 4
 No Time to Die
 Jumanji: The Next Level
-Terminator: Dark Fate
 Star Wars: Episode IX - The Rise of Skywalker
 F9
 The Lion King
@@ -3751,7 +3426,6 @@ Star Trek: Discovery
 Maleficent: Mistress of Evil
 Gladiator
 Wonder Woman 1984
-Interstellar
 Inglourious Basterds
 The Shape of Water
 His Dark Materials
@@ -3765,8 +3439,6 @@ Shazam!
 Fast & Furious Presents: Hobbs & Shaw
 Timmy Failure: Mistakes Were Made
 Once Upon a Time
-Batwoman
-Spider-Man: Far from Home
 Eternals
 Star Trek: Voyager
 Rambo: Last Blood
@@ -3787,19 +3459,15 @@ Magnum P.I.
 Captain Marvel
 Spartacus
 The Orville
-Black Panther
 Guardians of the Galaxy
 Magnum, P.I.
-S.W.A.T.
 Avatar
 Gisaengchung
-Jojo Rabbit
 Once Upon a Time ...in Hollywood
 Knives Out
 Sex Education
 Marriage Story
 Bad Boys for Life
-Brooklyn Nine-Nine
 Mythic Quest: Raven's Banquet
 Cats
 Downhill
@@ -3810,24 +3478,19 @@ Come to Daddy
 Hustlers
 Grace and Frankie
 The Marvelous Mrs. Maisel
-The Boys
 It's Always Sunny in Philadelphia
 The Goldbergs
 Zombieland: Double Tap
 Parks and Recreation
-Booksmart
 The Jesus Rolls
-Lady Bird
-Young Sheldon
+How I Met Your Mother
 High Fidelity
 The Simpsons
-The Favourite
 Bones
 Ready or Not
 The Other Guys
 Three Billboards Outside Ebbing, Missouri
 Playing with Fire
-Katy Keene
 Miracle Workers
 Family Guy
 Last Christmas
@@ -3841,7 +3504,6 @@ Risky Business
 What We Do in the Shadows
 The Farewell
 New Girl
-Last Man Standing
 Community
 Long Shot
 South Park
@@ -3858,10 +3520,8 @@ Tonari no Totoro
 Star Wars: Rebels
 The Goonies
 Everest: De jonge Yeti
-The Princess Bride
 Vaiana
 Dora and the Lost City of Gold
-Harry Potter and the Goblet of Fire
 Fantastic Beasts: The Crimes of Grindelwald
 Wonder
 The Sound of Music
@@ -3891,7 +3551,6 @@ Titanic
 Call Me by Your Name
 Her
 The King
-After
 The Notebook
 Downton Abbey
 Shikara
@@ -3904,11 +3563,9 @@ Station 19
 La vita è bella
 Will & Grace
 Queen & Slim
-Fifty Shades of Grey
 Crazy, Stupid, Love.
 Twilight
 When Calls the Heart
-True Romance
 Big Mouth
 A Rainy Day in New York
 Crazy Rich Asians
@@ -3926,7 +3583,6 @@ Gwoemul
 The 100
 Watchmen
 Underwater
-Dark
 Gemini Man
 Contagion
 Blade Runner 2049
@@ -3961,7 +3617,6 @@ The Coldest Game
 NCIS: Naval Criminal Investigative Service
 Gretel & Hansel
 The Blacklist
-Salinui chueok
 Survive
 Messiah
 Most Dangerous Game
@@ -3990,19 +3645,14 @@ Lincoln Rhyme: Hunt for the Bone Collector
 A Fall from Grace
 Dunkirk
 Horse Girl
-The Lighthouse
-The Magicians
 Endeavour
 Motherless Brooklyn
 The Turning
-Us
 The Good Liar
 Oldeuboi
 Safe
 The Green Mile
-Carnival Row
 Get Out
-Hereditary
 13 Reasons Why
 Prisoners
 FBI
@@ -4017,14 +3667,12 @@ True History of the Kelly Gang
 Longmire
 The Ballad of Buster Scruggs
 Hostiles
-Tombstone
 Deadwood
 De eenogige sheriff
 Unforgiven
 Hell or High Water
 Once Upon a Time in the West
 True Grit
-Free State of Jones
 Bone Tomahawk
 Blazing Saddles
 Bonanza
@@ -4038,15 +3686,11 @@ The Searchers
 The Horse Whisperer
 Justice
 Pony Soldier
-The Son
 A Fistfull of Dollars
 Joheunnom nabbeunnom isanghannom
 El Dorado
-The Man from Snowy River
 The Proposition
-Crossfire Trail
 For a Few Dollars More
-Young Guns
 The Villain
 Lonesome Dove
 Giant
@@ -4055,7 +3699,6 @@ The Cabin in the Woods
 Busanhaeng
 Polaroid
 Servant
-Countdown
 The VVitch: A New-England Folktale
 Shingeki no kyojin
 The Boy
@@ -4063,7 +3706,6 @@ Alien
 Zombieland
 Doctor Strange in the Multiverse of Madness
 Scary Stories to Tell in the Dark
-Salò o le 120 giornate di Sodoma
 In the Tall Grass
 Ares
 Mother!
@@ -4073,7 +3715,6 @@ Annihilation
 Antebellum
 The Dead Don't Die
 Antlers
-From Dusk Till Dawn
 Mandy
 World War Z
 Swamp Thing
@@ -4092,20 +3733,15 @@ Richard Jewell
 The Godfather
 The Wolf of Wall Street
 Stumptown
-Pulp Fiction
 Unbelievable
 Goodfellas
-Bosch
 NCIS: Los Angeles
 The Outsiders
 The Silence of the Lambs
 1917
 Midway
-Rise of Empires: Ottoman
 The Last Full Measure
-Band of Brothers
 Saving Private Ryan
-Apocalypse Now
 Hacksaw Ridge
 Darkest Hour
 Baa Baa Black Sheep
@@ -4126,7 +3762,6 @@ Black Hawk Down
 The Deer Hunter
 The Aftermath
 Official Secrets
-Lawrence of Arabia
 American Sniper
 The English Patient
 Paths of Glory
@@ -4140,10 +3775,7 @@ The Great War
 Elizabeth: The Golden Age
 Hotaru no haka
 Lone Survivor
-The Patriot
 T-34
-The Last Samurai
-The Thin Red Line
 Der Untergang
 Empire of the Sun
 The Greatest Showman
@@ -4157,7 +3789,6 @@ Star Wars: Episode VII - The Force Awakens
 X-Men: Apocalypse
 Quantum of Solace
 Deadpool
-Jurassic World: Fallen Kingdom
 Captain America: The First Avenger
 Jurassic World 3
 Batman v Superman: Dawn of Justice
@@ -4169,9 +3800,7 @@ The Falcon and the Winter Soldier
 Solo: A Star Wars Story
 Percy Jackson & the Lightning Thief
 Bumblebee
-Willow
 Spider-Man: Homecoming
-The Aeronauts
 King Arthur: Legend of the Sword
 Triple Frontier
 Star Trek: The Future Begins
@@ -4186,7 +3815,6 @@ Man of Steel
 The Nightingale
 Star Trek: Beyond
 2001: A Space Odyssey
-Spider-Man
 Jungle Cruise
 Firefly
 Dirilis: Ertugrul
@@ -4199,12 +3827,9 @@ Jurassic World
 High Life
 A Series of Unfortunate Events
 Artemis Fowl
-Captain America: Civil War
-Valerian and the City of a Thousand Planets
 Terminator Genisys
 Into the Badlands
 Indiana Jones and the Kingdom of the Crystal Skull
-Harry Potter and the Order of the Phoenix
 The King's Man
 The Righteous Gemstones
 The Conners
@@ -4225,7 +3850,6 @@ Chuck
 Jane the Virgin
 Shrill
 Birdman or (The Unexpected Virtue of Ignorance)
-Good Trouble
 Clueless
 Instant Family
 Ocean's Eight
@@ -4266,14 +3890,11 @@ Good Luck Charlie
 Rumble
 Hachi
 Slumdog Millionaire
-Sense and Sensibility
 Immortals
-Phantom Thread
 Passengers
 Kimi no na wa.
 Younger
 Brokeback Mountain
-The Curious Case of Benjamin Button
 Fifty Shades Darker
 Tenki no ko
 The Perks of Being a Wallflower
@@ -4288,7 +3909,6 @@ Move Over, Darling
 Blue Valentine
 Meet Joe Black
 The Legend of Tarzan
-The Theory of Everything
 The Philadelphia Story
 Jessica Jones
 The War of the Worlds
@@ -4296,9 +3916,9 @@ Logan
 Devs
 Donnie Darko
 The Tomorrow War
-Sense8
 Upgrade
 Mr. Mercedes
+The Matrix Reloaded
 Looper
 The Room
 Edge of Tomorrow
@@ -4306,15 +3926,12 @@ Alien: Covenant
 28 Days Later...
 Orphan Black
 Emergence
-Transformers
 Starship Troopers
 The Fifth Element
-Infinite
 Predator
 Captain America: The Winter Soldier
 Prometheus
 Beforeigners
-Hollow Man
 Glitch
 A Simple Favor
 Angel Has Fallen
@@ -4329,7 +3946,6 @@ Zodiac
 The Prestige
 The Body
 Counterpart
-Glass
 Venom
 Person of Interest
 Veronica Mars
@@ -4338,7 +3954,6 @@ Memento
 The Curse of la Llorona
 The Informer
 Reservoir Dogs
-Bodyguard
 Extremely Wicked, Shockingly Evil and Vile
 Luther
 Black Swan
@@ -4349,22 +3964,17 @@ Ex Machina
 John Wick: Chapter 2
 The Report
 Promising Young Woman
-Polar
 The Dawn
 Eyes Wide Shut
 The Usual Suspects
 Heat
 Banshee
 Sicario
-Seberg
 The Mule
 Medici
 The Conjuring: The Devil Made Me Do It
 Escape from Pretoria
-Bad Times at the El Royale
-Sharp Objects
 Contratiempo
-Argo
 Cold Pursuit
 Kingdom
 Vivarium
@@ -4372,12 +3982,10 @@ Grantchester
 Beoning
 Nancy Drew
 Deadwater Fell
-CSI: Miami
 The Good Wife
 The Five
 The Alienist
 Harry Potter and the Half-Blood Prince
-Death on the Nile
 Game Night
 Saw
 Scream
@@ -4389,9 +3997,9 @@ One-Eyed Jacks
 Support Your Local Gunfighter
 Heaven's Gate
 Cat Ballou
+Bandidas
 The Homesman
 Lucky
-Hang 'Em High
 Hud
 Bad Girls
 Casa de mi Padre
@@ -4399,11 +4007,9 @@ The Shootist
 Soldier Blue
 Kung Fu
 Days Gone
-Big Kill
 Paint Your Wagon
 A Fistful of Dynamite
 Il mio nome è Nessuno
-The Apple Dumpling Gang
 Shanghai Noon
 Harley Davidson and the Marlboro Man
 Woman Walks Ahead
@@ -4415,20 +4021,14 @@ McCabe & Mrs. Miller
 Oklahoma!
 The Duel
 Zorro: The Gay Blade
-Texas Rising
 Zonder genade
-The Misfits
-Broken Arrow
 Red Dead Redemption
 The Big Country
-The Sons of Katie Elder
 Lone Wolf McQuade
 De 4 Geweldenaars
-The Rider
 Far Cry 5
 Tom and Huck
 Meek's Cutoff
-How the West Was Won
 The Comancheros
 Op Het Spoor van de Apachen
 Tall Tale
@@ -4436,14 +4036,11 @@ Vogelvrij verklaard
 Almost Heroes
 Column South
 Badland
-Pat Garrett & Billy the Kid
 Tremors 4: The Legend Begins
 El infierno
-Lawman
 Many Rivers to Cross
 Rooster Cogburn
 The Long Riders
-Bring Me the Head of Alfredo Garcia
 Fort Apache
 Seraphim Falls
 Western Union
@@ -4459,7 +4056,6 @@ Cowboys vs Dinosaurs
 Rocky Mountain
 Sacred Lies
 Hansel & Gretel: Witch Hunters
-Annabelle Comes Home
 Little Joe
 Interview with the Vampire: The Vampire Chronicles
 Martyrs
@@ -4475,13 +4071,10 @@ The Mortal Instruments: City of Bones
 When They See Us
 Father Brown
 Elementary
-BlacKkKlansman
 The Godfather: Part III
-Drive
 Catch Me If You Can
 Deadwood
 Spotlight
-American Hustle
 The House That Jack Built
 Les misérables
 American Made
@@ -4501,15 +4094,12 @@ Hotel Rwanda
 The Painted Bird
 Kurulus: Osman
 Red Tails
-Mientras dure la guerra
 Beasts of No Nation
 Call of Duty: Modern Warfare
 Jarhead: Law of Return
 Den 12. mann
 The Birth of a Nation
-De ongelooflijke overwinning
 The Killing Fields
-De dictator
 All Quiet on the Western Front
 Macbeth
 Letters from Iwo Jima
@@ -4519,7 +4109,6 @@ Greyhound
 Crimson Tide
 Centurion
 Kesari
-Hamburger Hill
 Imperium
 Battle of Britain
 Se, jie
@@ -4528,7 +4117,6 @@ Roots
 Thank You for Your Service
 The Siege of Jadotville
 The Book Thief
-1941
 Anthropoid
 The African Queen
 The Sum of All Fears
@@ -4568,21 +4156,19 @@ USS Indianapolis: Men of Courage
 Der Hauptmann
 The Eagle
 Tiempos de guerra
-Rio Lobo
 Hair
 The Zookeeper's Wife
 De beste jaren van ons leven
 Whiskey Tango Foxtrot
 North and South
 The Catcher Was a Spy
+The Wall
 Heartbreak Ridge
-Zulu
 The Edge of Love
 Yi dai zong shi
 The Men Who Stare at Goats
 Under sandet
 The Outpost
-Tears of the Sun
 Hello, Dolly!
 Galavant
 Funny Girl
@@ -4592,13 +4178,11 @@ The Rocky Horror Picture Show: Let's Do the Time Warp Again
 South Park: Bigger, Longer & Uncut
 Repo! The Genetic Opera
 Evita
-School Daze
 The King and I
 Monty Python's the Meaning of Life
 The Lion King 3: Hakuna Matata
 Sunshine on Leith
 The Many Adventures of Winnie the Pooh
-The Pirate Movie
 Het kleinste bordeel in Texas
 Happy Feet 2
 Gentlemen Prefer Blondes
@@ -4613,8 +4197,6 @@ The Brave Little Toaster
 The New Adventures of Pippi Longstocking
 Romance & Cigarettes
 Pee-wee's Playhouse
-Les parapluies de Cherbourg
-White Christmas
 Hairspray Live!
 Winnie de Poeh
 Guys and Dolls
@@ -4627,39 +4209,24 @@ Chi-Raq
 Om Shanti Om
 Blue Hawaii
 ---------------- 
-TOPIC : 1
-MOST IMPORTANT WORDS: ['katniss', 'joon', 'perseus', 'gerry', 'ah', 'jung', 'maisie', 'vinny', 'seok', 'jasmine', 'peeta', 'rapunzel', 'naadirah', 'xing', 'tobin', 'philippe', 'tae', 'are', 'vlad', 'redding']
-MOVIES OF THIS TOPIC: 
-Another Mother's Son
----------------- 
-TOPIC : 2
-MOST IMPORTANT WORDS: ['penguin', 'lara', 'oskar', 'andie', 'dil', 'scrooge', 'jess', 'wesker', 'pluto', 'kermit', 'rudd', 'gwada', 'harge', 'dormer', 'winn', 'symbiote', 'rydal', 'jw', 'edmond', 'leprechaun']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 3
-MOST IMPORTANT WORDS: ['gandalf', 'gillian', 'doom', 'eggsy', 'pooh', 'laney', 'kay', 'giselle', 'gollum', 'declan', 'megamind', 'bozz', 'merrimen', 'barnum', 'bilbo', 'aragorn', 'agu', 'horace', 'denny', 'fonny']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 4
-MOST IMPORTANT WORDS: ['dom', 'arlo', 'seymour', 'tris', 'kip', 'aang', 'kron', 'ravenna', 'boris', 'toymaker', 'curt', 'ferdinand', 'ripley', 'rhiannon', 'sethe', 'arnold', 'pedro', 'sceptre', 'fe', 'zuko']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 5
-MOST IMPORTANT WORDS: ['austin', 'kay', 'becky', 'kermit', 'scarlett', 'jess', 'patty', 'starr', 'gru', 'khmer', 'hobbs', 'tmulti', 'minchin', 'lucien', 'hamer', 'rhett', 'curly', 'monolith', 'bejoy', 'piggy']
-MOVIES OF THIS TOPIC: 
-Gandii Baat
----------------- 
 TOPIC : 6
-MOST IMPORTANT WORDS: ['dracula', 'edmund', 'helsing', 'romeo', 'jess', 'milly', 'candyman', 'zak', 'ido', 'riddell', 'abe', 'llorona', 'suzy', 'ki', 'laurie', 'kat', 'hu', 'renfield', 'wesley', 'vito']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 7
-MOST IMPORTANT WORDS: ['rambo', 'bala', 'lana', 'madeline', 'cinderella', 'orry', 'gru', 'sol', 'elinor', 'oz', 'mack', 'ghoul', 'candace', 'ellen', 'redfly', 'bushranger', 'deborah', 'crawler', 'jen', 'mera']
+MOST IMPORTANT WORDS: ['parser', 'output', 'em', 'mw', 'align', 'katniss', 'poe', 'mick', 'soo', 'hyun', 'hanna', 'presented', 'text', 'josephine', 'sethe', 'sang', 'ferdinand', 'barbarosa', 'film', 'comedy']
 MOVIES OF THIS TOPIC: 
 Irréversible
-Unsere Mütter, unsere Väter
+Salò o le 120 giornate di Sodoma
+Lawrence of Arabia
+---------------- 
+TOPIC : 7
+MOST IMPORTANT WORDS: ['doom', 'beckett', 'erica', 'lorraine', 'charley', 'gandalf', 'rouge', 'oskar', 'artagnan', 'woo', 'drac', 'ki', 'scarlett', 'rhett', 'shik', 'audience', 'jun', 'david', 'tasked', 'raoul']
+MOVIES OF THIS TOPIC: 
+Red Cliff
+Shock and Awe
+Fear and Desire
+Chi bi: Jue zhan tian xia
+Death on the Nile
 ---------------- 
 TOPIC : 8
-MOST IMPORTANT WORDS: ['zoey', 'mimi', 'maleficent', 'darcy', 'alicia', 'brooke', 'wand', 'poe', 'boris', 'stefan', 'tessa', 'pee', 'wee', 'tibbs', 'albright', 'artagnan', 'shere', 'noah', 'godmother', 'tj']
+MOST IMPORTANT WORDS: ['marty', 'bo', 'stu', 'melanie', 'abe', 'bala', 'constantine', 'arlo', 'shere', 'jen', 'ronny', 'vlad', 'madeline', 'film', 'dos', 'redding', 'orry', 'departure', 'absence', 'part']
 MOVIES OF THIS TOPIC: 
+Les chansons d'amour
 Uri: The Surgical Strike

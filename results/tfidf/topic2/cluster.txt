@@ -1,469 +1,7923 @@
 Experiment cluster 
 ***********************
-MOVIE :The Amazing World of Gumball
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :The Croods
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Kaubôi bibappu
+MOVIE :Balkanskiy rubezh
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Something Like Summer
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Zone Blanche
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Son of the Mask
+MOVIE :The Dark Crystal
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Chitty Chitty Bang Bang
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Eight Crazy Nights
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Camp
+MOVIE :Gedo senki
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Saw III
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Last Tango in Paris
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Glengarry Glen Ross
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Sharp Objects
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Minuscule - Les mandibules du bout du monde
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Black Clover
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Lucy in the Sky
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Fifty Shades of Grey
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Conspiracy
+MOVIE :One Punch Man: Wanpanman
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :The Matrix Reloaded
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Zathura: A Space Adventure
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :American Mary
+MOVIE :ALF
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :The Wall
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :A Good Year
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Urban Cowboy
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Unfaithful
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Trolls
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :G.I. Blues
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Churchill
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :The Reader
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Max
+MOVIE :Vamos a matar, compañeros
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Bandidas
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Taking Lives
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :De vrouw die gelyncht moest worden
+MOVIE :Bad Times at the El Royale
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :M - Eine Stadt sucht einen Mörder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Us
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Nerve
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Grudge
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :London Has Fallen
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :High Ground
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Russian Doll
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :My Little Pony: Equestria Girls - Legend of Everfree
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Insidious: The Last Key
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Interstellar
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Man in the Wilderness
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Son
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Baby-Sitters Club
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Yankee Doodle Dandy
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Silent Tongue
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Teen Beach 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Infinite
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Strangers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bugsy Malone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Thoroughly Modern Millie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dumplin'
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Battle of Passchendaele
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Aquaman 2
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Ant-Man
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Boys
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Hunt for Red October
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Wings
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hollow Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Thunderball
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Justice League Part Two
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Couples Retreat
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :De dictator
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Scooby-Doo 2: Monsters Unleashed
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :High School Musical: The Musical - The Series
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Thin Red Line
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Joan of Arc
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Ruling Class
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :St. Elmo's Fire
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Someone Great
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Gran Hotel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Apple Dumpling Gang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Scream 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Darkest Minds
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Gamgi
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Willow
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Coming Home
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Résistance
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Fury
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Batman: Arkham Knight
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Penny Dreadful: City of Angels
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hitch
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dora the Explorer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Politician
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Librarians
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dark
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Kiseijû: Sei no kakuritsu
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Unicorn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Pirates of the Caribbean: Dead Man's Chest
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Harry Potter and the Goblet of Fire
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Last House on the Left
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Devil
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
 MOVIE :Frozen II
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Ice Age
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Leprechaun
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Welcome to Marwen
+MOVIE :Rio Conchos
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :The Witches of Eastwick
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :New York Minute
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Au revoir les enfants
+MOVIE :Helen of Troy
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Como Caído Del Cielo
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Haute tension
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Jeanne D'Arc
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :State Fair
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Patch Adams
+MOVIE :The Lone Ranger
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :The Incredible Hulk
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :La influencia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :How I Met Your Mother
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :John Wick: Chapter 4
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Sixteen Candles
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :The Haunting
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Gilmore Girls: A Year in the Life
+MOVIE :Hamburger Hill
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Rise of the Guardians
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :Cinderella 2000
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :The Lovebirds
+MOVIE :Band of Brothers
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
 ***********************
-MOVIE :Queen
-CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+MOVIE :The Do-Over
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
 ***********************
-MOVIE :Black Robe
+MOVIE :Ice Age: Collision Course
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Lighthouse
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Intern
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Pulp Fiction
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Morgan
 CLUSTER :1
-Samuel L. Jackson : 35
-John Wayne : 34
-Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
-Morgan Freeman : 27
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Max en de maximonsters
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Working Girl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Malcolm X
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Good Luck Chuck
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Carrie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Eden Lake
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :True Lies
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Curious Case of Benjamin Button
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mutiny on the Bounty
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Power Rangers Beast Morphers
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Lili
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mortal Kombat: Annihilation
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Terminator: Dark Fate
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Absentia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Splice
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Hoo-goong: Je-wang-eui cheob
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Jagga Jasoos
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Patriot Games
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Event Horizon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Salinui chueok
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Ruin
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Santa Fe Marshal
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Rider
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Tears of the Sun
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Force 10 from Navarone
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Town
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Eureka
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :SpaceCamp
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Basmati Blues
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Young Sheldon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Thirteenth Year
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Crying Game
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :De ondraaglijke lichtheid van het bestaan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Levend of dood
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Feng huo fang fei
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Deception
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Rare Breed
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Poltergeist
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Big Kill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Swiss Army Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Booksmart
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sorry to Bother You
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Diary of a Wimpy Kid
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bleach: Burîchi
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Nun
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Killing Me Softly
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :De Wilde Ganzen
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Edge of Seventeen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Gears 5
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :10 Cloverfield Lane
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Zoo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Flight of the Navigator
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Doubt
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Breaking Glass
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :My Bodyguard
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Apocalypse Now
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Noah
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Spaceballs
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Far Horizons
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Inside Out
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :As Above, So Below
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Transformers
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Henry Danger
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bestemming Tokio
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Pirate Movie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Phantom Thread
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Een uilskuiken trekt ten oorlog
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Captain America: Civil War
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Amazing Spider-Man 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Diagnosis Murder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Thing
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Zulu
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Wild Bill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Victor Frankenstein
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Possession
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Gone in Sixty Seconds
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Much Ado About Nothing
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Wild Boys
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Plainsman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Sense8
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Merry Widow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :1944
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Flintstones in Viva Rock Vegas
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Back to the Beach
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Craft
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Spider-Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Devil's Disciple
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Babysitter
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hereditary
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Return of the Texas Chainsaw Massacre
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Fantastic Mr. Fox
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Artificial Intelligence: AI
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Yes Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mary Poppins
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Toy Story 3
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Heroes of Telemark
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Man from Snowy River
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Eter
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Beyond Skyline
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Remains of the Day
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :School Daze
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Iron Will
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Glass
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Kenny Rogers as The Gambler
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :A Cure for Wellness
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :I Could Go on Singing
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sharknado
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Jarhead 3: The Siege
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Paddington 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Barquero
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Revengers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Percy Jackson: Sea of Monsters
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :In het voetspoor van Django
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dragonball Evolution
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :White Christmas
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Reno 911!
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Flash Gordon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Deathwatch
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Batwoman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :A Soldier's Story
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Monster House
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Everything's Gonna Be Okay
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Texican
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mientras dure la guerra
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :De prinses uit de onderwereld
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Mayhem
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Pride and Prejudice
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :North to Alaska
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :My Life Is Murder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Wild Horses
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Rise of Empires: Ottoman
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Man in the Gray Flannel Suit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Kundun
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Tombstone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bad Boys II
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Yellow Sky
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Homefront
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mr. & Mrs. Smith
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Argo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Rachel Getting Married
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Seventh Son
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :De man met het geweer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :City of Lies
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Call of Duty: Infinite Warfare
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The NeverEnding Story
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :After
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Missing in Action
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Spectral
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Mikado
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Ayla: The Daughter of War
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Bodyguard
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Journey 2: The Mysterious Island
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Jungle
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sophie Scholl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Liv and Maddie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dead Birds
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Gevaarlijk spel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Under the Shadow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Meet the Parents
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Guy and Madeline on a Park Bench
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mohabbatein
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Loving Vincent
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Healer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :St. Trinian's
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sam & Cat
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Good, the Bad and the Dead
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Neon Demon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Home Alone 3
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :La haine
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Harry Potter and the Order of the Phoenix
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Loving You
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Damages
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Omar Mukhtar: Lion of the Desert
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Unsere Mütter, unsere Väter
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Riphagen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Uncle Buck
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :This Means War
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Me and Earl and the Dying Girl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Powerpuff Girls
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dawn of the Dead
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Liu lang di qiu
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Michael Collins
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :North and South, Book II
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bean
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Katy Keene
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Blackthorn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Montana Sky
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :I Love You, Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hang 'Em High
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Black Panther
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Road to Bali
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Theory of Everything
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Osmosis Jones
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hell in the Pacific
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Firm
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :La migliore offerta
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sleepwalkers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sahara
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Texas Rising
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Minority Report
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Het commando der wrake
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Three Stooges
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Timerider: The Adventure of Lyle Swann
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Munsters
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :CSI: Miami
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Flight 7500
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Last Hard Men
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Final Destination
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Snow Day
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Schat in het zilvermeer
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Lie with Me
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Karmouz War
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Taza, Son of Cochise
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Wonderland
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dredd
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Contact
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Tucker and Dale vs Evil
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mystic River
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Annie Hall
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Awkwafina Is Nora from Queens
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :State of Play
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Call of Duty: WWII
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Suspiria
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Imaginarium of Doctor Parnassus
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Blue Lagoon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Crossfire Trail
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :1776
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Mission: Impossible II
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Unfriended: Dark Web
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Escort
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :La llorona
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Drive
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Disaster Movie
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :BlacKkKlansman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Signs
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Conjuring 2
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Lust in the Dust
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Shubh Mangal Saavdhan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :When Harry Met Sally...
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Lincoln Lawyer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Lifeforce
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Let It Snow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Patriot
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Eragon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Savages
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Brooklyn Nine-Nine
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Chronicles of Narnia: Prince Caspian
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Young Guns
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Dumbo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Spy Kids 4: All the Time in the World
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Les parapluies de Cherbourg
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Call of the Wild
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Armageddon
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Spectros
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :I Know What You Did Last Summer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :1941
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Cosby Show
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Sense and Sensibility
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :S.W.A.T.
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :How the West Was Won
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Rio Lobo
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Land Before Time III: The Time of the Great Giving
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Where Eagles Dare
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Valerian and the City of a Thousand Planets
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Josh
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Charlotte Gray
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Nightbreed
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Woman in the Window
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Cabin Fever
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Forbidden Planet
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Max
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Kingdom Hearts III
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Good Trouble
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Nutcracker in 3D
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :A Single Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Crawl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :He's Out There
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Annabelle Comes Home
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Wraith
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Green Acres
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Doom Asylum
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Jojo Rabbit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Bad Batch
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :War and Remembrance
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Skyscraper
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :7 Men from Now
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Little Prince
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Polar
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Snowpiercer
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Broken Arrow
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Chronicles of Narnia: The Voyage of the Dawn Treader
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Epic
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Doom: Annihilation
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Favourite
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Sons of Katie Elder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hatchet
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Lawman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mimic
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Elvira: Mistress of the Dark
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Nosferatu
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Fiddler on the Roof
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Jason Bourne
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Cloverfield Paradox
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :X-Men: First Class
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :True Romance
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Richard III
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Dark Skies
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Verraderlijker dan een slang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mortal Engines
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Mannequin
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :From Dusk Till Dawn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Jauja
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Corpse Bride
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Terrifier
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Widows
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Lock, Stock and Two Smoking Barrels
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Last Man Standing
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Cuba
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Teenage Mutant Ninja Turtles: Out of the Shadows
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Against the Wind
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Toruk: The First Flight
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Frighteners
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Resident Evil
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Green Inferno
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Cargo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Aeronauts
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Bring Me the Head of Alfredo Garcia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :De ongelooflijke overwinning
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :A Dog's Purpose
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Flipped
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Young Billy Young
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Eagle Eye
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Magnum Force
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Peggy Sue Got Married
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Indecent Proposal
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Free State of Jones
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Man from Earth
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Lady Bird
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Les yeux sans visage
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Bronson
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Iron Eagle
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Spider-Man: Far from Home
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Jurassic World: Fallen Kingdom
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Pat Garrett & Billy the Kid
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Traffic
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Stage Fright
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Mother India
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Misfits
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Grand Hotel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Wu Assassins
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :The Visit
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Muppets' Wizard of Oz
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Countdown
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :War of the Worlds
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :Mr. Jones
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12
+***********************
+MOVIE :A Nightmare on Elm Street
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Princess Bride
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Peter Pan
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Escape to Witch Mountain
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :American Hustle
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Hilda
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Bye Bye Man
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :Red Dragon
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Buscemi : 24
+Robert De Niro : 22
+Johnny Depp : 21
+Jim Cummings : 20
+Adam Sandler : 20
+James Stewart : 20
+John Wayne : 19
+Jack Elam : 19
+Tom Hanks : 18
+Cameron Diaz : 18
+***********************
+MOVIE :The Last Samurai
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 15
+Gary Oldman : 15
+Vin Diesel : 14
+Laurence Fishburne : 14
+Sylvester Stallone : 14
+Christopher Plummer : 14
+Dwayne Johnson : 13
+Alan Tudyk : 12
+Patrick Stewart : 12
+Christian Bale : 12

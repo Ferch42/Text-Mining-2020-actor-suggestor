@@ -1,469 +1,7923 @@
 Experiment cluster 
 ***********************
-MOVIE :The Amazing World of Gumball
+MOVIE :The Croods
 CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
 ***********************
-MOVIE :Kaubôi bibappu
+MOVIE :Balkanskiy rubezh
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Zone Blanche
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Dark Crystal
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Eight Crazy Nights
 CLUSTER :8
-Samuel L. Jackson : 14
-Patrick Stewart : 12
-Dwayne Johnson : 12
-Hugh Jackman : 11
-Desmond Llewelyn : 11
-Vin Diesel : 11
-Simon Pegg : 11
-Will Smith : 10
-Lois Maxwell : 10
-Zoe Saldana : 10
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
 ***********************
-MOVIE :Something Like Summer
+MOVIE :Gedo senki
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Last Tango in Paris
 CLUSTER :9
-Rachel McAdams : 8
-Nicolas Cage : 7
-Leslie Mann : 6
-Kevin Bacon : 6
-Tom Hanks : 5
-Samuel L. Jackson : 5
-Kathryn Hahn : 5
-Logan Miller : 5
-Paul Rudd : 5
-James Remar : 5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
 ***********************
-MOVIE :Son of the Mask
+MOVIE :Sharp Objects
 CLUSTER :9
-Rachel McAdams : 8
-Nicolas Cage : 7
-Leslie Mann : 6
-Kevin Bacon : 6
-Tom Hanks : 5
-Samuel L. Jackson : 5
-Kathryn Hahn : 5
-Logan Miller : 5
-Paul Rudd : 5
-James Remar : 5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
 ***********************
-MOVIE :Chitty Chitty Bang Bang
-CLUSTER :8
-Samuel L. Jackson : 14
-Patrick Stewart : 12
-Dwayne Johnson : 12
-Hugh Jackman : 11
-Desmond Llewelyn : 11
-Vin Diesel : 11
-Simon Pegg : 11
-Will Smith : 10
-Lois Maxwell : 10
-Zoe Saldana : 10
-***********************
-MOVIE :Camp
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Saw III
+MOVIE :Black Clover
 CLUSTER :7
-James Stewart : 19
-Jack Elam : 16
-Harry Carey Jr. : 15
-Robert De Niro : 14
-John Wayne : 14
-Paul Fix : 13
-Robert Duvall : 11
-Johnny Depp : 10
-Willem Dafoe : 10
-Sam Elliott : 10
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
 ***********************
-MOVIE :Glengarry Glen Ross
+MOVIE :Fifty Shades of Grey
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :One Punch Man: Wanpanman
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Zathura: A Space Adventure
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :ALF
 CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
 ***********************
-MOVIE :Minuscule - Les mandibules du bout du monde
-CLUSTER :7
-James Stewart : 19
-Jack Elam : 16
-Harry Carey Jr. : 15
-Robert De Niro : 14
-John Wayne : 14
-Paul Fix : 13
-Robert Duvall : 11
-Johnny Depp : 10
-Willem Dafoe : 10
-Sam Elliott : 10
+MOVIE :A Good Year
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
 ***********************
-MOVIE :Lucy in the Sky
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
+MOVIE :Unfaithful
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
 ***********************
-MOVIE :Conspiracy
+MOVIE :G.I. Blues
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Reader
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Vamos a matar, compañeros
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Taking Lives
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Bad Times at the El Royale
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :M - Eine Stadt sucht einen Mörder
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Us
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Nerve
 CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
 ***********************
-MOVIE :The Matrix Reloaded
-CLUSTER :8
-Samuel L. Jackson : 14
-Patrick Stewart : 12
-Dwayne Johnson : 12
-Hugh Jackman : 11
-Desmond Llewelyn : 11
-Vin Diesel : 11
-Simon Pegg : 11
-Will Smith : 10
-Lois Maxwell : 10
-Zoe Saldana : 10
-***********************
-MOVIE :American Mary
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :The Wall
-CLUSTER :8
-Samuel L. Jackson : 14
-Patrick Stewart : 12
-Dwayne Johnson : 12
-Hugh Jackman : 11
-Desmond Llewelyn : 11
-Vin Diesel : 11
-Simon Pegg : 11
-Will Smith : 10
-Lois Maxwell : 10
-Zoe Saldana : 10
-***********************
-MOVIE :Urban Cowboy
+MOVIE :The Grudge
 CLUSTER :7
-James Stewart : 19
-Jack Elam : 16
-Harry Carey Jr. : 15
-Robert De Niro : 14
-John Wayne : 14
-Paul Fix : 13
-Robert Duvall : 11
-Johnny Depp : 10
-Willem Dafoe : 10
-Sam Elliott : 10
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
 ***********************
-MOVIE :Trolls
+MOVIE :London Has Fallen
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :High Ground
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Russian Doll
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :My Little Pony: Equestria Girls - Legend of Everfree
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Insidious: The Last Key
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Interstellar
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Man in the Wilderness
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Son
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Baby-Sitters Club
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Yankee Doodle Dandy
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Silent Tongue
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Teen Beach 2
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Infinite
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Strangers
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Bugsy Malone
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Thoroughly Modern Millie
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Dumplin'
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Battle of Passchendaele
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Aquaman 2
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Ant-Man
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Boys
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Hunt for Red October
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Wings
 CLUSTER :1
-Catherine O'Hara : 6
-Dave Goelz : 6
-Joan Cusack : 5
-Wallace Shawn : 5
-Kath Soucie : 5
-Steve Whitmire : 5
-Judy Garland : 5
-Steve Buscemi : 4
-Frank Oz : 4
-Bobby Moynihan : 4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonah Hill : 3
+Christopher Walken : 3
+Graham Greene : 3
+Harry Dean Stanton : 3
+Godfrey Quigley : 2
+Jane Seymour : 2
+Jayne Eastwood : 2
+Channing Tatum : 2
+Burt Reynolds : 2
+Cullen Moss : 2
 ***********************
-MOVIE :Churchill
+MOVIE :Hollow Man
 CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
 ***********************
-MOVIE :Max
-CLUSTER :1
-Catherine O'Hara : 6
-Dave Goelz : 6
-Joan Cusack : 5
-Wallace Shawn : 5
-Kath Soucie : 5
-Steve Whitmire : 5
-Judy Garland : 5
-Steve Buscemi : 4
-Frank Oz : 4
-Bobby Moynihan : 4
+MOVIE :Thunderball
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
 ***********************
-MOVIE :Bandidas
+MOVIE :Justice League Part Two
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Couples Retreat
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :De dictator
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Scooby-Doo 2: Monsters Unleashed
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :High School Musical: The Musical - The Series
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Thin Red Line
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Joan of Arc
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Ruling Class
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :St. Elmo's Fire
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Someone Great
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Gran Hotel
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Apple Dumpling Gang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Scream 2
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Darkest Minds
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Gamgi
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Willow
 CLUSTER :7
-James Stewart : 19
-Jack Elam : 16
-Harry Carey Jr. : 15
-Robert De Niro : 14
-John Wayne : 14
-Paul Fix : 13
-Robert Duvall : 11
-Johnny Depp : 10
-Willem Dafoe : 10
-Sam Elliott : 10
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
 ***********************
-MOVIE :De vrouw die gelyncht moest worden
+MOVIE :Coming Home
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Résistance
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Fury
 CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Batman: Arkham Knight
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Penny Dreadful: City of Angels
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Hitch
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Dora the Explorer
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Politician
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Librarians
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Dark
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Kiseijû: Sei no kakuritsu
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :The Unicorn
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Pirates of the Caribbean: Dead Man's Chest
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Harry Potter and the Goblet of Fire
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Last House on the Left
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Devil
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
 ***********************
 MOVIE :Frozen II
-CLUSTER :6
-Steve Carell : 5
-Johnny Depp : 5
-Bill Nighy : 5
-Orlando Bloom : 5
-Arnold Schwarzenegger : 5
-Pierre Coffin : 4
-Alan Tudyk : 4
-Jim Belushi : 4
-Frank Welker : 3
-Julie Andrews : 3
-***********************
-MOVIE :Ice Age
-CLUSTER :8
-Samuel L. Jackson : 14
-Patrick Stewart : 12
-Dwayne Johnson : 12
-Hugh Jackman : 11
-Desmond Llewelyn : 11
-Vin Diesel : 11
-Simon Pegg : 11
-Will Smith : 10
-Lois Maxwell : 10
-Zoe Saldana : 10
-***********************
-MOVIE :Welcome to Marwen
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :The Witches of Eastwick
-CLUSTER :9
-Rachel McAdams : 8
-Nicolas Cage : 7
-Leslie Mann : 6
-Kevin Bacon : 6
-Tom Hanks : 5
-Samuel L. Jackson : 5
-Kathryn Hahn : 5
-Logan Miller : 5
-Paul Rudd : 5
-James Remar : 5
-***********************
-MOVIE :Au revoir les enfants
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Como Caído Del Cielo
-CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
-***********************
-MOVIE :Jeanne D'Arc
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Patch Adams
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :The Incredible Hulk
-CLUSTER :0
-Liam Hemsworth : 5
-Jason Statham : 4
-Danny Trejo : 4
-Steve Buscemi : 4
-Mark Wahlberg : 4
-Eric Bana : 4
-Zachary Levi : 3
-Donald Sutherland : 3
-Willow Shields : 3
-Paula Malcomson : 3
-***********************
-MOVIE :How I Met Your Mother
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Sixteen Candles
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Gilmore Girls: A Year in the Life
-CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
-***********************
-MOVIE :Rise of the Guardians
-CLUSTER :4
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 8
-Cameron Diaz : 8
-Emma Thompson : 8
-Jeff Bennett : 8
-Eddie Murphy : 7
 John Cleese : 7
-Frank Welker : 7
-Rob Paulsen : 7
-Fred Astaire : 7
-Jim Carrey : 6
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
 ***********************
-MOVIE :The Lovebirds
+MOVIE :Leprechaun
 CLUSTER :3
-Tom Hanks : 8
-Jonah Hill : 7
-Hugh Grant : 7
-Scarlett Johansson : 7
-Diane Keaton : 7
-Amy Adams : 7
-Alison Brie : 6
-Meryl Streep : 6
-Jennifer Garner : 6
-Victor Garber : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
 ***********************
-MOVIE :Queen
+MOVIE :Rio Conchos
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :New York Minute
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Helen of Troy
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Haute tension
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :State Fair
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Lone Ranger
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :La influencia
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :John Wick: Chapter 4
 CLUSTER :1
-Catherine O'Hara : 6
-Dave Goelz : 6
-Joan Cusack : 5
-Wallace Shawn : 5
-Kath Soucie : 5
-Steve Whitmire : 5
-Judy Garland : 5
-Steve Buscemi : 4
-Frank Oz : 4
-Bobby Moynihan : 4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonah Hill : 3
+Christopher Walken : 3
+Graham Greene : 3
+Harry Dean Stanton : 3
+Godfrey Quigley : 2
+Jane Seymour : 2
+Jayne Eastwood : 2
+Channing Tatum : 2
+Burt Reynolds : 2
+Cullen Moss : 2
 ***********************
-MOVIE :Black Robe
+MOVIE :The Haunting
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Hamburger Hill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Cinderella 2000
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Band of Brothers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Do-Over
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Ice Age: Collision Course
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :The Lighthouse
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :The Intern
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Pulp Fiction
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Morgan
 CLUSTER :2
-John Wayne : 14
-Kirk Douglas : 8
-Christopher Plummer : 7
-Burt Lancaster : 7
-Ian McShane : 6
-George Clooney : 6
-Richard Jaeckel : 6
-Laurence Fishburne : 6
-Ward Bond : 6
-Harry Andrews : 6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Max en de maximonsters
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Working Girl
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Malcolm X
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Good Luck Chuck
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Carrie
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Eden Lake
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :True Lies
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Curious Case of Benjamin Button
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Mutiny on the Bounty
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Power Rangers Beast Morphers
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Lili
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Mortal Kombat: Annihilation
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Terminator: Dark Fate
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Absentia
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Splice
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Hoo-goong: Je-wang-eui cheob
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Jagga Jasoos
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Patriot Games
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Event Horizon
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Salinui chueok
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Ruin
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Santa Fe Marshal
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonah Hill : 3
+Christopher Walken : 3
+Graham Greene : 3
+Harry Dean Stanton : 3
+Godfrey Quigley : 2
+Jane Seymour : 2
+Jayne Eastwood : 2
+Channing Tatum : 2
+Burt Reynolds : 2
+Cullen Moss : 2
+***********************
+MOVIE :The Rider
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Tears of the Sun
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Force 10 from Navarone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Town
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Eureka
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :SpaceCamp
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Basmati Blues
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Young Sheldon
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Thirteenth Year
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :The Crying Game
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :De ondraaglijke lichtheid van het bestaan
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Levend of dood
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Feng huo fang fei
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Deception
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Rare Breed
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Poltergeist
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Big Kill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Swiss Army Man
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Booksmart
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Sorry to Bother You
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Diary of a Wimpy Kid
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Bleach: Burîchi
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Nun
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Killing Me Softly
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :De Wilde Ganzen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Edge of Seventeen
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Gears 5
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :10 Cloverfield Lane
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Zoo
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Flight of the Navigator
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Doubt
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Breaking Glass
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :My Bodyguard
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Apocalypse Now
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Noah
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Spaceballs
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Far Horizons
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Inside Out
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :As Above, So Below
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Transformers
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Henry Danger
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Bestemming Tokio
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Pirate Movie
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Phantom Thread
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Een uilskuiken trekt ten oorlog
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Captain America: Civil War
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Amazing Spider-Man 2
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Diagnosis Murder
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Thing
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Zulu
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Wild Bill
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Victor Frankenstein
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Possession
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Gone in Sixty Seconds
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Much Ado About Nothing
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Wild Boys
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Plainsman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Sense8
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Merry Widow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :1944
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Flintstones in Viva Rock Vegas
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Back to the Beach
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Craft
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Spider-Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :The Devil's Disciple
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Babysitter
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Hereditary
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Return of the Texas Chainsaw Massacre
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Fantastic Mr. Fox
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Artificial Intelligence: AI
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Yes Man
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Mary Poppins
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Toy Story 3
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :The Heroes of Telemark
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Man from Snowy River
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Eter
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Beyond Skyline
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Remains of the Day
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :School Daze
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Iron Will
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Glass
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Kenny Rogers as The Gambler
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :A Cure for Wellness
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :I Could Go on Singing
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Sharknado
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Jarhead 3: The Siege
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Paddington 2
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Barquero
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Revengers
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Percy Jackson: Sea of Monsters
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :In het voetspoor van Django
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Dragonball Evolution
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :White Christmas
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Reno 911!
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Flash Gordon
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Deathwatch
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Batwoman
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :A Soldier's Story
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Monster House
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Everything's Gonna Be Okay
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Texican
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Mientras dure la guerra
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :De prinses uit de onderwereld
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Mayhem
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Pride and Prejudice
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :North to Alaska
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :My Life Is Murder
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Wild Horses
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Rise of Empires: Ottoman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Man in the Gray Flannel Suit
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Kundun
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Tombstone
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Bad Boys II
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Yellow Sky
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Homefront
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Mr. & Mrs. Smith
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Argo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Rachel Getting Married
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Seventh Son
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :De man met het geweer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :City of Lies
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Call of Duty: Infinite Warfare
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The NeverEnding Story
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :After
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Missing in Action
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Spectral
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Mikado
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Ayla: The Daughter of War
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Bodyguard
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Journey 2: The Mysterious Island
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Jungle
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Sophie Scholl
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Liv and Maddie
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Dead Birds
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Gevaarlijk spel
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Under the Shadow
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Meet the Parents
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Guy and Madeline on a Park Bench
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Mohabbatein
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Loving Vincent
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Healer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :St. Trinian's
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Sam & Cat
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Good, the Bad and the Dead
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :The Neon Demon
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Home Alone 3
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :La haine
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Harry Potter and the Order of the Phoenix
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Loving You
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Damages
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Omar Mukhtar: Lion of the Desert
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Unsere Mütter, unsere Väter
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Riphagen
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Uncle Buck
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :This Means War
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Me and Earl and the Dying Girl
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Powerpuff Girls
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Dawn of the Dead
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Liu lang di qiu
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Michael Collins
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :North and South, Book II
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Bean
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Katy Keene
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Blackthorn
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Montana Sky
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :I Love You, Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Hang 'Em High
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Black Panther
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Road to Bali
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :The Theory of Everything
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Osmosis Jones
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Hell in the Pacific
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :The Firm
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :La migliore offerta
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Sleepwalkers
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Sahara
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Texas Rising
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Minority Report
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Het commando der wrake
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Three Stooges
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Timerider: The Adventure of Lyle Swann
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Munsters
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :CSI: Miami
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Flight 7500
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Last Hard Men
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Final Destination
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Snow Day
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Schat in het zilvermeer
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Lie with Me
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Karmouz War
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Taza, Son of Cochise
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Wonderland
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Dredd
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Contact
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Tucker and Dale vs Evil
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Mystic River
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Annie Hall
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Awkwafina Is Nora from Queens
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :State of Play
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Call of Duty: WWII
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Suspiria
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Imaginarium of Doctor Parnassus
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Blue Lagoon
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Crossfire Trail
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :1776
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Mission: Impossible II
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Unfriended: Dark Web
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Escort
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :La llorona
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Drive
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Disaster Movie
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :BlacKkKlansman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Signs
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Conjuring 2
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Lust in the Dust
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Shubh Mangal Saavdhan
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :When Harry Met Sally...
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Lincoln Lawyer
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Lifeforce
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Let It Snow
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Patriot
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Eragon
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Savages
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Brooklyn Nine-Nine
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Chronicles of Narnia: Prince Caspian
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Young Guns
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Dumbo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Spy Kids 4: All the Time in the World
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Les parapluies de Cherbourg
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Call of the Wild
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Armageddon
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Spectros
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :I Know What You Did Last Summer
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :1941
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Cosby Show
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Sense and Sensibility
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :S.W.A.T.
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :How the West Was Won
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Rio Lobo
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Land Before Time III: The Time of the Great Giving
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Where Eagles Dare
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Valerian and the City of a Thousand Planets
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Josh
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Charlotte Gray
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Nightbreed
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Woman in the Window
+CLUSTER :1
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonah Hill : 3
+Christopher Walken : 3
+Graham Greene : 3
+Harry Dean Stanton : 3
+Godfrey Quigley : 2
+Jane Seymour : 2
+Jayne Eastwood : 2
+Channing Tatum : 2
+Burt Reynolds : 2
+Cullen Moss : 2
+***********************
+MOVIE :Cabin Fever
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Forbidden Planet
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Max
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Kingdom Hearts III
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Good Trouble
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Nutcracker in 3D
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :A Single Man
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Crawl
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :He's Out There
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Annabelle Comes Home
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Wraith
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Green Acres
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Doom Asylum
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Jojo Rabbit
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Bad Batch
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :War and Remembrance
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Skyscraper
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :7 Men from Now
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Little Prince
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Polar
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Snowpiercer
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Broken Arrow
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Chronicles of Narnia: The Voyage of the Dawn Treader
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Epic
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Doom: Annihilation
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :The Favourite
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :The Sons of Katie Elder
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Hatchet
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Lawman
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Mimic
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Elvira: Mistress of the Dark
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :Nosferatu
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Fiddler on the Roof
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Jason Bourne
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Cloverfield Paradox
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :X-Men: First Class
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :True Romance
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Richard III
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Dark Skies
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Verraderlijker dan een slang
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Mortal Engines
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Mannequin
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :From Dusk Till Dawn
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Jauja
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Corpse Bride
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Terrifier
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Widows
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Lock, Stock and Two Smoking Barrels
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Last Man Standing
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Cuba
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Teenage Mutant Ninja Turtles: Out of the Shadows
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Against the Wind
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Toruk: The First Flight
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Frighteners
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Resident Evil
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Green Inferno
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Cargo
+CLUSTER :4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 5
+Elvis Presley : 5
+Bill Murray : 4
+Bruce Willis : 4
+Jane Lynch : 3
+John C. Reilly : 3
+Sterling Holloway : 3
+Lyndsy Fonseca : 3
+Richard Edson : 3
+Edie McClurg : 3
+***********************
+MOVIE :The Aeronauts
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Bring Me the Head of Alfredo Garcia
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :De ongelooflijke overwinning
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :A Dog's Purpose
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Flipped
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Young Billy Young
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Eagle Eye
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Magnum Force
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Peggy Sue Got Married
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Indecent Proposal
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Free State of Jones
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :The Man from Earth
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Lady Bird
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Les yeux sans visage
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Bronson
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Iron Eagle
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Spider-Man: Far from Home
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Jurassic World: Fallen Kingdom
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :Pat Garrett & Billy the Kid
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Traffic
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11
+***********************
+MOVIE :Stage Fright
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Mother India
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :The Misfits
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Grand Hotel
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Wu Assassins
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :The Visit
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Muppets' Wizard of Oz
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :Countdown
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :War of the Worlds
+CLUSTER :6
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sigourney Weaver : 7
+Karl Urban : 6
+Zoe Saldana : 6
+Trevor Howard : 6
+Ed Harris : 6
+Patrick Stewart : 6
+John Ortiz : 5
+Morgan Freeman : 5
+Brent Spiner : 5
+Michael Dorn : 5
+***********************
+MOVIE :Mr. Jones
+CLUSTER :2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hugh Jackman : 10
+Dwayne Johnson : 9
+Robert Downey Jr. : 9
+Laurence Fishburne : 9
+Sylvester Stallone : 9
+Desmond Llewelyn : 8
+Will Smith : 8
+Jude Law : 8
+Ryan Reynolds : 8
+Woody Harrelson : 8
+***********************
+MOVIE :A Nightmare on Elm Street
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Princess Bride
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :Peter Pan
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 6
+Dustin Hoffman : 5
+Gene Kelly : 5
+J.K. Simmons : 4
+Bonnie Hunt : 4
+Adam Sandler : 4
+Harvey Keitel : 4
+Judy Garland : 4
+Bill Fagerbakke : 3
+Joan Cusack : 3
+***********************
+MOVIE :Escape to Witch Mountain
+CLUSTER :3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 12
+Frank Welker : 10
+Jeff Bennett : 9
+Bill Hader : 7
+Kath Soucie : 7
+John Fiedler : 7
+Tress MacNeille : 7
+Andy Serkis : 6
+John Cleese : 6
+Kenneth Mars : 6
+***********************
+MOVIE :American Hustle
+CLUSTER :8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 10
+Fred Astaire : 10
+Kristen Wiig : 9
+Alan Arkin : 8
+Jonah Hill : 8
+Jason Segel : 8
+Paul Rudd : 8
+Ginger Rogers : 8
+Maya Rudolph : 7
+Will Ferrell : 7
+***********************
+MOVIE :Hilda
+CLUSTER :7
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 8
+John Cleese : 7
+Daniel Radcliffe : 6
+Corey Burton : 6
+Frank Welker : 6
+Kristen Stewart : 6
+Jackson Rathbone : 6
+Richard Griffiths : 5
+Fiona Shaw : 5
+Helena Bonham Carter : 5
+***********************
+MOVIE :The Bye Bye Man
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :Red Dragon
+CLUSTER :9
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Samuel L. Jackson : 7
+Casey Affleck : 7
+Brian Cox : 7
+Al Pacino : 6
+Stephen Tobolowsky : 5
+Willem Dafoe : 5
+John Cho : 5
+Adam Sandler : 5
+Steve Buscemi : 5
+Maria Bello : 5
+***********************
+MOVIE :The Last Samurai
+CLUSTER :0
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Wayne : 24
+Jack Elam : 18
+Harry Carey Jr. : 14
+Charles Bronson : 14
+Kirk Douglas : 13
+Lee Van Cleef : 13
+James Stewart : 13
+Henry Fonda : 12
+Strother Martin : 12
+Audie Murphy : 11

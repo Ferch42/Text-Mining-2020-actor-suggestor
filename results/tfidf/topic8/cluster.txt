@@ -1,469 +1,7923 @@
 Experiment cluster 
 ***********************
-MOVIE :The Amazing World of Gumball
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Croods
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Kaubôi bibappu
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Balkanskiy rubezh
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Something Like Summer
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Zone Blanche
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Son of the Mask
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Dark Crystal
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Chitty Chitty Bang Bang
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Eight Crazy Nights
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Camp
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Gedo senki
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Saw III
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Last Tango in Paris
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Glengarry Glen Ross
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Sharp Objects
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Minuscule - Les mandibules du bout du monde
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Black Clover
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Lucy in the Sky
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Fifty Shades of Grey
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Conspiracy
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :One Punch Man: Wanpanman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :The Matrix Reloaded
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Zathura: A Space Adventure
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :American Mary
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :ALF
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :The Wall
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :A Good Year
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Urban Cowboy
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Unfaithful
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Trolls
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :G.I. Blues
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Churchill
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Reader
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Max
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Vamos a matar, compañeros
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Bandidas
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Taking Lives
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :De vrouw die gelyncht moest worden
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Bad Times at the El Royale
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :M - Eine Stadt sucht einen Mörder
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Us
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Nerve
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Grudge
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :London Has Fallen
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :High Ground
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Russian Doll
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :My Little Pony: Equestria Girls - Legend of Everfree
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Insidious: The Last Key
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Interstellar
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Man in the Wilderness
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Son
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Baby-Sitters Club
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Yankee Doodle Dandy
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Silent Tongue
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Teen Beach 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Infinite
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Strangers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bugsy Malone
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Thoroughly Modern Millie
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dumplin'
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Battle of Passchendaele
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Aquaman 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Ant-Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Boys
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Hunt for Red October
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wings
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hollow Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Thunderball
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Justice League Part Two
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Couples Retreat
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De dictator
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Scooby-Doo 2: Monsters Unleashed
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :High School Musical: The Musical - The Series
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Thin Red Line
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Joan of Arc
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Ruling Class
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :St. Elmo's Fire
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Someone Great
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Gran Hotel
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Apple Dumpling Gang
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Scream 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Darkest Minds
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Gamgi
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Willow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Coming Home
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Résistance
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Fury
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Batman: Arkham Knight
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Penny Dreadful: City of Angels
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hitch
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dora the Explorer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Politician
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Librarians
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dark
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Kiseijû: Sei no kakuritsu
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Unicorn
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Pirates of the Caribbean: Dead Man's Chest
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Harry Potter and the Goblet of Fire
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Last House on the Left
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Devil
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
 MOVIE :Frozen II
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Ice Age
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Leprechaun
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Welcome to Marwen
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Rio Conchos
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :The Witches of Eastwick
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :New York Minute
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Au revoir les enfants
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Helen of Troy
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Como Caído Del Cielo
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Haute tension
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Jeanne D'Arc
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :State Fair
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Patch Adams
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Lone Ranger
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :The Incredible Hulk
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :La influencia
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :How I Met Your Mother
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :John Wick: Chapter 4
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Sixteen Candles
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Haunting
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Gilmore Girls: A Year in the Life
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Hamburger Hill
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Rise of the Guardians
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Cinderella 2000
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :The Lovebirds
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Band of Brothers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Queen
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :The Do-Over
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
 ***********************
-MOVIE :Black Robe
-CLUSTER :4
-Samuel L. Jackson : 35
-John Wayne : 34
+MOVIE :Ice Age: Collision Course
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Jim Cummings : 32
-Steve Buscemi : 32
-Willem Dafoe : 30
-Woody Harrelson : 30
-Johnny Depp : 30
-Tom Hanks : 28
-Christopher Plummer : 28
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
 Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Lighthouse
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Intern
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Pulp Fiction
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Morgan
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Max en de maximonsters
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Working Girl
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Malcolm X
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Good Luck Chuck
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Carrie
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Eden Lake
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :True Lies
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Curious Case of Benjamin Button
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mutiny on the Bounty
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Power Rangers Beast Morphers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lili
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mortal Kombat: Annihilation
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Terminator: Dark Fate
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Absentia
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Splice
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hoo-goong: Je-wang-eui cheob
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jagga Jasoos
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Patriot Games
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Event Horizon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Salinui chueok
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Ruin
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Santa Fe Marshal
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Rider
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Tears of the Sun
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Force 10 from Navarone
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Town
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Eureka
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :SpaceCamp
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Basmati Blues
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Young Sheldon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Thirteenth Year
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Crying Game
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De ondraaglijke lichtheid van het bestaan
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Levend of dood
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Feng huo fang fei
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Deception
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Rare Breed
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Poltergeist
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Big Kill
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Swiss Army Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Booksmart
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sorry to Bother You
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Diary of a Wimpy Kid
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bleach: Burîchi
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Nun
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Killing Me Softly
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De Wilde Ganzen
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Edge of Seventeen
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Gears 5
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :10 Cloverfield Lane
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Zoo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Flight of the Navigator
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Doubt
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Breaking Glass
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :My Bodyguard
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Apocalypse Now
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Noah
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spaceballs
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Far Horizons
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Inside Out
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :As Above, So Below
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Transformers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Henry Danger
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bestemming Tokio
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Pirate Movie
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Phantom Thread
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Een uilskuiken trekt ten oorlog
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Captain America: Civil War
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Amazing Spider-Man 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Diagnosis Murder
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Thing
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Zulu
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wild Bill
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Victor Frankenstein
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Possession
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Gone in Sixty Seconds
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Much Ado About Nothing
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wild Boys
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Plainsman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sense8
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Merry Widow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :1944
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Flintstones in Viva Rock Vegas
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Back to the Beach
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Craft
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spider-Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Devil's Disciple
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Babysitter
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hereditary
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Return of the Texas Chainsaw Massacre
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Fantastic Mr. Fox
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Artificial Intelligence: AI
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Yes Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mary Poppins
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Toy Story 3
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Heroes of Telemark
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Man from Snowy River
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Eter
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Beyond Skyline
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Remains of the Day
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :School Daze
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Iron Will
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Glass
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Kenny Rogers as The Gambler
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :A Cure for Wellness
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :I Could Go on Singing
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sharknado
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jarhead 3: The Siege
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Paddington 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Barquero
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Revengers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Percy Jackson: Sea of Monsters
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :In het voetspoor van Django
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dragonball Evolution
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :White Christmas
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Reno 911!
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Flash Gordon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Deathwatch
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Batwoman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :A Soldier's Story
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Monster House
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Everything's Gonna Be Okay
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Texican
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mientras dure la guerra
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De prinses uit de onderwereld
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mayhem
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Pride and Prejudice
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :North to Alaska
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :My Life Is Murder
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wild Horses
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Rise of Empires: Ottoman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Man in the Gray Flannel Suit
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Kundun
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Tombstone
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bad Boys II
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Yellow Sky
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Homefront
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mr. & Mrs. Smith
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Argo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Rachel Getting Married
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Seventh Son
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De man met het geweer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :City of Lies
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Call of Duty: Infinite Warfare
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The NeverEnding Story
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :After
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Missing in Action
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spectral
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Mikado
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Ayla: The Daughter of War
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bodyguard
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Journey 2: The Mysterious Island
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jungle
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sophie Scholl
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Liv and Maddie
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dead Birds
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Gevaarlijk spel
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Under the Shadow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Meet the Parents
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Guy and Madeline on a Park Bench
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mohabbatein
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Loving Vincent
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Healer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :St. Trinian's
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sam & Cat
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Good, the Bad and the Dead
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Neon Demon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Home Alone 3
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :La haine
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Harry Potter and the Order of the Phoenix
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Loving You
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Damages
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Omar Mukhtar: Lion of the Desert
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Unsere Mütter, unsere Väter
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Riphagen
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Uncle Buck
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :This Means War
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Me and Earl and the Dying Girl
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Powerpuff Girls
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dawn of the Dead
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Liu lang di qiu
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Michael Collins
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :North and South, Book II
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bean
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Katy Keene
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Blackthorn
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Montana Sky
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Princess Diaries
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :I Love You, Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hang 'Em High
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Black Panther
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Road to Bali
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Theory of Everything
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Osmosis Jones
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hell in the Pacific
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Firm
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :La migliore offerta
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sleepwalkers
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sahara
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Texas Rising
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Minority Report
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Het commando der wrake
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Three Stooges
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Timerider: The Adventure of Lyle Swann
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Munsters
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :CSI: Miami
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Flight 7500
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Last Hard Men
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Final Destination
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Snow Day
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Schat in het zilvermeer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lie with Me
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Karmouz War
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Taza, Son of Cochise
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wonderland
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dredd
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Contact
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Tucker and Dale vs Evil
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mystic River
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Annie Hall
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Awkwafina Is Nora from Queens
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :State of Play
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Call of Duty: WWII
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Suspiria
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Imaginarium of Doctor Parnassus
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Blue Lagoon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Crossfire Trail
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :1776
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mission: Impossible II
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Unfriended: Dark Web
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Escort
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :La llorona
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Drive
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Disaster Movie
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :BlacKkKlansman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Signs
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Conjuring 2
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lust in the Dust
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Shubh Mangal Saavdhan
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :When Harry Met Sally...
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Lincoln Lawyer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lifeforce
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Let It Snow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Patriot
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Eragon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Savages
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Brooklyn Nine-Nine
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Chronicles of Narnia: Prince Caspian
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Young Guns
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dumbo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spy Kids 4: All the Time in the World
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Les parapluies de Cherbourg
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Call of the Wild
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Armageddon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spectros
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :I Know What You Did Last Summer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :1941
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Cosby Show
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Sense and Sensibility
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :S.W.A.T.
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :How the West Was Won
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Rio Lobo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Land Before Time III: The Time of the Great Giving
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Where Eagles Dare
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Valerian and the City of a Thousand Planets
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Josh
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Charlotte Gray
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Nightbreed
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Woman in the Window
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Cabin Fever
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Forbidden Planet
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Max
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Kingdom Hearts III
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Good Trouble
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Nutcracker in 3D
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :A Single Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Crawl
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :He's Out There
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Annabelle Comes Home
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Wraith
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Green Acres
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Doom Asylum
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jojo Rabbit
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Bad Batch
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :War and Remembrance
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Skyscraper
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :7 Men from Now
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Little Prince
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Polar
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Snowpiercer
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Broken Arrow
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Chronicles of Narnia: The Voyage of the Dawn Treader
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Epic
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Doom: Annihilation
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Favourite
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Sons of Katie Elder
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hatchet
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lawman
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mimic
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Elvira: Mistress of the Dark
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Nosferatu
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Fiddler on the Roof
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jason Bourne
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Cloverfield Paradox
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :X-Men: First Class
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :True Romance
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Richard III
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Dark Skies
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Verraderlijker dan een slang
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mortal Engines
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mannequin
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :From Dusk Till Dawn
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jauja
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Corpse Bride
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Terrifier
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Widows
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lock, Stock and Two Smoking Barrels
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Last Man Standing
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Cuba
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Teenage Mutant Ninja Turtles: Out of the Shadows
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Against the Wind
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Toruk: The First Flight
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Frighteners
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Resident Evil
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Green Inferno
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Cargo
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Aeronauts
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bring Me the Head of Alfredo Garcia
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :De ongelooflijke overwinning
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :A Dog's Purpose
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Flipped
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Young Billy Young
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Eagle Eye
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Magnum Force
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Peggy Sue Got Married
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Indecent Proposal
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Free State of Jones
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Man from Earth
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Lady Bird
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Les yeux sans visage
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Bronson
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Iron Eagle
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Spider-Man: Far from Home
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Jurassic World: Fallen Kingdom
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Pat Garrett & Billy the Kid
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Traffic
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Stage Fright
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mother India
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Misfits
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Grand Hotel
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Wu Assassins
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Visit
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Muppets' Wizard of Oz
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Countdown
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :War of the Worlds
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Mr. Jones
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :A Nightmare on Elm Street
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Princess Bride
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Peter Pan
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Escape to Witch Mountain
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :American Hustle
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Hilda
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Bye Bye Man
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :Red Dragon
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26
+***********************
+MOVIE :The Last Samurai
+CLUSTER :5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Cummings : 32
+Samuel L. Jackson : 30
+Steve Buscemi : 30
+John Wayne : 30
+Woody Harrelson : 28
+Tom Hanks : 27
+Morgan Freeman : 27
+Christopher Plummer : 27
+Willem Dafoe : 26
+Johnny Depp : 26

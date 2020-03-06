@@ -2,124 +2,2036 @@ Experiment
 ## METADATA ## 
 Vectorizer :TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
                 dtype=<class 'numpy.float64'>, encoding='utf-8',
-                input='content', lowercase=True, max_df=1.0, max_features=None,
+                input='content', lowercase=True, max_df=1.0, max_features=5000,
                 min_df=1, ngram_range=(1, 1), norm='l2', preprocessor=None,
                 smooth_idf=True, stop_words=None, strip_accents=None,
                 sublinear_tf=False, token_pattern='(?u)\\b\\w\\w+\\b',
-                tokenizer=<function tokenize at 0x000002A7A47069D8>,
+                tokenizer=<function tokenize at 0x000001DD4D755798>,
                 use_idf=True, vocabulary=None)
 N_topics :5
 K_nearest :3
 ##############***********************
-MOVIE :The Amazing World of Gumball
-Charlotte d'Amboise : 1
-Marina Squerciati : 1
-Michael Esper : 1
-Greta Gerwig : 1
-Lindsay Burdge : 1
-Michael Zegen : 1
-Mickey Sumner : 1
-Vanessa Ray : 1
-Justine Lupe : 1
-Grace Gummer : 1
+MOVIE :The Croods
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peter Dinklage : 1
+Leslie Mann : 1
+Catherine Keener : 1
+Cloris Leachman : 1
+Kelly Marie Tran : 1
+Ryan Reynolds : 1
+Emma Stone : 1
+Clark Duke : 1
+Nicolas Cage : 1
+Kenji Sawada : 1
 ***********************
-MOVIE :Kaubôi bibappu
-Tom Schiller : 1
-Perla Walter : 1
-John Napierala : 1
-Jann Wenner : 1
-Paul Kent : 1
-John Travolta : 1
-Ramey Ellis : 1
-Stefan Gierasch : 1
-Gina Morelli : 1
-Anne De Salvo : 1
+MOVIE :Balkanskiy rubezh
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hans Terofal : 1
+Remo Capitani : 1
+Alberto Dentice : 1
+Alessandra Cardini : 1
+Marc Mazza : 1
+Elvira Cortese : 1
+Horst Frank : 1
+Jess Hahn : 1
+Gastone Pescucci : 1
+Anna Maria Gherardi : 1
 ***********************
-MOVIE :Something Like Summer
-Jake Weary : 1
-Daniel Zovatto : 1
-Ruby Harris : 1
-Linda Boston : 1
-Olivia Luccardi : 1
-Leisa Pulido : 1
-D.J. Oliver : 1
-Charles Gertner : 1
-Carollette Phillips : 1
-Lili Sepe : 1
+MOVIE :Zone Blanche
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rex Lee : 1
+Kym Whitley : 1
+Bryan Safi : 1
+Emily Osment : 1
+Jonathan Sadowski : 1
+Aimee Carrero : 1
+Jena Malone : 1
+Gino Vento : 1
+Cristina Rodlo : 1
+Babs Olusanmokun : 1
 ***********************
-MOVIE :Son of the Mask
-Endre Joner Oftebro Ellefsen : 1
-Rolf Kristian Larsen : 1
-Benjamin Helstad : 1
-Tobias Santelmann : 1
-Maibritt Saerens : 1
-Stein Winge : 1
-Espen Reboli Bjerke : 1
-David Zimmerschied : 1
-Julia Schacht : 1
-Mads Sjøgård Pettersen : 1
+MOVIE :The Dark Crystal
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Abigail Breslin : 1
+Arnold Schwarzenegger : 1
+J.D. Evermore : 1
+Aiden Flowers : 1
+Raeden Greer : 1
+Amy Brassette : 1
+Bryce Romero : 1
+Carsen Flowers : 1
+Walter von Huene : 1
+Joely Richardson : 1
 ***********************
-MOVIE :Chitty Chitty Bang Bang
-Anand Upadhyaya : 1
-Jack Pyland : 1
-David Sullivan : 1
-Shane Carruth : 1
-Ashok Upadhyaya : 1
-Samantha Thomson : 1
-Juan Tapia : 1
-Ashley Warren : 1
-Chip Carruth : 1
-Jay Butler : 1
+MOVIE :Eight Crazy Nights
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Nonso Anozie : 1
+Abigail Breslin : 1
+Asa Butterfield : 1
+Hailee Steinfeld : 1
+Moises Arias : 1
+Conor Carroll : 1
+Ben Kingsley : 1
+Viola Davis : 1
+Khylin Rhambo : 1
+Cameron Gaskins : 1
 ***********************
-MOVIE :Camp
-Lincoln Melcher : 1
-Emily O'Brien : 1
-Jim Ward : 1
-Kate Higgins : 1
-Jess Harnell : 1
-Dallas Lovato : 1
-Spike Brandt : 1
-Rachel Butera : 1
-Mick Wingert : 1
-Audrey Wasilewski : 1
+MOVIE :Gedo senki
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ashley Cusato : 1
+Jesse Metcalfe : 1
+Shea Buckner : 1
+Dave Bautista : 1
+Lydia Hull : 1
+Wes Chatham : 1
+Tyron Woodley : 1
+Yifan Luo : 1
+Chen Tang : 1
+Sylvester Stallone : 1
 ***********************
-MOVIE :Saw III
-Jay Paulson : 1
+MOVIE :Last Tango in Paris
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vansh Bhardwaj : 1
+Sumeet Basran : 1
+Harwinder Singh Aujla : 1
+Sandeep Nahar : 1
+Adhrit Sharma : 1
+Rakesh Sharma : 1
+Suvinder Vicky : 1
+Harbhagwan Singh : 1
+Ajit Singh : 1
+Vivek Saini : 1
+***********************
+MOVIE :Sharp Objects
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ron Funches : 1
+Justin Hartley : 1
+Rose Byrne : 1
+Ray Reinhardt : 1
+Adam Devine : 1
+Michael Peña : 1
+Kid Cudi : 1
+Diana Jackson : 1
+Gavin Root : 1
+Aaron Wilton : 1
+***********************
+MOVIE :Black Clover
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John S. Davies : 1
+Charlotte Akin : 1
+Adam Anderly : 1
+Jack Warden : 1
+Anna Marie Allred : 1
+Jordan Burton : 1
+Cody Beard : 1
+Eli Cummins : 1
+Robert A. Anderson : 1
+Michael Richards : 1
+***********************
+MOVIE :Fifty Shades of Grey
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Isaac Rouse : 1
+Jessica Alexander : 1
+Mia McKenna-Bruce : 1
+Joelle Rae : 1
+Simon Wilson : 1
+Charlie Anson : 1
+Kit Clarke : 1
+Emily Carey : 1
+Jake Dunn : 1
+Kim Adis : 1
+***********************
+MOVIE :One Punch Man: Wanpanman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Pyotr Skvortsov : 1
+Wolfgang Cerny : 1
+Artur Sopelnik : 1
+Viktor Dobronravov : 1
+Danila Rassomakhin : 1
+Vinzenz Kiefer : 1
+Artyom Bystrov : 1
+Joshua Grothe : 1
+Dirc Simpson : 1
+Yuriy Borisov : 1
+***********************
+MOVIE :Zathura: A Space Adventure
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Felix von Simson : 1
+Patrick Kennedy : 1
+Harriet Walter : 1
+James McAvoy : 1
+Julia West : 1
+Saoirse Ronan : 1
+Juno Temple : 1
+Charlie von Simson : 1
+Benedict Cumberbatch : 1
+Peter Wight : 1
+***********************
+MOVIE :ALF
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Roger Fritz : 1
+Fred Stillkrauth : 1
+Arthur Brauss : 1
+David Warner : 1
+Dieter Schidor : 1
+Véronique Vendell : 1
+Klaus Löwitsch : 1
+Maximilian Schell : 1
+Senta Berger : 1
+Michael Nowka : 1
+***********************
+MOVIE :A Good Year
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Damon Carney : 1
+Helena Grace Donald : 1
+Grace Montie : 1
+Randy Wayne : 1
+Alexandra Harris : 1
+Valerie Sharp : 1
+Andi Leah Powers : 1
+Paul T. Taylor : 1
+Rheagan Wallace : 1
+Jeff Fenter : 1
+***********************
+MOVIE :Unfaithful
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Happy : 1
+Barry Watson : 1
+Lorenzo Brino : 1
+Jessica Biel : 1
+David Gallagher : 1
+Nikolas Brino : 1
+Stephen Collins : 1
+Beverley Mitchell : 1
+Catherine Hicks : 1
+Mackenzie Rosman : 1
+***********************
+MOVIE :G.I. Blues
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Danny Vinson : 1
+Alan Alda : 1
+Tiago Riani : 1
+Lolita Davidovich : 1
+Britt Robertson : 1
+Scott Eastwood : 1
+Oona Chaplin : 1
+Melissa Benoist : 1
+Tracey Bonner : 1
+Jaret Sears : 1
+***********************
+MOVIE :The Reader
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Diehl : 1
+James Spader : 1
+Alexis Cruz : 1
+Gianin Loffler : 1
+Djimon Hounsou : 1
+Viveca Lindfors : 1
+Erick Avari : 1
+Derek Webster : 1
+Carlos Lauchu : 1
+Christopher John Fields : 1
+***********************
+MOVIE :Vamos a matar, compañeros
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Taylor Wily : 1
+Scott Caan : 1
+Alex O'Loughlin : 1
+Grace Park : 1
+Daniel Dae Kim : 1
+Chi McBride : 1
+Masi Oka : 1
+Dennis Chun : 1
+Jorge Garcia : 1
+Jeff Imada : 1
+***********************
+MOVIE :Taking Lives
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rachel McAdams : 2
+Jude Law : 2
+Robert Downey Jr. : 2
+Mary Anderson : 1
+John Hodiak : 1
+Canada Lee : 1
+Hume Cronyn : 1
+Tallulah Bankhead : 1
+William Bendix : 1
+Henry Hull : 1
+***********************
+MOVIE :Bad Times at the El Royale
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vin Diesel : 1
+John Ortiz : 1
+Mirtha Michelle : 1
+Paul Walker : 1
+Liza Lapira : 1
+Sung Kang : 1
+Jack Conley : 1
+Shea Whigham : 1
+Tego Calderon : 1
+Greg Cipes : 1
+***********************
+MOVIE :M - Eine Stadt sucht einen Mörder
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Charlton Heston : 1
+Richard Harris : 1
+Warren Oates : 1
+Slim Pickens : 1
+Karl Swenson : 1
+L.Q. Jones : 1
+Mario Adorf : 1
+Jim Hutton : 1
+Michael Pate : 1
+R.G. Armstrong : 1
+***********************
+MOVIE :Us
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stockard Channing : 1
+Frankie Avalon : 1
+Joan Blondell : 1
+Olivia Newton-John : 1
+Eve Arden : 1
+Jamie Donnelly : 1
+Sid Caesar : 1
+Kelly Ward : 1
+Didi Conn : 1
+Barry Pearl : 1
+***********************
+MOVIE :Nerve
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Berenger : 1
+Jeff Corey : 1
+Peter Weller : 1
+Brian Dennehy : 1
+Christopher Lloyd : 1
+John Schuck : 1
+Vincent Schiavelli : 1
+Sherril Lynn Rettino : 1
+William Katt : 1
+Michael C. Gwynne : 1
+***********************
+MOVIE :The Grudge
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Guy Kibbee : 1
+Rand Brooks : 1
+Barnett Parker : 1
+Judy Garland : 1
+Mickey Rooney : 1
+Douglas McPhail : 1
+Margaret Hamilton : 1
+Johnny Sheffield : 1
+Charles Winninger : 1
+Ann Shoemaker : 1
+***********************
+MOVIE :London Has Fallen
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hadi Tabbal : 1
+Mike Vogel : 1
+Natacha Karam : 1
+Tate Ellington : 1
+Anne Heche : 1
+Noah Mills : 1
+Sofia Pernas : 1
+Demetrius Grosse : 1
+Caroline Catz : 1
+Martin Clunes : 1
+***********************
+MOVIE :High Ground
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ben Miles : 1
+Tommy Mcdonnell : 1
+Lewis Kirk : 1
+Ian Burfield : 1
+Faraz Ayub : 1
+Dustin Demri-Burns : 1
+Lee Byford : 1
+Ginny Holder : 1
+Nicki Vickery : 1
+Simon Manley : 1
+***********************
+MOVIE :Russian Doll
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dallas Roberts : 1
+Danny Kang : 1
+Sarah Colonna : 1
+Alyssa Milano : 1
+Arden Myrin : 1
+Erinn Westbrook : 1
+Irene Choi : 1
+Christopher Gorham : 1
+James Lastovic : 1
+Kimmy Shields : 1
+***********************
+MOVIE :My Little Pony: Equestria Girls - Legend of Everfree
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Claire Richards : 1
+Roger Callard : 1
+Chris Lowell : 1
+Teresa Palmer : 1
+Liam Hemsworth : 1
+Michael Ellison : 1
+Julian Gant : 1
+Chase Yi : 1
+Chris Newman : 1
+Austin Stowell : 1
+***********************
+MOVIE :Insidious: The Last Key
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Gilbert Roland : 1
+Movita : 1
+Wendell Corey : 1
+Walter Huston : 1
+John Bromfield : 1
+Judith Anderson : 1
+Frank Ferguson : 1
+Barbara Stanwyck : 1
+Wallace Ford : 1
+Albert Dekker : 1
+***********************
+MOVIE :Interstellar
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sarah Swire : 1
+Christopher Leveaux : 1
+Mark Benton : 1
+Malcolm Cumming : 1
+Sean Connor : 1
+Paul Kaye : 1
+John Winchester : 1
+Janet Lawson : 1
+Myfanwy Morgan : 1
+Ella Jarvis : 1
+***********************
+MOVIE :Man in the Wilderness
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ben Temple : 1
+Tim Robbins : 1
+Antonio Franic : 1
+Ivan Brkic : 1
+Frank Feys : 1
+Goran Navojec : 1
+Dragica Stojkovic : 1
+Morten Suurballe : 1
+Sergi López : 1
+Nenad Vukelic : 1
+***********************
+MOVIE :The Son
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rudy Vallee : 1
+Eddie Cantor : 1
+Dan Healy : 1
+Edward Crandall : 1
+Mary Eaton : 1
+Kaye Renard : 1
+Gloria Shea : 1
+Helen Morgan : 1
+Sarah Edwards : 1
+Singing and Dancing Chorus of Seventy-Five Glorified Beauties : 1
+***********************
+MOVIE :The Baby-Sitters Club
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Charles Vanel : 1
+Grace Kelly : 1
+Cary Grant : 1
+Jessie Royce Landis : 1
+Jean Martinelli : 1
+Georgette Anys : 1
+Brigitte Auber : 1
+John Williams : 1
+G.W. Bailey : 1
+Debralee Scott : 1
+***********************
+MOVIE :Yankee Doodle Dandy
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mark Pellegrino : 1
+Joseph C. Phillips : 1
+Brenda Strong : 1
+Ajiona Alexus : 1
+Bryce Cass : 1
+Steven Weber : 1
+Alisha Boe : 1
+Katherine Langford : 1
+Ke'Mari Moore : 1
+Mia Jómor : 1
+***********************
+MOVIE :Silent Tongue
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jack Kesy : 1
+Taylor John Smith : 1
+James Jagger : 1
+Orlando Bloom : 1
+Milo Gibson : 1
+Celina Sinden : 1
+Fahim Fazli : 1
+Caleb Landry Jones : 1
+Alexander Arnold : 1
+Cory Hardrict : 1
+***********************
+MOVIE :Teen Beach 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sam Huntington : 1
+Meaghan Rath : 1
+Kristen Hager : 1
+Sam Witwer : 1
+Madeleine Lebeau : 1
+Ingrid Bergman : 1
+Claude Rains : 1
+Dooley Wilson : 1
+Peter Lorre : 1
+John Qualen : 1
+***********************
+MOVIE :Infinite
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peter Davison : 1
+Toni Collette : 1
+Karl Johnson : 1
+Darren Evans : 1
+Raj Paul : 1
+Steffan Rhodri : 1
+Joanna Page : 1
+Siân Phillips : 1
+Damian Lewis : 1
+Owen Teale : 1
+***********************
+MOVIE :The Strangers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Eli Wallach : 1
+Charles Bronson : 1
+Jorge Martínez de Hoyos : 1
+Yul Brynner : 1
+Mario Navarro : 1
+Robert Vaughn : 1
+Brad Dexter : 1
+Rico Alaniz : 1
+Natividad Vacío : 1
+Rosenda Monteros : 1
+***********************
+MOVIE :Bugsy Malone
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ryan Kelley : 1
+Dylan O'Brien : 1
+Crystal Reed : 1
+Linden Ashby : 1
+Melissa Ponzio : 1
+Seth Gilliam : 1
+Shelley Hennig : 1
+Dylan Sprayberry : 1
+Holland Roden : 1
+Tyler Posey : 1
+***********************
+MOVIE :Thoroughly Modern Millie
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ssenkugu Swaib : 1
+Nakyambadde Prossy : 1
+Kavubu Muhammed : 1
+Kyaka Sophie : 1
+G. Puffs : 1
+Sserunya Ernest : 1
+Faizat Muhammed : 1
+Naluwooza Jackie : 1
+Bisaso Dauda : 1
+Kaggwa Bonny : 1
+***********************
+MOVIE :Dumplin'
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Helen Slater : 1
+David Healy : 1
+Jenifer Landor : 1
+Marc McClure : 1
+Diana Ricardo : 1
+Peter Cook : 1
+Simon Ward : 1
+Peter O'Toole : 1
+Brenda Vaccaro : 1
+Sandra Dickinson : 1
+***********************
+MOVIE :The Battle of Passchendaele
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Susan O'Connell : 1
+Slim Pickens : 1
+David Warner : 1
+James Anderson : 1
+Jason Robards : 1
+L.Q. Jones : 1
+Peter Whitney : 1
+Strother Martin : 1
+William Mims : 1
+Max Evans : 1
+***********************
+MOVIE :Aquaman 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+August Diehl : 1
+Omar Doom : 1
+Diane Kruger : 1
+Eli Roth : 1
+Til Schweiger : 1
+Mélanie Laurent : 1
+Jacky Ido : 1
+Sylvester Groth : 1
+B.J. Novak : 1
+Michael Fassbender : 1
+***********************
+MOVIE :Ant-Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Faizon Love : 1
+Peter Dinklage : 1
+Leon Redbone : 1
+Amy Sedaris : 1
+Artie Lange : 1
+Will Ferrell : 1
+James Caan : 1
+Zooey Deschanel : 1
+Bob Newhart : 1
+Daniel Tay : 1
+***********************
+MOVIE :The Boys
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Midori Francis : 1
+Christian Darrel Scott : 1
+Izaac Wang : 1
+Jacob Tremblay : 1
+Josh Caras : 1
+Macie Juiles : 1
+Millie Davis : 1
+Will Forte : 1
+Molly Gordon : 1
+Mariessa Portelance : 1
+***********************
+MOVIE :The Hunt for Red October
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Teresa Velarde : 1
+Ving Rhames : 1
+George R. Parker : 1
+John Hostetter : 1
+Kelly Jo Minter : 1
+Brandon Quintin Adams : 1
+Conni Marie Brazelton : 1
+Bill Cobbs : 1
+Sean Whalen : 1
+Josh Coxx : 1
+***********************
+MOVIE :Wings
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ron Funches : 1
+Justin Hartley : 1
+Rose Byrne : 1
+Ray Reinhardt : 1
+Adam Devine : 1
+Michael Peña : 1
+Kid Cudi : 1
+Diana Jackson : 1
+Gavin Root : 1
+Aaron Wilton : 1
+***********************
+MOVIE :Hollow Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Milo Sperber : 1
+Karl Malden : 1
+Janos Kurutz : 1
+Guy Doleman : 1
+Paul Tamarin : 1
+Stanley Caine : 1
+Oskar Homolka : 1
+Alexei Jawdokimov : 1
+Michael Caine : 1
+Françoise Dorléac : 1
+***********************
+MOVIE :Thunderball
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Shawnee Smith : 1
+Mike Realba : 1
+Lyriq Bent : 1
+Athena Karkanis : 1
+Costas Mandylor : 1
+Louis Ferreira : 1
+Marty Adams : 1
+Scott Patterson : 1
+Angus Macfadyen : 1
+Tobin Bell : 1
+***********************
+MOVIE :Justice League Part Two
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Quinton Aaron : 1
+Clint Obenchain : 1
+Ellen Hollman : 1
+Howard Ferguson Jr. : 1
+Stephanie Hill : 1
+Robert Carradine : 1
+John Lewis : 1
+Stephen Lang : 1
+Sheila Eden : 1
+Jamie-Lynn Sigler : 1
+***********************
+MOVIE :Couples Retreat
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+András Bálint : 1
+Notlim Taylor : 1
+Eloise Webb : 1
+Rafael Edholm : 1
+Karen Strassman : 1
+Lili Bordán : 1
+Philip Waley : 1
+Virginia Madsen : 1
+Olivia Rodrigo : 1
+Roxane Bret : 1
+***********************
+MOVIE :De dictator
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Patrick Warburton : 1
+Oliver Hudson : 1
+Megyn Price : 1
+David Spade : 1
+Bianca Kajlich : 1
+Kellen Love : 1
+Adhir Kalyan : 1
+Ali Wong : 1
+Diedrich Bader : 1
+Katy Mixon : 1
+***********************
+MOVIE :Scooby-Doo 2: Monsters Unleashed
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Grey Griffin : 1
+Frank Welker : 1
+Matthew Lillard : 1
+Kate Micucci : 1
+Terry Schonblum : 1
+Susan Roman : 1
+Frank Moore : 1
+Victor Désy : 1
+Miguel Fernandes : 1
+Howard Ryshpan : 1
+***********************
+MOVIE :High School Musical: The Musical - The Series
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Noriko Hidaka : 1
+Tanie Kitabayashi : 1
+Reiko Suzuki : 1
+Masashi Hirose : 1
+Chika Sakamoto : 1
+Machiko Washio : 1
+Shigesato Itoi : 1
+Hitoshi Takagi : 1
+Tarako : 1
+Tomohiro Nishimura : 1
+***********************
+MOVIE :The Thin Red Line
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Eli Roth : 1
+Ving Rhames : 1
+Brooklynn Proulx : 1
+Christopher Lloyd : 1
+Richard Dreyfuss : 1
+Ricardo Chavira : 1
+Elisabeth Shue : 1
+Paul Scheer : 1
+Jerry O'Connell : 1
+Kelly Brook : 1
+***********************
+MOVIE :Joan of Arc
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Nathan Lane : 1
+Michelle Monaghan : 1
+Yahya Abdul-Mateen II : 1
+Janina Gavankar : 1
+Kyle Chandler : 1
+Blake Jenner : 1
+Margaret Qualley : 1
+Darren Pettie : 1
+Avery Whitted : 1
+Tim Blake Nelson : 1
+***********************
+MOVIE :The Ruling Class
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Corey Stoll : 1
+Scott Glenn : 1
+James Joseph O'Neil : 1
+Prue Lewarne : 1
+Neil Brooks Cunningham : 1
+Alice Gainer : 1
+Rachel Weisz : 1
+Michael Chernus : 1
+Stacy Keach : 1
+Jeremy Renner : 1
+***********************
+MOVIE :St. Elmo's Fire
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Monica Dolan : 1
+Claudia Lee : 1
+Augustus Prew : 1
+Mary Kitchen : 1
+Garrett M. Brown : 1
+Lyndsy Fonseca : 1
+Christopher Mintz-Plasse : 1
+Aaron Taylor-Johnson : 1
+Donald Faison : 1
+Matt Steinberg : 1
+***********************
+MOVIE :Someone Great
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jemaine Clement : 1
+Emma Thompson : 1
+David Rasche : 1
+Clarke Thorell : 1
+Michael Stuhlbarg : 1
+Josh Brolin : 1
+Mike Colter : 1
+Alice Eve : 1
+Cayen Martin : 1
+Michael Chernus : 1
+***********************
+MOVIE :Gran Hotel
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anne Francis : 1
+Gerald Mohr : 1
+Gertrude Flynn : 1
+John Harmon : 1
+Mittie Lawrence : 1
+Thordis Brandt : 1
+Omar Sharif : 1
+Walter Pidgeon : 1
+Lee Allen : 1
+Barbra Streisand : 1
+***********************
+MOVIE :The Apple Dumpling Gang
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kenneth Mars : 2
+Richard X. Slattery : 1
+Don Knotts : 1
+Tim Matheson : 1
+Morgan Paull : 1
+Ruth Buzzi : 1
+Tim Conway : 1
+John Crawford : 1
+Audrey Totter : 1
+Harry Morgan : 1
+***********************
+MOVIE :Scream 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alexander Ludwig : 1
+Rich Ting : 1
+Jerry Ferrara : 1
+Ali Suliman : 1
+Ben Foster : 1
+Mark Wahlberg : 1
+Emile Hirsch : 1
+Ryan Kay : 1
+Yousuf Azami : 1
+Taylor Kitsch : 1
+***********************
+MOVIE :The Darkest Minds
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Damon Herriman : 1
+Dragicia Debert : 1
+Jon Abrahams : 1
+Paris Hilton : 1
+Jared Padalecki : 1
+Chad Michael Murray : 1
+Murray Smith : 1
+Elisha Cuthbert : 1
+Sam Harkess : 1
+Brian Van Holt : 1
+***********************
+MOVIE :Gamgi
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Pattinson : 2
+Agata Buzek : 1
+André Benjamin : 1
+Juliette Binoche : 1
+Gloria Obianyo : 1
+Claire Tran : 1
+Weronika Wachowska : 1
+Scarlett Lindsey : 1
+Ewan Mitchell : 1
+Mikolaj Gruss : 1
+***********************
+MOVIE :Willow
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kevin Spacey : 1
+Suzy Amis : 1
+Carl Bressler : 1
+Jack Shearer : 1
+Benicio Del Toro : 1
+Chazz Palminteri : 1
+Phillipe Simon : 1
+Paul Bartel : 1
+Pete Postlethwaite : 1
+Dan Hedaya : 1
+***********************
+MOVIE :Coming Home
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Elizabeth McGovern : 1
+Killian Scott : 1
+Shazad Latif : 1
+Vera Farmiga : 1
+Sam Neill : 1
+Nila Aalia : 1
+Liam Neeson : 1
+Patrick Wilson : 1
+Clara Lago : 1
+Jonathan Banks : 1
+***********************
+MOVIE :Résistance
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Pietro Castellitto : 1
+Fausto Russo Alesi : 1
+Adnan Haskovic : 1
+Bruno Armando : 1
+Emile Hirsch : 1
+Penélope Cruz : 1
+Saadet Aksoy : 1
+Branko Djuric : 1
+Luca De Filippo : 1
+Mira Furlan : 1
+***********************
+MOVIE :The Fury
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jessica Baker : 1
+Airlie Dodds : 1
+Danielle Horvat : 1
+Ebony Vagulans : 1
+Taylor Ferguson : 1
+Linda Ngo : 1
+Steve Morris : 1
+Brendan Kelly : 1
+Harriet Davies : 1
+Ben Toyer : 1
+***********************
+MOVIE :Batman: Arkham Knight
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Julie Andrews : 1
+Jason Segel : 1
+Jemaine Clement : 1
+Chris Renaud : 1
+Will Arnett : 1
+Jack McBrayer : 1
+Danny McBride : 1
+Steve Carell : 1
+Pierre Coffin : 1
+Mindy Kaling : 1
+***********************
+MOVIE :Penny Dreadful: City of Angels
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Roger Frost : 1
+Rhys Ifans : 1
+Dylan Moran : 1
+Henry Goodman : 1
+James Dreyfus : 1
+Hugh Grant : 1
+Clarke Peters : 1
+Richard McCabe : 1
+Lorelei King : 1
+Mischa Barton : 1
+***********************
+MOVIE :Hitch
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rutherford Cravens : 1
+Molly McClure : 1
+Bert Roberts : 1
+Patricia Childress : 1
+Jonny Lee Miller : 1
+Eugene Montes : 1
+F. Murray Abraham : 1
+Ray McKinnon : 1
+Jared Rushton : 1
+Grant James : 1
+***********************
+MOVIE :Dora the Explorer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tamás Hagyuó : 1
+Olwen Fouéré : 1
+Bill Duke : 1
+Richard Brake : 1
+Kalin Kerin : 1
+Ned Dennehy : 1
+Stephan Fraser : 1
+Alexis Julemont : 1
+Hayley Saywell : 1
+Clément Baronnet : 1
+***********************
+MOVIE :The Politician
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brian Presley : 1
+Tom Sizemore : 1
+Johnny Wactor : 1
+Cody Walker : 1
+Yutaka Takeuchi : 1
+Adam Scott Miller : 1
+Emily Tennant : 1
+Shamar Sanders : 1
+Joey Capone : 1
+Matt Lanter : 1
+***********************
+MOVIE :The Librarians
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stacy Keach : 1
+James Keach : 1
+Dennis Quaid : 1
+James Remar : 1
+Harry Carey Jr. : 1
+David Carradine : 1
+Robert Carradine : 1
+Kevin Brophy : 1
+Christopher Guest : 1
+Pamela Reed : 1
+***********************
+MOVIE :Dark
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Taylor : 1
+Dennis Haysbert : 1
+Matthew McConaughey : 1
+Jackie Earle Haley : 1
+Idris Elba : 1
+Katheryn Winnick : 1
+Claudia Kim : 1
+Nicholas Pauling : 1
+Fran Kranz : 1
+Michael Barbieri : 1
+***********************
+MOVIE :Kiseijû: Sei no kakuritsu
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Max Kasch : 1
+Laura Johnson : 1
+Carl Gilliard : 1
+Angela Paton : 1
+Cillian Murphy : 1
+Suzie Plakson : 1
+Jack Scalia : 1
+Philip Pavel : 1
+Brian Cox : 1
+Terry Press : 1
+***********************
+MOVIE :The Unicorn
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dan Tullis Jr. : 1
+Gary Carlos Cervantes : 1
+Nick Nolte : 1
+Michael Ironside : 1
+Larry B. Scott : 1
+Powers Boothe : 1
+Clancy Brown : 1
+Matt Mulhern : 1
+Marco Rodríguez : 1
+Rip Torn : 1
+***********************
+MOVIE :Pirates of the Caribbean: Dead Man's Chest
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Shannon Gregory : 1
+Russi Taylor : 1
+Tress MacNeille : 1
+Bill Farmer : 1
+Maurice LaMarche : 1
+Jeff Bennett : 1
+April Winchell : 1
+Jim Cummings : 1
+Rob Paulsen : 1
+Wayne Allwine : 1
+***********************
+MOVIE :Harry Potter and the Goblet of Fire
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Richard Jenkins : 1
+John Malkovich : 1
+J.R. Horne : 1
+David Rasche : 1
+Armand Schultz : 1
+Hamilton Clancy : 1
+J.K. Simmons : 1
+Olek Krupa : 1
+Frances McDormand : 1
+Elizabeth Marvel : 1
+***********************
+MOVIE :The Last House on the Left
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alan Pflueger : 1
+Jalil Jay Lynch : 1
+Dakota Johnson : 1
+Imogen Poots : 1
+Ramon Rodriguez : 1
+Michael Keaton : 1
+Logan Holladay : 1
+Brian L. Keaulana : 1
+Carmela Zumbado : 1
+Dominic Cooper : 1
+***********************
+MOVIE :Devil
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peter Berg : 1
+Wayne Newton : 1
+Jeff Habberstad : 1
+Mike Falkow : 1
+Alex Rocco : 1
+Ray Liotta : 1
+Common : 1
+Andy Garcia : 1
+Ben Affleck : 1
+Joseph Ruskin : 1
+***********************
+MOVIE :Frozen II
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonathan Haze : 1
+John Ireland : 1
+Bruno VeSota : 1
+Dick Miller : 1
+Aaron Saxon : 1
+Paul McGuire : 1
+Beverly Garland : 1
+William Schallert : 1
+Margaret Campbell : 1
+Allison Hayes : 1
+***********************
+MOVIE :Leprechaun
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Shia LaBeouf : 1
+Mia Wasikowska : 1
+Chris McGarry : 1
+Jason Clarke : 1
+Noah Taylor : 1
+Alex Van : 1
+Bill Camp : 1
 Gary Oldman : 1
-Juliet Donenfeld : 1
-Arsenio Castellanos : 1
-Antonio Banderas : 1
-AJ Meijer : 1
-Meryl Streep : 1
-Chris McLaughlin : 1
-Robert Patrick : 1
-Jeff Michalski : 1
+Guy Pearce : 1
+Lew Temple : 1
 ***********************
-MOVIE :Glengarry Glen Ross
-Mike Doyle : 1
-Marieh Delfino : 1
-Danielle Camastra : 1
-Emayatzy Corinealdi : 1
-Jay Larson : 1
-Lindsay Burdge : 1
-Michiel Huisman : 1
-Trish Gates : 1
-Tammy Blanchard : 1
-John Carroll Lynch : 1
+MOVIE :Rio Conchos
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Faizon Love : 1
+Marques Houston : 1
+Reynaldo Rey : 1
+Myra J. : 1
+Robin Harris : 1
+Tone Loc : 1
+Wayne Collins : 1
+John Witherspoon : 1
+Chino 'Fats' Williams : 1
+Jonell Green : 1
 ***********************
-MOVIE :Minuscule - Les mandibules du bout du monde
-Danny Mann : 1
-Mel Gibson : 1
-John Kassir : 1
-Christian Bale : 1
-Linda Hunt : 1
-Judy Kuhn : 1
-David Ogden Stiers : 1
-Michelle St. John : 1
-Russell Means : 1
-Billy Connolly : 1
+MOVIE :New York Minute
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Benyaer : 1
+Brianna Hildebrand : 1
+Taylor Hickson : 1
+Stefan Kapicic : 1
+Karan Soni : 1
+Naika Toussaint : 1
+Randal Reeder : 1
+T.J. Miller : 1
+Kyle Cassie : 1
+Ayzee : 1
 ***********************
-MOVIE :Lucy in the Sky
+MOVIE :Helen of Troy
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brinke Stevens : 1
+Jennifer Meyers : 1
+Robin Stille : 1
+Anna Patton : 1
+Andree Honore : 1
+Michael Villella : 1
+David Millbern : 1
+Jean Vargas : 1
+Joseph Alan Johnson : 1
+Jim Boyce : 1
+***********************
+MOVIE :Haute tension
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Joan Cusack : 1
+Bill Goldberg : 1
+Mary Woronov : 1
+Timothy Dalton : 1
+Steve Martin : 1
+Jeff Gordon : 1
+Dick Miller : 1
+Kevin McCarthy : 1
+Dan Stanton : 1
+Don Stanton : 1
+***********************
+MOVIE :State Fair
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kirk Douglas : 1
+Elisabeth Fraser : 1
+Robert Mitchum : 1
+John Mitchum : 1
+Hal Lynch : 1
+Harry Carey Jr. : 1
+Patric Knowles : 1
+Stubby Kaye : 1
+Michael Witney : 1
+Jack Elam : 1
+***********************
+MOVIE :The Lone Ranger
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Scott Caan : 1
+Gill Montie : 1
+Paul Walker : 1
+Javon Frazer : 1
+James Frain : 1
+Dwayne Adway : 1
+Josh Brolin : 1
+Peter R.V. Bowleg Jr. : 1
+Clifford McIntosh : 1
+Tyson Beckford : 1
+***********************
+MOVIE :La influencia
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jean Dujardin : 1
+Jon Bernthal : 1
+Katarina Cas : 1
+Margot Robbie : 1
+Jonah Hill : 1
+Joanna Lumley : 1
+Cristin Milioti : 1
+Rob Reiner : 1
+P.J. Byrne : 1
+Matthew McConaughey : 1
+***********************
+MOVIE :John Wick: Chapter 4
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Danny Huston : 1
+Tom Payne : 1
+Emma Fitzgerald : 1
+Justin Jamieson : 1
+Margaret Qualley : 1
+Anthony Mackie : 1
+Bresha Webb : 1
+Angela Marie Rigsby : 1
+Sandra Ellis Lafferty : 1
+Nathan Anderson : 1
+***********************
+MOVIE :The Haunting
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lane Smith : 1
+Tiffani Thiessen : 1
+Ria Pavia : 1
+Carla Gugino : 1
+Graham Jarvis : 1
+Troy Shire : 1
+Dennis Burkley : 1
+Lisa Lawrence : 1
+Mason Adams : 1
+Nick Light : 1
+***********************
+MOVIE :Hamburger Hill
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Frances Carson : 1
+Alan Baxter : 1
+Dorothy Peterson : 1
+Otto Kruger : 1
+Priscilla Lane : 1
+Ian Wolfe : 1
+Vaughan Glaser : 1
+Clem Bevans : 1
+Robert Cummings : 1
+Norman Lloyd : 1
+***********************
+MOVIE :Cinderella 2000
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Julie Garfield : 1
+John Marley : 1
+Ali MacGraw : 1
+Andrew Duncan : 1
+Russell Nype : 1
+Ray Milland : 1
+Robert Modica : 1
+Ryan O'Neal : 1
+John Merensky : 1
+Katharine Balfour : 1
+***********************
+MOVIE :Band of Brothers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Josh Gad : 1
+Zanete Shadwick : 1
+Keesha Sharp : 1
+Chadwick Boseman : 1
+Dan Stevens : 1
+John Magaro : 1
+Rozonda 'Chilli' Thomas : 1
+Jussie Smollett : 1
+Derrick Baskin : 1
+Roger Guenveur Smith : 1
+***********************
+MOVIE :The Do-Over
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kate Beckinsale : 1
+Sophia Myles : 1
+Kevin Grevioux : 1
+Shane Brolly : 1
+Scott Speedman : 1
+Robbie Gee : 1
+Erwin Leder : 1
+Wentworth Miller : 1
+Sándor Bolla : 1
+Dennis J. Kozeluh : 1
+***********************
+MOVIE :Ice Age: Collision Course
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cynthia Darlow : 1
+Matteo Pascale : 1
+Nunzio Pascale : 1
+Tony Shalhoub : 1
+Marin Hinkle : 1
+Brian Tarantina : 1
+Joel Johnstone : 1
+Caroline Aaron : 1
+Kevin Pollak : 1
+Matilda Szydagis : 1
+***********************
+MOVIE :The Lighthouse
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Cruise : 1
+Josh Holloway : 1
+Pavel Kríz : 1
+Samuli Edelmann : 1
+Goran Navojec : 1
+Miraj Grbic : 1
+Michael Nyqvist : 1
+Vladimir Mashkov : 1
+Ilia Volok : 1
+Ivan Shvedoff : 1
+***********************
+MOVIE :The Intern
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Phil Hendrie : 1
+Justin Long : 1
+Kevin Michael Richardson : 1
+Haley Reinhart : 1
+Laura Dern : 1
+Debi Derryberry : 1
+David Koechner : 1
+Mo Collins : 1
+Bill Burr : 1
+Trevor Devall : 1
+***********************
+MOVIE :Pulp Fiction
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Noomi Rapace : 1
+Jordi Mollà : 1
+Dina Shihabi : 1
+Francisco Denis : 1
+Karim Zein : 1
+Abbie Cornish : 1
+Jovan Adepo : 1
+Wendell Pierce : 1
+Michael Kelly : 1
+Cristina Umaña : 1
+***********************
+MOVIE :Morgan
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Donald Sutherland : 1
+Nathan George : 1
+Dorothy Tristan : 1
+Morris Strassberg : 1
+Betty Murray : 1
+Anthony Holland : 1
+Charles Cioffi : 1
+Barry Snider : 1
+Jane White : 1
+Rita Gam : 1
+***********************
+MOVIE :Max en de maximonsters
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vinita Amar : 1
+Priyanka Bose : 1
+Dolly Ahluwalia : 1
+Madhuri Dixit : 1
+Kamal Adib : 1
+Aanoushka : 1
+Aditya Roy Kapoor : 1
+Anisha : 1
+Tanvi Azmi : 1
+Deepika Padukone : 1
+***********************
+MOVIE :Working Girl
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dennis Kilbane : 1
+Laurence Naismith : 1
+James Franciscus : 1
+Richard Carlson : 1
+Jose Burgos : 1
+Gila Golan : 1
+Freda Jackson : 1
+Curtis Arden : 1
+Gustavo Rojo : 1
+Mario De Barros : 1
+***********************
+MOVIE :Malcolm X
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jack Vernon : 1
+Scott Poythress : 1
+Victoria Smith : 1
+Rowan Russell : 1
+Aaron Larsen : 1
+Chris Sullivan : 1
+AJ Bowen : 1
+Jocelin Donahue : 1
+Susan Burke : 1
+John Marrott : 1
+***********************
+MOVIE :Good Luck Chuck
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jôji Yanami : 1
+Tarako : 1
+Chika Sakamoto : 1
+Ichirô Nagai : 1
+Sumi Shimamoto : 1
+Masako Sugaya : 1
+Mîna Tominaga : 1
+Kôhei Miyauchi : 1
+Gorô Naya : 1
+Hisako Kyôda : 1
+***********************
+MOVIE :Carrie
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jerry Sroka : 1
+Katie Hanley : 1
+Joanne Jonas : 1
+David Haskell : 1
+Robin Lamont : 1
+Lynne Thigpen : 1
+Merrell Jackson : 1
+Jeffrey Mylett : 1
+Victor Garber : 1
+Gilmer McCormick : 1
+***********************
+MOVIE :Eden Lake
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Paul Bonifas : 1
+George Kennedy : 1
+Dominique Minot : 1
+Jacques Marin : 1
+Ned Glass : 1
+Thomas Chelimsky : 1
+Cary Grant : 1
+Audrey Hepburn : 1
+Walter Matthau : 1
+James Coburn : 1
+***********************
+MOVIE :True Lies
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Gail O'Grady : 1
+Kevin Sorbo : 1
+Dave Florek : 1
+Shannon Lucio : 1
+Micah Alberti : 1
+Shane Johnson : 1
+Andrew Lawrence : 1
+Greg Evigan : 1
+Erik Aude : 1
+Dusty Sorg : 1
+***********************
+MOVIE :The Curious Case of Benjamin Button
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Pete Ploszek : 1
+Noel Fisher : 1
+Alan Ritchson : 1
+Whoopi Goldberg : 1
+Abby Elliott : 1
+Jeremy Howard : 1
+Tony Shalhoub : 1
+Johnny Knoxville : 1
+Will Arnett : 1
+Danny Woodburn : 1
+***********************
+MOVIE :Mutiny on the Bounty
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Wray Featherstone : 1
+Amelia Thornsberry : 1
+Jenna Thornsberry : 1
+Sandra Staggs : 1
+Ben Rovner : 1
+Connie West : 1
+Jelena Nik : 1
+Frank Novak : 1
+Patrick Sullivan : 1
+Roy Abramsohn : 1
+***********************
+MOVIE :Power Rangers Beast Morphers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lara Robinson : 1
+Alan Hopgood : 1
+Joshua Long : 1
+Ben Mendelsohn : 1
+D.G. Maloney : 1
+Chandler Canterbury : 1
+Nadia Townsend : 1
+Adrienne Pickering : 1
+Tamara Donnellan : 1
+David Lennie : 1
+***********************
+MOVIE :Lili
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ioan Hefin : 1
+Paul Higgins : 1
+Dan Stevens : 1
+Owain Gwynn : 1
+John Norton : 1
+Rhian Morgan : 1
+Mark Lewis Jones : 1
+Catrin Aaron : 1
+John Weldon : 1
+Gareth Pierce : 1
+***********************
+MOVIE :Mortal Kombat: Annihilation
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dar Dash : 1
+Rosie Perez : 1
+Michael Fassbender : 1
+Alex Hafner : 1
+Cesar Aguirre : 1
+Javier Bardem : 1
+Provence Maydew : 1
+Bruno Ganz : 1
+Penélope Cruz : 1
+Daniel Holguín : 1
+***********************
+MOVIE :Terminator: Dark Fate
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Radoslav Parvanov : 1
+Andrew Bone : 1
+Paul Luebke : 1
+Amy Lennox : 1
+Simon Ginty : 1
+Roxanne McKee : 1
+Doug Bradley : 1
+Camilla Arfwedson : 1
+Kyle Redmond-Jones : 1
+Duncan Wisbey : 1
+***********************
+MOVIE :Absentia
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dave Bannick : 1
+Marla Sokoloff : 1
+Seann William Scott : 1
+James Vincent : 1
+Mary Lynn Rajskub : 1
+Christian Middelthon : 1
+Bob Clendenin : 1
+Kevin Christy : 1
+Jennifer Garner : 1
+Ashton Kutcher : 1
+***********************
+MOVIE :Splice
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Andrés Cantor : 1
+Matt Vogel : 1
+Tina Fey : 1
+Jemaine Clement : 1
+Ty Burrell : 1
+Dave Goelz : 1
+Hugh Bonneville : 1
+Peter Linz : 1
+Tony Bennett : 1
+David Rudman : 1
+***********************
+MOVIE :Hoo-goong: Je-wang-eui cheob
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Eric Christian Olsen : 1
+Eric Jungmann : 1
+Jaime Pressly : 1
+Chyler Leigh : 1
+Ron Lester : 1
+Deon Richmond : 1
+Samm Levine : 1
+Cerina Vincent : 1
+Sam Huntington : 1
+Chris Evans : 1
+***********************
+MOVIE :Jagga Jasoos
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+James Faulkner : 1
+Colin Firth : 1
+Sally Phillips : 1
+Charmian May : 1
+Gemma Jones : 1
+Hugh Grant : 1
+James Callis : 1
+Charlie Caine : 1
+Jim Broadbent : 1
+Gareth Marks : 1
+***********************
+MOVIE :Patriot Games
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Yow : 1
+Fabianne Therese : 1
+Anessa Ramsey : 1
+Karla Droege : 1
+Justin Welborn : 1
+Hannah Marks : 1
+Nathalie Love : 1
+Davey Johnson : 1
+Kristina Pesic : 1
+Susan Burke : 1
+***********************
+MOVIE :Event Horizon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Beyer : 1
+Rainer Reiners : 1
+Julian Lehmann : 1
+Nico Liersch : 1
+Emily Watson : 1
+Heike Makatsch : 1
+Gotthard Lange : 1
+Kirsten Block : 1
+Geoffrey Rush : 1
+Sophie Nélisse : 1
+***********************
+MOVIE :Salinui chueok
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dan Brother : 1
+Martin Leeper : 1
+Stan Brakhage : 1
+Andrew Kemler : 1
+M.K. : 1
+Duster : 1
+Dian Bachar : 1
+Ian Hardin : 1
+Jon Hegel : 1
+Jessica James Kelly : 1
+***********************
+MOVIE :Ruin
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Steve Carell : 1
+Yul Vazquez : 1
+Richard Robichaux : 1
+Graham Wolfe : 1
+Deanna Reed-Foster : 1
+Jeff Monahan : 1
+Dontez James : 1
+Laurence Fishburne : 1
+Cathy O'Dell : 1
+Jane Mowder : 1
+***********************
+MOVIE :Santa Fe Marshal
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Yuri Shiratori : 1
+Carla Tassara : 1
+Akira Ishida : 1
+Nobutoshi Canna : 1
+Marc Sebastian : 1
+Yasuyuki Kase : 1
+Jeff Ward : 1
+Unshô Ishizuka : 1
+Michelle Newman : 1
+Masuo Amada : 1
+***********************
+MOVIE :The Rider
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brent Spiner : 1
+Marina Sirtis : 1
+Jonathan Frakes : 1
+Marnie McPhail : 1
+Robert Picardo : 1
+Gates McFadden : 1
+James Cromwell : 1
+Neal McDonough : 1
+Michael Dorn : 1
+Alfre Woodard : 1
+***********************
+MOVIE :Tears of the Sun
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Daniel Henshall : 1
+Barbara West : 1
+Lucy Hong : 1
+Tony Mack : 1
+Essie Davis : 1
+Chloe Hurn : 1
+Benjamin Winspear : 1
+Hayley McElhinney : 1
+Carmel Johnson : 1
+Tiffany Lyndall-Knight : 1
+***********************
+MOVIE :Force 10 from Navarone
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alex Solowitz : 1
+Don McManus : 1
+Alyssa Preston : 1
+Glenn Morshower : 1
+Mark Ivanir : 1
+Alicja Bachleda : 1
+A.J. Trauth : 1
+Christopher Heyerdahl : 1
+Debi Derryberry : 1
+Michelle Forbes : 1
+***********************
+MOVIE :The Town
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Raphael Alejandro : 1
 Nina Lu : 1
 Will Buie Jr. : 1
@@ -131,151 +2043,11 @@ Skai Jackson : 1
 Karan Brar : 1
 Kevin Quinn : 1
 ***********************
-MOVIE :Conspiracy
-Martin Herdman : 1
-James Greene : 1
-Robin Hodges : 1
-John Sessions : 1
-Jerome Flynn : 1
-Bill Thomas : 1
-Saoirse Ronan : 1
-Douglas Booth : 1
-Chris O'Dowd : 1
-Holly Earl : 1
-***********************
-MOVIE :The Matrix Reloaded
-Oscar Ljung : 1
-Max von Sydow : 1
-Karin Nordström : 1
-Monica Zetterlund : 1
-Larry Clementson : 1
-Halvar Björk : 1
-Tom C. Fouts : 1
-Agneta Prytz : 1
-Pierre Lindstedt : 1
-Eddie Axberg : 1
-***********************
-MOVIE :American Mary
-David Henrie : 1
-Maria Canals-Barrera : 1
-Jennifer Stone : 1
-Holland Sanders : 1
-Selena Gomez : 1
-Jake T. Austin : 1
-David DeLuise : 1
-Lee Arenberg : 1
-Naomie Harris : 1
-Stellan Skarsgård : 1
-***********************
-MOVIE :The Wall
-Reniko Francis : 1
-Shone Romulus : 1
-Kadeem Ramsay : 1
-Sharon Duncan-Brewster : 1
-Hope Ikpoku Jnr : 1
-Seraphina Beh : 1
-Keiyon Cook : 1
-Micheal Ward : 1
-Jasmine Jobson : 1
-Kane Robinson : 1
-***********************
-MOVIE :Urban Cowboy
-James Best : 1
-Ray Collins : 1
-Ralph Moody : 1
-Russell Johnson : 1
-Audie Murphy : 1
-Gregg Palmer : 1
-Dennis Weaver : 1
-Bob Steele : 1
-Rico Alaniz : 1
-Joan Evans : 1
-***********************
-MOVIE :Trolls
-Tsunehiko Kamijô : 1
-Yasuko Sawaguchi : 1
-Rumi Hiiragi : 1
-Takashi Naitô : 1
-Shigeru Wakita : 1
-Takehiko Ono : 1
-Bunta Sugawara : 1
-Tatsuya Gashûin : 1
-Koba Hayashi : 1
-Mari Natsuki : 1
-***********************
-MOVIE :Churchill
-Karin Booth : 1
-Jim Moloney : 1
-John Pickard : 1
-Rory Mallinson : 1
-William Fawcett : 1
-George Montgomery : 1
-Steven Ritch : 1
-Jonni Paris : 1
-Joanne Rio : 1
-Howard Wright : 1
-***********************
-MOVIE :Max
-Nina Sosanya : 1
-Nicola Sloane : 1
-Ben Miles : 1
-Phill Langhorne : 1
-Stephen Campbell Moore : 1
-Lulu Meissner : 1
-Raj Swamy : 1
-Sophie Cookson : 1
-Judi Dench : 1
-Freddie Gaminara : 1
-***********************
-MOVIE :Bandidas
-Sope Aluko : 1
-Chris O'Hara : 1
-Scott Haze : 1
-Jenny Slate : 1
-Peggy Lu : 1
-Reid Scott : 1
-Kurt Yue : 1
-Woody Harrelson : 1
-Michelle Williams : 1
-Riz Ahmed : 1
-***********************
-MOVIE :De vrouw die gelyncht moest worden
-Loretta Young : 1
-Frank Sully : 1
-Walter Sande : 1
-Don Costello : 1
-Russell Simpson : 1
-William Demarest : 1
-Ray Teal : 1
-Dan Duryea : 1
-Arthur Loft : 1
-Willard Robertson : 1
-***********************
-MOVIE :Frozen II
-Jonathan Carrasco : 1
-Wade Robson : 1
-Mother Love : 1
-Shaquille O'Neal : 1
-Fawn Reed : 1
-Brandon Durand : 1
-Jesse Perez : 1
-Todd Sible : 1
-Efren Ramirez : 1
-James Acheson : 1
-***********************
-MOVIE :Ice Age
-Beulah Archuletta : 1
-Hank Worden : 1
-Harry Carey Jr. : 1
-John Wayne : 1
-Jeffrey Hunter : 1
-Ken Curtis : 1
-John Qualen : 1
-Walter Coy : 1
-Olive Carey : 1
-Dorothy Jordan : 1
-***********************
-MOVIE :Welcome to Marwen
+MOVIE :Eureka
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Harvey Lembeck : 1
 Harry Holcombe : 1
 Kathryn Card : 1
@@ -287,55 +2059,587 @@ Lauren Gilbert : 1
 Hermione Baddeley : 1
 Fred Essler : 1
 ***********************
-MOVIE :The Witches of Eastwick
-Lawrence A. Bonney : 1
-Frank Seals Jr. : 1
-Jeffrie Lane : 1
-Kasi Lemmons : 1
-Stuart Rudin : 1
-George 'Red' Schwartz : 1
-Leib Lensky : 1
-Maria Skorobogatov : 1
-Scott Glenn : 1
-Anthony Heald : 1
+MOVIE :SpaceCamp
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bruce Crawford : 1
+Lana Lonergan : 1
+Emmalyn Estrada : 1
+Tiera Skovbye : 1
+Peter Bryant : 1
+Keith Dallas : 1
+Allan Harmon : 1
+Jeffrey Ballard : 1
+Richard Harmon : 1
+Hugo Steele : 1
 ***********************
-MOVIE :Au revoir les enfants
-Mireille Enos : 1
-Fana Mokoena : 1
-Daniella Kertesz : 1
-Peter Capaldi : 1
-Pierfrancesco Favino : 1
-James Badge Dale : 1
-Matthew Fox : 1
-David Morse : 1
-Sterling Jerins : 1
-Ludi Boeken : 1
+MOVIE :Basmati Blues
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Laurentiu Possa : 1
+Sofia Boutella : 1
+Brandon Kyle Goodman : 1
+Quincy Tyler Bernstine : 1
+Tina Fey : 1
+John Gallagher Jr. : 1
+Shea Whigham : 1
+Dev Patel : 1
+Andrew Scott : 1
+Cristin Milioti : 1
 ***********************
-MOVIE :Como Caído Del Cielo
-Dorothy Atkinson : 1
-Ben Aldridge : 1
-Emma Paetz : 1
-Paloma Faith : 1
-Jack Bannon : 1
-Ramon Tikaram : 1
-Richard Clothier : 1
-Danny Webb : 1
-Harriet Slater : 1
-Simon Day : 1
+MOVIE :Young Sheldon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brad Dexter : 1
+Michael Pate : 1
+Verna Felton : 1
+Adam Williams : 1
+Mimi Gibson : 1
+Peter J. Votrian : 1
+Joel McCrea : 1
+I. Stanford Jolley : 1
+Esther Dale : 1
+Douglas Dick : 1
 ***********************
-MOVIE :Jeanne D'Arc
-Rebecca Schull : 1
-Tony Shalhoub : 1
-Tim Daly : 1
-Steven Weber : 1
-David Schramm : 1
-Crystal Bernard : 1
-Thomas Haden Church : 1
-Amy Yasbeck : 1
-Katharine Isabelle : 1
-Tom Butler : 1
+MOVIE :The Thirteenth Year
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Synnove Karlsen : 1
+Annabel Scholey : 1
+Ken Bones : 1
+Tatjana Nardone : 1
+Toby Regbo : 1
+Pietro Ragusa : 1
+Valentina Bellè : 1
+Eugenio Franceschini : 1
+Charlie Vickers : 1
+Gualtiero Burzi : 1
 ***********************
-MOVIE :Patch Adams
+MOVIE :The Crying Game
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ted Flicker : 1
+Christopher Lloyd : 1
+Jason Robards : 1
+John Hart : 1
+Marc Gilpin : 1
+Lincoln Tate : 1
+David Bennett : 1
+David Hayward : 1
+Juanin Clay : 1
+Richard Farnsworth : 1
+***********************
+MOVIE :De ondraaglijke lichtheid van het bestaan
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Colin Hanks : 1
+Christopher McDonald : 1
+Kat Dennings : 1
+Kimberly Makkouk : 1
+Anna Faris : 1
+Monet Mazur : 1
+Tyson Ritter : 1
+Katharine McPhee : 1
+Sarah Wright : 1
+Rumer Willis : 1
+***********************
+MOVIE :Levend of dood
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Scott Adkins : 1
+Shanshan Chunyu : 1
+Nan Yu : 1
+Aaron Ly : 1
+Frank Grillo : 1
+Oleg Prudius : 1
+Paul Allica : 1
+Haifeng Ding : 1
+Jing Wu : 1
+Pierre Bourdaud : 1
+***********************
+MOVIE :Feng huo fang fei
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jessica Chastain : 2
+John Cleese : 1
+Bob Payne : 1
+Louise Gold : 1
+Charles Grodin : 1
+Jack Warden : 1
+Peter Ustinov : 1
+Dave Goelz : 1
+Jim Henson : 1
+Richard Hunt : 1
+***********************
+MOVIE :Deception
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jon Hamm : 1
+Christopher Walken : 1
+Tim Blake Nelson : 1
+J.B. Smoove : 1
+Sable Boykin : 1
+Sônia Braga : 1
+Allen Lewis Rickman : 1
+Audrey Tautou : 1
+Bobby Cannavale : 1
+Margaret Reed : 1
+***********************
+MOVIE :The Rare Breed
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Beverly May : 1
+Jan Rubes : 1
+John Garson : 1
+Lukas Haas : 1
+Ed Crowley : 1
+Josef Sommer : 1
+Patti LuPone : 1
+Danny Glover : 1
+Kelly McGillis : 1
+Brent Jennings : 1
+***********************
+MOVIE :Poltergeist
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Yanina Zheymo : 1
+Lillian Buyeff : 1
+Art Linkletter : 1
+Galina Kozhakina : 1
+Rickey Busch : 1
+Tammy Marihugh : 1
+Vladimir Gribkov : 1
+Anna Komolova : 1
+Sandra Dee : 1
+Jennie Lynn : 1
+***********************
+MOVIE :Big Kill
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jet Jurgensmeyer : 1
+Christian J. Simon : 1
+Charlie Townsend : 1
+Vanessa Williams : 1
+Megan Hilty : 1
+Zach Cherry : 1
+Betty Gilpin : 1
+Adam Devine : 1
+Jay Oakerson : 1
+Marcus Choi : 1
+***********************
+MOVIE :Swiss Army Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tyler Alexander Mann : 1
+Alyson Stoner : 1
+Dan Povenmire : 1
+Maulik Pancholy : 1
+Caroline Rhea : 1
+Mitchel Musso : 1
+Dee Bradley Baker : 1
+Olivia Olson : 1
+Thomas Brodie-Sangster : 1
+Kelly Hu : 1
+***********************
+MOVIE :Booksmart
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Luis Rallo : 1
+Nayara Feito : 1
+Bruna González : 1
+Carlos Cristino : 1
+Ángela Fabián : 1
+Chema Adeva : 1
+Gema Matarranz : 1
+Sandra Escacena : 1
+Miranda Gas : 1
+Ana Torrent : 1
+***********************
+MOVIE :Sorry to Bother You
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kate Fleetwood : 1
+Nolan North : 1
+Stephen Campbell Moore : 1
+Michael McElhatton : 1
+Lee Boardman : 1
+Ralph Ineson : 1
+O-T Fagbenle : 1
+Sean Pertwee : 1
+Matt Ryan : 1
+Mark Bonnar : 1
+***********************
+MOVIE :Diary of a Wimpy Kid
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jason Drucker : 1
+Ricky Muse : 1
+Dylan Walters : 1
+Joshua Hoover : 1
+Tom Everett Scott : 1
+Carlos Guerrero : 1
+Stephen 'Big Steve' Dupree : 1
+Owen Asztalos : 1
+Charlie Wright : 1
+Wyatt Walters : 1
+***********************
+MOVIE :Bleach: Burîchi
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kelly Reilly : 1
+Kailia Posey : 1
+Lili Taylor : 1
+Max Martini : 1
+Jared Bankens : 1
+Mitchell de Rubira : 1
+Lou Beatty Jr. : 1
+Parker Lovein : 1
+Sadie Sink : 1
+Deneen Tyler : 1
+***********************
+MOVIE :The Nun
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Taylor Russell : 2
+Logan Miller : 2
+Indya Moore : 1
+Avianah Abrahams : 1
+Anton David Jeftha : 1
+Isabelle Fuhrman : 1
+Carlito Olivero : 1
+Thomas Cocquerel : 1
+Holland Roden : 1
+Jay Erving : 1
+***********************
+MOVIE :Killing Me Softly
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Burkely Duffield : 1
+Tom Pickett : 1
+Max Schneider : 1
+Keke Palmer : 1
+Christina Sicoli : 1
+Terence Kelly : 1
+Robert Moloney : 1
+Carlena Britch : 1
+Keenan Tracey : 1
+Isaiah Mustafa : 1
+***********************
+MOVIE :De Wilde Ganzen
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Duncan Young : 1
+Martin Thomas : 1
+Steve Le Marquand : 1
+Morgan Illidge : 1
+Gyton Grantley : 1
+Fletcher Illidge : 1
+Leon Ford : 1
+Oliver Leimbach : 1
+Mark Coles Smith : 1
+Alex Thompson : 1
+***********************
+MOVIE :The Edge of Seventeen
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ernie Hudson : 1
+Richard Crenna : 1
+Peter Weller : 1
+Daniel Stern : 1
+Eugene Lipinski : 1
+Hector Elizondo : 1
+Amanda Pays : 1
+Larry Dolgin : 1
+Pascal Druant : 1
+Michael Carmine : 1
+***********************
+MOVIE :Gears 5
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tora Hallström : 1
+Robin Mullins : 1
+Giulia Pagano : 1
+Noah Lomax : 1
+Wendy Wilmot : 1
+Juan Piedrahita : 1
+Irene Ziegler : 1
+Mimi Kirkland : 1
+Jasper Grey : 1
+Jon Kohler : 1
+***********************
+MOVIE :10 Cloverfield Lane
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Jason : 1
+Nicholas Lyndhurst : 1
+Kenneth MacDonald : 1
+John Challis : 1
+Buster Merryfield : 1
+Roger Lloyd Pack : 1
+Shauna MacDonald : 1
+Tyler Young : 1
+Samantha Logan : 1
+Katie Stevens : 1
+***********************
+MOVIE :Zoo
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Colm Meaney : 1
+Liam Waite : 1
+Fernando Banda : 1
+Juan Pablo Gamboa : 1
+Roger Cudney : 1
+David Alan Grier : 1
+Julie Cox : 1
+Marcia Gay Harden : 1
+Patrick Bergin : 1
+Richard Lineback : 1
+***********************
+MOVIE :Flight of the Navigator
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christopher Wehkamp : 1
+Monica Rial : 1
+Amber Lee Connors : 1
+Aoi Yûki : 1
+Joe Cucinotti : 1
+Will Patton : 1
+Annabella Sciorra : 1
+William Duff-Griffin : 1
+Michael Wincott : 1
+Larry Joshua : 1
+***********************
+MOVIE :Doubt
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Paz de la Huerta : 1
+Delroy Lindo : 1
+Kate Nelligan : 1
+J.K. Simmons : 1
+Evan Parke : 1
+K. Todd Freeman : 1
+Tobey Maguire : 1
+Kathy Baker : 1
+Charlize Theron : 1
+Michael Caine : 1
+***********************
+MOVIE :Breaking Glass
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dove Cameron : 1
+Dylan Playfair : 1
+Dan Payne : 1
+Melanie Paxson : 1
+Jadah Marie : 1
+Booboo Stewart : 1
+Brenna D'Amico : 1
+Thomas Doherty : 1
+Cameron Boyce : 1
+Sarah Jeffery : 1
+***********************
+MOVIE :My Bodyguard
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kevin G. Schmidt : 1
+Forrest Landis : 1
+Alyson Stoner : 1
+Piper Perabo : 1
+Steve Martin : 1
+Jacob Smith : 1
+Paula Marshall : 1
+Bonnie Hunt : 1
+Tom Welling : 1
+Hilary Duff : 1
+***********************
+MOVIE :Apocalypse Now
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Benjamin Petry : 1
+Crispian Belfrage : 1
+Terence Hill : 1
+Adam Taylor : 1
+Paul Sorvino : 1
+Clare Carey : 1
+Anthony Aj Atler : 1
+Gisella Marengo : 1
+Mercedes Leggett : 1
+Ryil Adamson : 1
+***********************
+MOVIE :Noah
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Herbert Cavalier Jr. : 1
+Regé-Jean Page : 1
+Carol Sutton : 1
+Malachi Kirby : 1
+Darrell L. Shuler : 1
+Shannon Lucio : 1
+Anika Noni Rose : 1
+Jonathan Rhys Meyers : 1
+Roman L. Armstrong : 1
+Babs Olusanmokun : 1
+***********************
+MOVIE :Spaceballs
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Leonardo DiCaprio : 1
+Eddie Marsan : 1
+Liam Neeson : 1
+Stephen Graham : 1
+Alec McCowen : 1
+Lawrence Gilliard Jr. : 1
+Daniel Day-Lewis : 1
+Jim Broadbent : 1
+Brendan Gleeson : 1
+David Hemmings : 1
+***********************
+MOVIE :The Far Horizons
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Blake Ellis : 1
+Kaitlyn Dever : 1
+Annaleigh Ashford : 1
+Toni Collette : 1
+Gatsby Coram : 1
+Sally Shamrell : 1
+Jayne Taini : 1
+Elena Campbell-Martinez : 1
+Eric Lange : 1
+Arthur-Angelo Sarinas : 1
+***********************
+MOVIE :Inside Out
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael J. Anderson : 1
+Michael Cooke : 1
+Bonnie Aarons : 1
+Joseph Kearney : 1
+Laura Harring : 1
+Enrique Buelna : 1
+Maya Bond : 1
+Jeanne Bates : 1
+Naomi Watts : 1
+Randall Wulff : 1
+***********************
+MOVIE :As Above, So Below
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Harvey Lembeck : 1
+Neville Brand : 1
+Peter Graves : 1
+William Holden : 1
+Robert Strauss : 1
+Michael Moore : 1
+Robinson Stone : 1
+William Pierson : 1
+Gil Stratton : 1
+Richard Erdman : 1
+***********************
+MOVIE :Transformers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Garrett Hedlund : 1
+Shawn Singleton : 1
+Sofía Vergara : 1
+Mark Wahlberg : 1
+Terrence Howard : 1
+Chiwetel Ejiofor : 1
+Tony Nappo : 1
+Barry Shabaka Henley : 1
+Kenneth Welsh : 1
+Fionnula Flanagan : 1
+***********************
+MOVIE :Henry Danger
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Terence Stamp : 1
+Christoph Waltz : 1
+Emily Maddison : 1
+Danny Huston : 1
+Guido Furlani : 1
+Delaney Raye : 1
+Madeleine Arthur : 1
+Jon Polito : 1
+Brent Chapman : 1
+Amy Adams : 1
+***********************
+MOVIE :Bestemming Tokio
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Lawrence Turner : 1
 Alice Braga : 1
 Christopher James Baker : 1
@@ -347,55 +2651,1819 @@ David Born : 1
 Christopher Berry : 1
 Liam Hemsworth : 1
 ***********************
-MOVIE :The Incredible Hulk
-Lauren Lapkus : 1
-Ella Bright : 1
-Rob Brydon : 1
-Rebecca Hall : 1
-Will Ferrell : 1
-Sadie Newman : 1
-Hector Bateman-Harden : 1
-Harry Baxendale : 1
+MOVIE :The Pirate Movie
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Keith Scott : 1
+Greg Cruttwell : 1
+John Cleese : 1
+Leslie Mann : 1
+Holland Taylor : 1
+Abraham Benrubi : 1
+Spencer Garrett : 1
+Kelly Miracco : 1
+Abdoulaye NGom : 1
+John Bennett Perry : 1
+***********************
+MOVIE :Phantom Thread
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Josh Gad : 1
+Maya Rudolph : 1
+Peter Dinklage : 1
+Kate McKinnon : 1
+Tituss Burgess : 1
+Hannibal Buress : 1
+Anthony Padilla : 1
+Ike Barinholtz : 1
+Tony Hale : 1
+Ian Hecox : 1
+***********************
+MOVIE :Een uilskuiken trekt ten oorlog
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Thomas M. Wright : 2
+JJ Condon : 1
+Joe Anderson : 1
+Ed Heavey : 1
+Barret Hackney : 1
+Phyllis Somerville : 1
+Kyle Gallner : 1
+Christina Jackson : 1
+Rebecca Harris : 1
+Mark Jeffrey Miller : 1
+***********************
+MOVIE :Captain America: Civil War
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anna Chlumsky : 2
+Jamie Lee Curtis : 2
+Dan Aykroyd : 2
+Anthony R. Jones : 2
+Richard Masur : 2
+JD Souther : 1
+Angeline Ball : 1
+Jodie Markell : 1
+Aubrey Morris : 1
+Christine Ebersole : 1
+***********************
+MOVIE :The Amazing Spider-Man 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jane Wiedlin : 1
+Madeline Kahn : 1
+Jeffrey Kramer : 1
+Lee Ving : 1
+Will Nye : 1
+Tim Curry : 1
+Bill Henderson : 1
+Rick Goldman : 1
+Kellye Nakahara : 1
+Christopher Lloyd : 1
+***********************
+MOVIE :Diagnosis Murder
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Madonna : 1
+Victoria Sus : 1
+Julian Littman : 1
+Jimmy Nail : 1
+Antonio Banderas : 1
+Laura Pallas : 1
+Olga Merediz : 1
+Maite Yerro : 1
+Jonathan Pryce : 1
+Julia Worsley : 1
+***********************
+MOVIE :The Thing
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brian Cox : 2
+Bill Nunn : 1
+Tatyana Ali : 1
+Helen Martin : 1
+Morgan Freeman : 1
+Ashley Judd : 1
+Gina Ravera : 1
+Cary Elwes : 1
+Alex McArthur : 1
+Jay O. Sanders : 1
+***********************
+MOVIE :Zulu
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bradley Cooper : 2
+Sharlto Copley : 1
+Yul Vazquez : 1
+Jessica Biel : 1
+Liam Neeson : 1
+Omari Hardwick : 1
+Patrick Wilson : 1
+Quinton 'Rampage' Jackson : 1
+Terry Chen : 1
+Jacob Blair : 1
+***********************
+MOVIE :Wild Bill
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Milton Rosa : 1
+Antônio Pinto : 1
+Sonia Dos Humildes : 1
+Geraldo Del Rey : 1
+João Gama : 1
+Yoná Magalhães : 1
+Roque Santos : 1
+Lidio Silva : 1
+Maurício do Valle : 1
+Othon Bastos : 1
+***********************
+MOVIE :Victor Frankenstein
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Danielle Moné Truitt : 1
+Yara Martinez : 1
+Bex Taylor-Klaus : 1
+Brian Van Holt : 1
+Mark Moses : 1
+Shane Paul McGhie : 1
+Natalia Cigliuti : 1
+Stephen Dorff : 1
+Siena Goines : 1
+Tawn Christian : 1
+***********************
+MOVIE :Possession
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hideo Murota : 1
+Kaori Momoi : 1
+Jinpachi Nezu : 1
+Kôji Shimizu : 1
+Noboru Shimizu : 1
+Ken'ichi Hagiwara : 1
+Tatsuya Nakadai : 1
+Takayuki Shiho : 1
+Sen Yamamoto : 1
+Daisuke Ryû : 1
+***********************
+MOVIE :Gone in Sixty Seconds
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Reynaldo Gallegos : 1
+Brandon Salgado Telis : 1
+Cole Konis : 1
+Luke Sunshine : 1
+Troy Vincent : 1
+Jason Hall : 1
+Bradley Cooper : 1
+Elise Robertson : 1
+Billy Miller : 1
+Jason Walsh : 1
+***********************
+MOVIE :Much Ado About Nothing
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Amanda Peet : 1
+William Lee Scott : 1
+Pruitt Taylor Vince : 1
+Alfred Molina : 1
+Jake Busey : 1
+Ray Liotta : 1
+Marshall Bell : 1
+Rebecca De Mornay : 1
+John C. McGinley : 1
+John Cusack : 1
+***********************
+MOVIE :Wild Boys
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lisa Ryder : 1
+Markus Parilo : 1
+Dov Tiefenbach : 1
+Peter Mensah : 1
+Jeff Geddis : 1
+Boyd Banks : 1
+Chuck Campbell : 1
+David Cronenberg : 1
+Lexa Doig : 1
+Dylan Bierk : 1
+***********************
+MOVIE :The Plainsman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Luci Christian : 1
+Tsutomu Tatsumi : 1
+Amy Jones : 1
+Adam Gibbs : 1
+Marcy Bannor : 1
+Yoshiko Shinohara : 1
+Ayano Shiraishi : 1
+Susan O. Koozin : 1
+Shannon Conley : 1
+Justin Doran : 1
+***********************
+MOVIE :Sense8
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Groucho Marx : 1
+Louis Sorin : 1
+Edward Metcalfe : 1
+Hal Thompson : 1
+Margaret Dumont : 1
+The Marx Brothers : 1
+Lillian Roth : 1
+Harpo Marx : 1
+Margaret Irving : 1
+Kathryn Reece : 1
+***********************
+MOVIE :The Merry Widow
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hannah Zirke : 1
+Toby Huss : 1
+Kimiko Glenn : 1
+Kevin Carroll : 1
+Elena Kampouris : 1
+Kathryn Kirkpatrick : 1
+Zamani Wilder : 1
+Jennifer Tong : 1
+C.J. Jackman-Zigante : 1
+Juliette Lewis : 1
+***********************
+MOVIE :1944
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Billy 'Pop' Atmore : 1
+Joan Hackett : 1
+Robert DoQui : 1
+Mills Watson : 1
+George Lindsey : 1
+Peter Ustinov : 1
+Jane Wyatt : 1
+Dick Van Patten : 1
+Vic Morrow : 1
+Johnny Doran : 1
+***********************
+MOVIE :The Flintstones in Viva Rock Vegas
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jack Reynor : 1
+Sophia Myles : 1
+Stanley Tucci : 1
+Erika Fong : 1
+Geng Han : 1
+Mark Wahlberg : 1
+T.J. Miller : 1
+James Bachman : 1
+Michael Collins : 1
+Kelsey Grammer : 1
+***********************
+MOVIE :Back to the Beach
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Faizon Love : 1
+Marques Houston : 1
+Reynaldo Rey : 1
+Myra J. : 1
+Robin Harris : 1
+Tone Loc : 1
+Wayne Collins : 1
+John Witherspoon : 1
+Chino 'Fats' Williams : 1
+Jonell Green : 1
+***********************
+MOVIE :The Craft
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Joe Zammit Cordina : 1
+Paul L. Smith : 1
+Bo Hopkins : 1
+Peter Jeffrey : 1
+Brad Davis : 1
+Franco Diogene : 1
+Randy Quaid : 1
+Gigi Ballista : 1
+Kevork Malikyan : 1
+John Hurt : 1
+***********************
+MOVIE :Spider-Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Joshua McGuire : 1
+Margot Robbie : 1
+Richard Cordery : 1
+Clemmie Dugdale : 1
+Vanessa Kirby : 1
+Lydia Wilson : 1
+Will Merrick : 1
+Harry Hadden-Paton : 1
+Domhnall Gleeson : 1
+Bill Nighy : 1
+***********************
+MOVIE :The Devil's Disciple
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Nicole Kidman : 1
+Denise Dal Vera : 1
+Herb Caillouet : 1
+Barry G. Bernson : 1
+Barry Keoghan : 1
+Drew Logan : 1
+Bill Camp : 1
+Michael Trester : 1
+Raffey Cassidy : 1
+Colin Farrell : 1
+***********************
+MOVIE :The Babysitter
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Deidre Gale : 1
+Beryl Mercer : 1
+Eily Malyon : 1
+Mary Nash : 1
+Sybil Jason : 1
+Anita Louise : 1
+Arthur Treacher : 1
+Ira Stevens : 1
+Shirley Temple : 1
+E.E. Clive : 1
+***********************
+MOVIE :Hereditary
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Frankie Muniz : 1
+Erik Per Sullivan : 1
+Jane Kaczmarek : 1
+Justin Berfield : 1
+Christopher Masterson : 1
+Bryan Cranston : 1
+Andrew E. Wheeler : 1
+Amanda Day : 1
+Stacey Dash : 1
+Julie Rose : 1
+***********************
+MOVIE :The Return of the Texas Chainsaw Massacre
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Oliver Zetterström : 1
+Will Poulter : 1
+Liv Hill : 1
+Kathryn O'Reilly : 1
+Harry Hadden-Paton : 1
+Tipper Seifert-Cleveland : 1
+Camilla Arfwedson : 1
+Domhnall Gleeson : 1
+Bailey Rogers : 1
+Charlotte Rampling : 1
+***********************
+MOVIE :Fantastic Mr. Fox
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bessie Carter : 1
+Yolanda Kettle : 1
+Matthew Macfadyen : 1
+Hayley Atwell : 1
+Tracey Ullman : 1
+Joseph Quinn : 1
+Hannah Traylen : 1
+Jonah Hauer-King : 1
+Philippa Coulthard : 1
+Alex Lawther : 1
+***********************
+MOVIE :Artificial Intelligence: AI
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brad Bukauskas : 1
+Yoni Solomon : 1
+Zelda Williams : 1
+Reid Dawson : 1
+Colleen Skemp : 1
+Alexander Aguilar : 1
+David Darlow : 1
+Nathaniel David Becker : 1
+Ricky Goldman : 1
+Tanner Cohen : 1
+***********************
+MOVIE :Yes Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Eklund : 1
+Abigail Breslin : 1
+Halle Berry : 1
+Justina Machado : 1
+Denise Dowse : 1
+José Zúñiga : 1
+Jenna Lamia : 1
+Ross Gallo : 1
+Ella Rae Peck : 1
+Tara Platt : 1
+***********************
+MOVIE :Mary Poppins
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christopher Knights : 1
+Andy Richter : 1
+Tom McGrath : 1
+Bryan Cranston : 1
+Chris Rock : 1
+Martin Short : 1
+Chris Miller : 1
+Ben Stiller : 1
+Frances McDormand : 1
+Conrad Vernon : 1
+***********************
+MOVIE :Toy Story 3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Giovanni Ivan Scratuglia : 1
+Remo De Angelis : 1
+José Bódalo : 1
+Rafael Albaicín : 1
+Ángel Álvarez : 1
+Franco Nero : 1
+Gino Pernice : 1
+José Canalejas : 1
+Loredana Nusciak : 1
+Eduardo Fajardo : 1
+***********************
+MOVIE :The Heroes of Telemark
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Yolanda Orizaga : 1
+Stuart Wilson : 1
+Paco Morayta : 1
+María Fernández Cruz : 1
+Mónica Fernández Cruz : 1
+Antonio Banderas : 1
+Julieta Rosen : 1
+Tony Amendola : 1
+Emiliano Guerra : 1
+William Marquez : 1
+***********************
+MOVIE :The Man from Snowy River
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Oskar Werner : 1
+Wendy Hiller : 1
+Sam Wanamaker : 1
+Lynne Frederick : 1
+David de Keyser : 1
+Paul Koslo : 1
+Luther Adler : 1
+Nehemiah Persoff : 1
+Faye Dunaway : 1
+Lee Grant : 1
+***********************
+MOVIE :Eter
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mia McKenna-Bruce : 1
+Alisha Seaton : 1
+Will Patton : 1
+Corey Johnson : 1
+Daphne Alexander : 1
+Milla Jovovich : 1
+Hakeem Kae-Kazim : 1
+Paul Stefanov : 1
+Eric Loren : 1
+Raphaël Coleman : 1
+***********************
+MOVIE :Beyond Skyline
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Richard Todd : 1
+Edmond O'Brien : 1
+Dana Wynter : 1
+Jerry Paris : 1
+Ross Elliott : 1
+Alex Finlayson : 1
+Robert Taylor : 1
+Richard Wyler : 1
+Robert Gist : 1
+John Williams : 1
+***********************
+MOVIE :The Remains of the Day
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Barry Humphries : 1
+Jessica Harper : 1
+Charles Gray : 1
+Perry Bedden : 1
+Manning Redwood : 1
+Nell Campbell : 1
+Betsy Brantley : 1
+Patricia Quinn : 1
+Ruby Wax : 1
+Rik Mayall : 1
+***********************
+MOVIE :School Daze
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Philip Carey : 1
+Anthony Caruso : 1
+Douglas Fowley : 1
+Patrice Wymore : 1
+Dick Wesson : 1
+Morris Ankrum : 1
+Randolph Scott : 1
+Lina Romay : 1
+Clancy Cooper : 1
+Katherine Warren : 1
+***********************
+MOVIE :Iron Will
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Colm Meaney : 1
+Ving Rhames : 1
+John Malkovich : 1
+Nick Chinlund : 1
+Monica Potter : 1
+Mykelti Williamson : 1
+Danny Trejo : 1
+Landry Allbright : 1
+Rachel Ticotin : 1
+M.C. Gainey : 1
+***********************
+MOVIE :Glass
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mark Dacascos : 1
+Émilie Dequenne : 1
+Vincent Cassel : 1
+Samuel Le Bihan : 1
+Vincent Cespedes : 1
+Karin Kriström : 1
+Hans Meyer : 1
+Pierre Lavit : 1
+Jacques Perrin : 1
+Eric Prat : 1
+***********************
+MOVIE :Kenny Rogers as The Gambler
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lucy Liu : 1
+Xander Berkeley : 1
+Jackie Chan : 1
+Cui Ya Hui : 1
+Rafael Báez : 1
+Rongguang Yu : 1
+Roger Yuan : 1
+Stacy Grant : 1
+Kate Luyben : 1
+Jason Connery : 1
+***********************
+MOVIE :A Cure for Wellness
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mathilde Ollivier : 1
+Dominic Applewhite : 1
+Pilou Asbæk : 1
+Erich Redman : 1
+Joseph Quinn : 1
+Bokeem Woodbine : 1
+John Magaro : 1
+Mark McKenna : 1
+Jovan Adepo : 1
+Hayley Carmichael : 1
+***********************
+MOVIE :I Could Go on Singing
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Harney : 1
+Ian Tracey : 1
+Laura Mennell : 1
+Jill Morrison : 1
+Ksenia Solo : 1
+Nicholas Holmes : 1
+Neal McDonough : 1
+Michael Malarkey : 1
+Aidan Gillen : 1
+Grayce Mills : 1
+***********************
+MOVIE :Sharknado
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dan Yeager : 1
+Thom Barry : 1
+David Born : 1
+Bill Moseley : 1
+Paul Rae : 1
+Scott Eastwood : 1
+Gunnar Hansen : 1
+Tania Raymonde : 1
+Shaun Sipos : 1
+Sue Rock : 1
+***********************
+MOVIE :Jarhead 3: The Siege
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Amaury Nolasco : 1
+Reymonde Amsallem : 1
+Ori Pfeffer : 1
+Shanti Ashanti : 1
+Tsahi Halevi : 1
+Velizar Peev : 1
+Adi Alamo : 1
+Udi Razzin : 1
+Jeff Pierre : 1
+Robert Patrick : 1
+***********************
+MOVIE :Paddington 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alex Morris : 1
+Michael Lerner : 1
+Karen Duffy : 1
+Miguel Ferrer : 1
+Michael Polk : 1
+Lu Leonard : 1
+Tone Loc : 1
+Chris Demetral : 1
+Michael Faustino : 1
+Debbie Allen : 1
+***********************
+MOVIE :Barquero
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Charlie Rowe : 1
+Izzy Meikle-Small : 1
+Sally Hawkins : 1
+Hannah Sharp : 1
+Luke Bryant : 1
+Nathalie Richard : 1
+Damien Thomas : 1
+Kate Bowes Renna : 1
+Ella Purnell : 1
+Carey Mulligan : 1
+***********************
+MOVIE :The Revengers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sam Spruell : 1
+Ruth Bradley : 1
+Gene Gabriel : 1
+Common : 1
+Scott Anderson : 1
+Arturo Castro : 1
+Ana de Armas : 1
+Martin McCann : 1
+Jenna Willis : 1
+Karma Meyer : 1
+***********************
+MOVIE :Percy Jackson: Sea of Monsters
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Gillian Ferrier : 1
+Mia Wasikowska : 1
+Tom Hiddleston : 1
+Burn Gorman : 1
+Tamara Hope : 1
+Doug Jones : 1
+Jonathan Hyde : 1
+Jim Beaver : 1
+Bruce Gray : 1
+Emily Coutts : 1
+***********************
+MOVIE :In het voetspoor van Django
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Patti Harrison : 1
+Scott Engdahl : 1
+Aidy Bryant : 1
+Max Huskins : 1
+Lolly Adefope : 1
+Sean Tarjyoto : 1
+Daniel Stern : 1
+Tommy Snider : 1
+John Cameron Mitchell : 1
+Ian Owens : 1
+***********************
+MOVIE :Dragonball Evolution
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Clay Donahue Fontenot : 1
+Dennis Christopher : 1
+David Steen : 1
+Sammi Rotibi : 1
+Laura Cayouette : 1
+Leonardo DiCaprio : 1
+Kerry Washington : 1
+Dana Gourrier : 1
+Jamie Foxx : 1
+Walton Goggins : 1
+***********************
+MOVIE :White Christmas
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Harry Davenport : 1
+June Lockhart : 1
+Robert Sully : 1
+Judy Garland : 1
+Joan Carroll : 1
+Margaret O'Brien : 1
+Mary Astor : 1
+Marjorie Main : 1
+Leon Ames : 1
+Hugh Marlowe : 1
+***********************
+MOVIE :Reno 911!
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Selma Blair : 1
+Brian Caspe : 1
+Karel Roden : 1
+Rupert Evans : 1
+Jeffrey Tambor : 1
+Corey Johnson : 1
+Stephen Fisher : 1
+John Hurt : 1
+Doug Jones : 1
+Kevin Trainor : 1
+***********************
+MOVIE :Flash Gordon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Scott MacDonald : 1
+Craig Coyne : 1
+Rini Bell : 1
+Riad Galayini : 1
+Kevin Foster : 1
+Dendrie Taylor : 1
+Peter Sarsgaard : 1
+Damion Poitier : 1
+Ming Lo : 1
+Jamie Foxx : 1
+***********************
+MOVIE :Deathwatch
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cynthia Jump : 1
+Josh Goodwin : 1
+Ryan Healey : 1
+Tom Nibley : 1
+Natalie Hill : 1
+David Jaster : 1
+John Huntington : 1
+Ivey Lloyd Mitchell : 1
+Bennie Moore : 1
+Alyson Breinholt : 1
+***********************
+MOVIE :Batwoman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jeanette Nolan : 1
+John Emery : 1
+Warner Anderson : 1
+Michael Pate : 1
+Randolph Scott : 1
+Angela Lansbury : 1
+Wallace Ford : 1
+Jean Parker : 1
+Don Megowan : 1
+James Bell : 1
+***********************
+MOVIE :A Soldier's Story
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+McColm Cephas Jr. : 1
+Liz Cardenas : 1
+Rooney Mara : 1
+Barlow Jacobs : 1
+Kesha : 1
+Dagger Salazar : 1
+Casey Affleck : 1
+Grover Coulson : 1
+Sonia Acevedo : 1
+Yasmina Gutierrez : 1
+***********************
+MOVIE :Monster House
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kath Soucie : 1
+Tim Curry : 1
+Tress MacNeille : 1
+Phil Proctor : 1
+Elizabeth Daily : 1
+Jack Riley : 1
+Melanie Chartoff : 1
+Nancy Cartwright : 1
+Cheryl Chase : 1
+Michael Bell : 1
+***********************
+MOVIE :Everything's Gonna Be Okay
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Emilie Leclerc : 1
+Amalia Holm : 1
+Ashley Nicole Williams : 1
+Kai Bradbury : 1
+Tony Giroux : 1
+Lyne Renee : 1
+Taylor Hickson : 1
+Demetria McKinney : 1
+Annie Jacob : 1
+Sarah Yarkin : 1
+***********************
+MOVIE :The Texican
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mercedes Ruehl : 1
+G-Eazy : 1
+Emma Batiz : 1
+Trace Lysette : 1
+Marcy Richardson : 1
+Mette Towley : 1
+Jay Oakerson : 1
+Constance Wu : 1
+Jennifer Lopez : 1
+Keke Palmer : 1
+***********************
+MOVIE :Mientras dure la guerra
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Miles Bakshi : 1
+James Ryan : 1
+Walt Dohrn : 1
+Lisa Kudrow : 1
+ViviAnn Yee : 1
+Eric Bell Jr. : 1
+Tobey Maguire : 1
+Conrad Vernon : 1
+Jimmy Kimmel : 1
+David Soren : 1
+***********************
+MOVIE :De prinses uit de onderwereld
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Aidan McArdle : 1
+Eric Idle : 1
+Jimi Mistry : 1
+Jennifer Higham : 1
+Hugh Dancy : 1
+Parminder Nagra : 1
+Joanna Lumley : 1
+Steve Coogan : 1
+Minnie Driver : 1
+Patrick Bergin : 1
+***********************
+MOVIE :Mayhem
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rachel Roberts : 1
+Stephen Rider : 1
+J.D. Evermore : 1
+Jalen Coleman : 1
+Brent Wendell Williams : 1
+Diane Kruger : 1
+Shyaam Karra : 1
+Michael L. Parker : 1
+Marcus Lyle Brown : 1
+Phil Austin : 1
+***********************
+MOVIE :Pride and Prejudice
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Billy 'Pop' Atmore : 1
+Joan Hackett : 1
+Robert DoQui : 1
+Mills Watson : 1
+George Lindsey : 1
+Peter Ustinov : 1
+Jane Wyatt : 1
+Dick Van Patten : 1
+Vic Morrow : 1
+Johnny Doran : 1
+***********************
+MOVIE :North to Alaska
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Roger Frost : 1
+Rhys Ifans : 1
+Dylan Moran : 1
+Henry Goodman : 1
+James Dreyfus : 1
+Hugh Grant : 1
+Clarke Peters : 1
+Richard McCabe : 1
+Lorelei King : 1
+Mischa Barton : 1
+***********************
+MOVIE :My Life Is Murder
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dan Brother : 1
+Martin Leeper : 1
+Stan Brakhage : 1
+Andrew Kemler : 1
+M.K. : 1
+Duster : 1
+Dian Bachar : 1
+Ian Hardin : 1
+Jon Hegel : 1
+Jessica James Kelly : 1
+***********************
+MOVIE :Wild Horses
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Amber Heard : 1
+Jason Isaacs : 1
+Gemma Chan : 1
+Michael Shaeffer : 1
+Lily Cole : 1
+Chris Wilson : 1
+Theo James : 1
+Jennifer Missoni : 1
+Jaimie Alexander : 1
+Henry Garrett : 1
+***********************
+MOVIE :Rise of Empires: Ottoman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anthony Marble : 1
+Maria Frangos : 1
+Charlie Talbert : 1
+Shauna Rappold : 1
+Bernard Hocke : 1
+Aiden Flowers : 1
+Harold Gervais : 1
+Christian Bale : 1
+Hunter Burke : 1
+Brandon Stacy : 1
+***********************
+MOVIE :The Man in the Gray Flannel Suit
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Matthew Macfadyen : 1
+Adam Rothenberg : 1
+Jerome Flynn : 1
+Anna Burnett : 1
+David Wilmot : 1
+Clive Russell : 1
+David Dawson : 1
+MyAnna Buring : 1
+Charlene McKenna : 1
+Louis Ozawa : 1
+***********************
+MOVIE :Kundun
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lasarus Ratuere : 1
+Tawanda Manyimo : 1
+Pilou Asbæk : 1
+Peter Ferdinando : 1
+Anamaria Marinca : 1
+Scarlett Johansson : 1
+Chin Han : 1
+Juliette Binoche : 1
+Mana Hira Davis : 1
+Yutaka Izumihara : 1
+***********************
+MOVIE :Tombstone
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Mikael Persbrandt : 1
+Emma Thompson : 1
+Katharina Schüttler : 1
+Rafael Gareisen : 1
+Louis Hofmann : 1
+Daniel Brühl : 1
+Ernst Stötzner : 1
+Jacob Matschenz : 1
+Holger Handtke : 1
+Brendan Gleeson : 1
+***********************
+MOVIE :Bad Boys II
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Autumn Walker : 1
+Alexander Biglane : 1
+Maureen Brennan : 1
+Blaine Kern III : 1
+Laura Marano : 1
+Joe Chrest : 1
+Wayne Pére : 1
+Noah Centineo : 1
+Carrie Lazar : 1
+Camila Mendes : 1
+***********************
+MOVIE :Yellow Sky
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peter Firth : 1
+John Gielgud : 1
+Christopher Plummer : 1
+Christopher Blake : 1
+Barry Jackson : 1
+Gilles Béhat : 1
+Ray Milland : 1
+Elliott Cooper : 1
+David Daker : 1
+Trevor Howard : 1
+***********************
+MOVIE :Homefront
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jim Nabors : 1
+Frank Sutton : 1
+Ronnie Schell : 1
+Lisa Edelstein : 1
+Mel Gibson : 1
+Diana Maria Riva : 1
+Judy Greer : 1
+Ana Gasteyer : 1
+Valerie Perrine : 1
+Marisa Tomei : 1
+***********************
+MOVIE :Mr. & Mrs. Smith
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Paul Satterfield : 1
+Nora Dunn : 1
+Jim Carrey : 1
+Jennifer Aniston : 1
+Timothy Di Pri : 1
+Tony Bennett : 1
+Steve Carell : 1
+Sally Kirkland : 1
+Morgan Freeman : 1
+Lisa Ann Walter : 1
+***********************
+MOVIE :Argo
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christopher Knights : 1
+John Cleese : 1
+Antonio Banderas : 1
+Julie Andrews : 1
+Eric Idle : 1
+John Krasinski : 1
+Larry King : 1
+Ian McShane : 1
+Justin Timberlake : 1
+Eddie Murphy : 1
+***********************
+MOVIE :Rachel Getting Married
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Richard Leboeuf : 1
+Gaspard Manesse : 1
+Jean-Sébastien Chauvin : 1
+Peter Fitz : 1
+Xavier Legrand : 1
+Stanislas Carré de Malberg : 1
+Philippe Morier-Genoud : 1
+François Berléand : 1
+Luc Etienne : 1
+Francine Racette : 1
+***********************
+MOVIE :Seventh Son
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kim Greist : 1
+William Petersen : 1
+Tom Noonan : 1
+Joan Allen : 1
+Stephen Lang : 1
+Michael Talbott : 1
+Dan Butler : 1
+David Seaman : 1
+Paul Perri : 1
+Michele Shay : 1
+***********************
+MOVIE :De man met het geweer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Slim Summerville : 1
+J. Edward Bromberg : 1
+Jane Darwell : 1
+Charles Tannen : 1
+Brian Donlevy : 1
+Randolph Scott : 1
+Donald Meek : 1
+Claire Du Brey : 1
+John Carradine : 1
+Henry Fonda : 1
+***********************
+MOVIE :City of Lies
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dorian Brown Pham : 1
+Sharon Stone : 1
+Jason Lewis : 1
+Michael Wiseman : 1
+John Ducey : 1
+Eldo Ray Estes : 1
+Christina Moore : 1
+Lidia Porto : 1
+George Kosturos : 1
+Jessica Uberuaga : 1
+***********************
+MOVIE :Call of Duty: Infinite Warfare
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Gary Oldman : 1
+Chin Han : 1
+Morgan Freeman : 1
+Monique Gabriela Curnen : 1
+Aaron Eckhart : 1
+Eric Roberts : 1
+Michael Caine : 1
+Ron Dean : 1
+Anthony Michael Hall : 1
+Christian Bale : 1
+***********************
+MOVIE :The NeverEnding Story
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Val Kilmer : 1
+Jeff Goldblum : 1
+Bobby Motown : 1
+Steve Martin : 1
+Martin Short : 1
+Michelle Pfeiffer : 1
+Eden Riegel : 1
+Aria Noelle Curzon : 1
+Helen Mirren : 1
+Danny Glover : 1
+***********************
+MOVIE :After
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jean Dujardin : 1
+Jon Bernthal : 1
+Katarina Cas : 1
+Margot Robbie : 1
+Jonah Hill : 1
+Joanna Lumley : 1
+Cristin Milioti : 1
+Rob Reiner : 1
+P.J. Byrne : 1
+Matthew McConaughey : 1
+***********************
+MOVIE :Missing in Action
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alexander Scourby : 1
+Maureen O'Hara : 1
+Stacy Harris : 1
+Robert Strauss : 1
+Jack Kelly : 1
+William Bishop : 1
+Jeanne Cooper : 1
+Alex Nicol : 1
+Gregg Palmer : 1
+Dennis Weaver : 1
+***********************
+MOVIE :Spectral
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Patrick Wilson : 1
+Michael Emery : 1
+Sid Haig : 1
+Maestro Harrell : 1
+Zahn McClarnon : 1
+Kathryn Morris : 1
+Richard Jenkins : 1
+Matthew Fox : 1
+David Arquette : 1
+Fred Melamed : 1
+***********************
+MOVIE :The Mikado
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Natalie Martinez : 1
+Kelly Asbury : 1
+Pitbull : 1
+Blake Shelton : 1
+Emma Roberts : 1
+Leehom Wang : 1
+Ice-T : 1
+Kelly Clarkson : 1
+Gabriel Iglesias : 1
+Jane Lynch : 1
+***********************
+MOVIE :Ayla: The Daughter of War
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Irène Tunc : 1
+Renée Liques : 1
+Jean-Paul Belmondo : 1
+Emmanuelle Riva : 1
+Gisèle Grimm : 1
+Monique Bertho : 1
+Marc Eyraud : 1
+Edith Loria : 1
+Nina Grégoire : 1
+Monique Hennessy : 1
+***********************
+MOVIE :Bodyguard
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Emily Browning : 1
+James Fraser : 1
+Alan Cardy : 1
+Michael Dorman : 1
+Vernon Hayman : 1
+Eden Falk : 1
+Anni Finsterer : 1
+Rachael Blake : 1
+Les Chantery : 1
+Peter Carroll : 1
+***********************
+MOVIE :Journey 2: The Mysterious Island
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Val Kilmer : 1
+Mark Dacascos : 1
+Clare Grant : 1
+Temuera Morrison : 1
+Nelson de la Rosa : 1
+Miguel López : 1
+Daniel Rigney : 1
+Fairuza Balk : 1
+Marlon Brando : 1
+Peter Elliott : 1
+***********************
+MOVIE :Jungle
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+PiaGrace Moon : 1
+Gregory Quinn : 1
+Jack Martin : 1
+Adam Willson : 1
+Angus Pilakui : 1
+Joanne Dobbin : 1
+Andy McPhee : 1
+Jamie Coffa : 1
+Lauren Grimson : 1
+Erica Field : 1
+***********************
+MOVIE :Sophie Scholl
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anthony Zerbe : 1
+Timothy Dalton : 1
+Wayne Newton : 1
+Pedro Armendáriz Jr. : 1
+David Hedison : 1
+Anthony Starke : 1
+Carey Lowell : 1
+Priscilla Barnes : 1
+Benicio Del Toro : 1
+Robert Davi : 1
+***********************
+MOVIE :Liv and Maddie
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Pam Ferris : 1
-Ralph Fiennes : 1
+Gary Oldman : 1
+Jim Tavaré : 1
+Abby Ford : 1
+Daniel Radcliffe : 1
+Harry Melling : 1
+Robert Hardy : 1
+Geraldine Somerville : 1
+Lee Ingleby : 1
+Richard Griffiths : 1
 ***********************
-MOVIE :How I Met Your Mother
-Colin Fox : 1
-CCH Pounder : 1
-Louis Gossett Jr. : 1
-John Speredakos : 1
-Timothy Scott : 1
-Steven Mayville : 1
-Veronica Lauren : 1
+MOVIE :Dead Birds
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Geoffrey Pounsett : 1
+Dave Nichols : 1
+Stefen Hayes : 1
+Jared Harris : 1
+Matthew G. Taylor : 1
+Milla Jovovich : 1
+Iain Glen : 1
+Sophie Vavasseur : 1
+Sienna Guillory : 1
+Sandrine Holt : 1
+***********************
+MOVIE :Gevaarlijk spel
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Charles Bronson : 1
+Paul Young : 1
+Richard Jordan : 1
+Simon Oakland : 1
+James Whitmore : 1
+Roddy McMillan : 1
+Jack Palance : 1
+Ralph Waite : 1
+William Watson : 1
+Raul Castro : 1
+***********************
+MOVIE :Under the Shadow
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Virgil Leclaire : 1
+Anna Solomin : 1
+Bouli Lanners : 1
+Ella Rumpf : 1
+Jean-Louis Sbille : 1
+Sophie Breyer : 1
+Laurent Lucas : 1
+Garance Marillier : 1
+Danel Utegenova : 1
+Marouan Iddoub : 1
+***********************
+MOVIE :Meet the Parents
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Segura : 1
+Michael O'Keefe : 1
+Rose Byrne : 1
+Julianna Gamiz : 1
+Mark Wahlberg : 1
+Margo Martindale : 1
+Isabela Merced : 1
+Tig Notaro : 1
+Britt Rentschler : 1
+Octavia Spencer : 1
+***********************
+MOVIE :Guy and Madeline on a Park Bench
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kirk Douglas : 1
+Patrice Wymore : 1
+Eve Miller : 1
+Edgar Buchanan : 1
+Charles Meredith : 1
+Harry Cording : 1
+John Archer : 1
+Alan Hale Jr. : 1
+Roy Roberts : 1
+Ellen Corby : 1
+***********************
+MOVIE :Mohabbatein
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Dennis Haysbert : 1
-John Quade : 1
-Dylan Baker : 1
+Andrew Birch : 1
+Joseph Fiennes : 1
+Raman Hui : 1
+Chung Chan : 1
+Chris Miller : 1
+Catherine Zeta-Jones : 1
+Conrad Vernon : 1
+Adriano Giannini : 1
+Jim Cummings : 1
 ***********************
-MOVIE :Sixteen Candles
-Luke Grimes : 1
-Bella Heathcote : 1
-Andrew Airlie : 1
-Max Martini : 1
-Jamie Dornan : 1
-Eric Johnson : 1
-Rita Ora : 1
-Robinne Lee : 1
-Victor Rasuk : 1
-Eloise Mumford : 1
+MOVIE :Loving Vincent
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Biehn : 1
+Bob Odenkirk : 1
+Demetri Martin : 1
+Topher Grace : 1
+Dan Fogler : 1
+Teresa Palmer : 1
+Anna Faris : 1
+Jeanie Hackett : 1
+Michael Ian Black : 1
+Angie Everhart : 1
 ***********************
-MOVIE :Gilmore Girls: A Year in the Life
-Tony Curran : 1
-Jamie Draven : 1
-Alex Reid : 1
-Christopher Fox : 1
-Ross Kemp : 1
-Danny Sapani : 1
-Miles Anderson : 1
-Matisyahu : 1
-Nana Gbewonyo : 1
-Chris Shields : 1
+MOVIE :The Healer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jorma Taccone : 1
+Anna Friel : 1
+Matt Lauer : 1
+Jon Kent Ethridge : 1
+Will Ferrell : 1
+Logan Manus : 1
+Steven Wash Jr. : 1
+Shannon Lemke : 1
+John Boylan : 1
+Bobb'e J. Thompson : 1
 ***********************
-MOVIE :Rise of the Guardians
+MOVIE :St. Trinian's
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Victor J. Ho : 1
+Christian Bale : 1
+Sam Worthington : 1
+Beth Bailey : 1
+Anton Yelchin : 1
+Ivan G'Vera : 1
+Bryce Dallas Howard : 1
+Common : 1
+Michael Ironside : 1
+Chris Browning : 1
+***********************
+MOVIE :Sam & Cat
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Henrie : 1
+Maria Canals-Barrera : 1
+Jennifer Stone : 1
+Holland Sanders : 1
+Selena Gomez : 1
+Jake T. Austin : 1
+David DeLuise : 1
+Mia Bendixsen : 1
+Diane Ladd : 1
+Lane Bradbury : 1
+***********************
+MOVIE :The Good, the Bad and the Dead
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ellie Grainger : 1
+Ralph Ineson : 1
+Bathsheba Garnett : 1
+Sarah Stephens : 1
+Karen Kaeja : 1
+Athan Conrad Dube : 1
+Julian Richings : 1
+Axtun Henry Dube : 1
+Harvey Scrimshaw : 1
+Daniel Malik : 1
+***********************
+MOVIE :The Neon Demon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rob Degnan : 1
+Tora Hallström : 1
+Joan Allen : 1
+Sarah Roemer : 1
+Ian Sherman : 1
+Cary-Hiroyuki Tagawa : 1
+Frank S. Aronson : 1
+Troy Doherty : 1
+Donna Sorbello : 1
+Richard Gere : 1
+***********************
+MOVIE :Home Alone 3
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bo Svenson : 1
+George Kennedy : 1
+Susan Strasberg : 1
+Hanna Schygulla : 1
+Lainie Kazan : 1
+Charles Grant : 1
+Shelley Winters : 1
+Robert Vaughn : 1
+William Wallace : 1
+Chuck Norris : 1
+***********************
+MOVIE :La haine
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+William Jackson Harper : 1
+Victor Garber : 1
+John Newberg : 1
+Bill Pullman : 1
+Louisa Krause : 1
+Anne Hathaway : 1
+Bruce Cromer : 1
+Abi Van Andel : 1
+Mare Winningham : 1
+Mark Ruffalo : 1
+***********************
+MOVIE :Harry Potter and the Order of the Phoenix
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Olivier Lafont : 1
+Javed Jaffrey : 1
+Parikshat Sahni : 1
+Farida Dadi : 1
+Mona Singh : 1
+Mukund Bhatt : 1
+Rahul Kumar : 1
+Boman Irani : 1
+Chaitali Bose : 1
+Kareena Kapoor : 1
+***********************
+MOVIE :Loving You
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Arash Marandi : 1
+Ray Haratian : 1
+Masuka The Cat : 1
+Dominic Rains : 1
+Reza Sixo Safai : 1
+Sheila Vand : 1
+Mozhan Marnò : 1
+Marshall Manesh : 1
+Ana Lily Amirpour : 1
+Rome Shadanloo : 1
+***********************
+MOVIE :Damages
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cuba Gooding Jr. : 1
+Roger Daltrey : 1
+Douglas Stewart : 1
+L.Q. Jones : 1
+Roy Brocksmith : 1
+Paul Hogan : 1
+Kamala Lopez : 1
+Beverly D'Angelo : 1
+Sandy Ward : 1
+Mark Miles : 1
+***********************
+MOVIE :Omar Mukhtar: Lion of the Desert
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael J. Fox : 1
+Nathan Lane : 1
+Jim Doughan : 1
+Jennifer Tilly : 1
+Connie Ray : 1
+Stan Freberg : 1
+Jonathan Lipnicki : 1
+Steve Zahn : 1
+David Alan Grier : 1
+Allyce Beasley : 1
+***********************
+MOVIE :Unsere Mütter, unsere Väter
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Desmond Chiam : 1
+Shane Berengue : 1
+Wyatt Russell : 1
+Adepero Oduye : 1
+Emily VanCamp : 1
+John Gettier : 1
+Miki Ishikawa : 1
+Daniel Brühl : 1
+Anthony Mackie : 1
+Sebastian Stan : 1
+***********************
+MOVIE :Riphagen
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+V. Vasilyev : 1
+Evgeniy Tilicheev : 1
+Aleksandr Berda : 1
+Viktors Lorencs : 1
+Igor Gnevashev : 1
+Aleksey Kravchenko : 1
+Vasiliy Domrachyov : 1
+Evgeniy Kryzhanovskiy : 1
+G. Velts : 1
+Kazimir Rabetsky : 1
+***********************
+MOVIE :Uncle Buck
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Emily Blunt : 2
+Simon Merrells : 1
+Gemma Whelan : 1
+Asa Butterfield : 1
+Roger Frost : 1
+Malcolm Scates : 1
+Michael Cronin : 1
+Art Malik : 1
+Nicholas Day : 1
+Benicio Del Toro : 1
+***********************
+MOVIE :This Means War
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jaqueline Fleming : 1
+Jason Giuliano : 1
+Rebecca Pidgeon : 1
+Lawrence Turner : 1
+Karl Urban : 1
+Heidi von Palleske : 1
+Chris Owens : 1
+Joe Chrest : 1
+Randy Wade Kelley : 1
+Morgan Freeman : 1
+***********************
+MOVIE :Me and Earl and the Dying Girl
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
 Maynard Eziashi : 1
 Sophie Okonedo : 1
 Jim Carrey : 1
@@ -407,38 +4475,2994 @@ Bob Gunton : 1
 Damon Standifer : 1
 Ian McNeice : 1
 ***********************
-MOVIE :The Lovebirds
-Sophie Turner : 1
-Corey Hawkins : 1
-Dane Foxx : 1
-Ameerah Falzon-Ojo : 1
-Bella Ramsey : 1
-Rasmus Hardiker : 1
-Reece Pockney : 1
-Nina Sosanya : 1
-Simon Greenall : 1
-Ólafur Darri Ólafsson : 1
+MOVIE :The Powerpuff Girls
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cuba Gooding Jr. : 1
+Roger Daltrey : 1
+Douglas Stewart : 1
+L.Q. Jones : 1
+Roy Brocksmith : 1
+Paul Hogan : 1
+Kamala Lopez : 1
+Beverly D'Angelo : 1
+Sandy Ward : 1
+Mark Miles : 1
 ***********************
-MOVIE :Queen
-Carolina Main : 1
-Hiten Patel : 1
-Nicola Walker : 1
-Sanjeev Bhaskar : 1
-Peter Egan : 1
-Lewis Reeves : 1
-Jordan Long : 1
-Rosie Perez : 1
-Amber Heard : 1
-Kevin Corrigan : 1
+MOVIE :Dawn of the Dead
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cuba Gooding Jr. : 1
+Jack Nicholson : 1
+Ross Bleckner : 1
+Skeet Ulrich : 1
+Billy the Dog : 1
+Jill the Dog : 1
+Jaffe Cohen : 1
+Shirley Knight : 1
+Yeardley Smith : 1
+Timer the Dog : 1
 ***********************
-MOVIE :Black Robe
-Dewey Robinson : 1
-Mae West : 1
-Louise Beavers : 1
-Gilbert Roland : 1
-Rochelle Hudson : 1
-David Landau : 1
-Noah Beery : 1
-Cary Grant : 1
-Tammany Young : 1
-Robert Homans : 1
+MOVIE :Liu lang di qiu
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Nikola Djuricko : 1
+Rade Serbedzija : 1
+Jelena Jovanova : 1
+Zana Marjanovic : 1
+Boris Ler : 1
+Ermin Sijamija : 1
+Milos Timotijevic : 1
+Goran Kostic : 1
+Vanessa Glodjo : 1
+Branko Djuric : 1
+***********************
+MOVIE :Michael Collins
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Colin Friels : 1
+Nicholas Bell : 1
+Jennifer Connelly : 1
+Mitchell Butel : 1
+Justin Monjo : 1
+Frank Gallacher : 1
+Kiefer Sutherland : 1
+Ritchie Singer : 1
+William Hurt : 1
+Melissa George : 1
+***********************
+MOVIE :North and South, Book II
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jay C. Flippen : 1
+Connie Gilchrist : 1
+Walter Brennan : 1
+Royal Dano : 1
+Jack Elam : 1
+John McIntire : 1
+Connie Van : 1
+Harry Morgan : 1
+Ruth Roman : 1
+Steve Brodie : 1
+***********************
+MOVIE :Bean
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Val Kilmer : 1
+Jeff Goldblum : 1
+Bobby Motown : 1
+Steve Martin : 1
+Martin Short : 1
+Michelle Pfeiffer : 1
+Eden Riegel : 1
+Aria Noelle Curzon : 1
+Helen Mirren : 1
+Danny Glover : 1
+***********************
+MOVIE :Katy Keene
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+George Bukhari : 1
+Jade Alleyne : 1
+Rory Kinnear : 1
+Emma Thompson : 1
+Lydia West : 1
+Kieran O'Brien : 1
+Jessica Hynes : 1
+Julie Peasgood : 1
+Mary Nightingale : 1
+Shaun McGowan : 1
+***********************
+MOVIE :Blackthorn
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Berenger : 1
+Michael Irby : 1
+Josh Clark : 1
+Jan Hoag : 1
+Sidney S. Liufau : 1
+Carla Gugino : 1
+Jim Gaines : 1
+Mike Epps : 1
+Courtney Gains : 1
+Mauricio Lopez : 1
+***********************
+MOVIE :Montana Sky
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dean Stockwell : 1
+Scott Bakula : 1
+Deborah Pratt : 1
+Nimrat Kaur : 1
+Emma Tremblay : 1
+Melissa Leo : 1
+Christopher Meyer : 1
+Djimon Hounsou : 1
+Carla Gugino : 1
+Shannyn Sossamon : 1
+***********************
+MOVIE :The Princess Diaries
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+James Corden : 2
+Pamela West : 1
+Harland Williams : 1
+Beau Bridges : 1
+Bill Jenkins : 1
+Brandon Kaplan : 1
+William Sadler : 1
+James Pickens Jr. : 1
+Jeffrey DeMunn : 1
+Ken Farmer : 1
+***********************
+MOVIE :I Love You, Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+George Dzundza : 1
+Christopher Walken : 1
+Rutanya Alda : 1
+Richard Kuss : 1
+Mady Kaplan : 1
+Joe Grifasi : 1
+Mary Ann Haenel : 1
+Meryl Streep : 1
+Amy Wright : 1
+Pierre Segui : 1
+***********************
+MOVIE :Hang 'Em High
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alberto Dalbés : 1
+Jim Brown : 1
+Akim Tamiroff : 1
+Dan O'Herlihy : 1
+José Manuel Martín : 1
+Michael Forest : 1
+Aldo Sambrell : 1
+Fernando Lamas : 1
+Soledad Miranda : 1
+Charly Bravo : 1
+***********************
+MOVIE :Black Panther
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Don Johnson : 2
+Fred Melamed : 1
+Geno Segers : 1
+Mustafa Shakir : 1
+Udo Kier : 1
+Clark Johnson : 1
+Jennifer Carpenter : 1
+Dion Mucciacito : 1
+Pooja Kumar : 1
+Devon Windsor : 1
+***********************
+MOVIE :Road to Bali
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Richard Jenkins : 1
+Maggie Gyllenhaal : 1
+Joey King : 1
+Lance Reddick : 1
+Michael Murphy : 1
+Jason Clarke : 1
+Matt Craven : 1
+James Woods : 1
+Rachelle Lefevre : 1
+Peter Jacobson : 1
+***********************
+MOVIE :The Theory of Everything
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tantoo Cardinal : 1
+Cole Sibus : 1
+Jake Johnson : 1
+Camryn Manheim : 1
+Cobie Smulders : 1
+Adrian Martinez : 1
+Michael Ealy : 1
+Johanna Schussler : 1
+Laurence Guittard : 1
+Jonathan Tunick : 1
+***********************
+MOVIE :Osmosis Jones
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Masahiko Nishimura : 1
+John Krasinski : 1
+Martin Short : 1
+Jun Kunimura : 1
+Hideaki Anno : 1
+Morio Kazama : 1
+Emily Blunt : 1
+Mansai Nomura : 1
+Miori Takimoto : 1
+Joseph Gordon-Levitt : 1
+***********************
+MOVIE :Hell in the Pacific
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+William Jackson Harper : 1
+Victor Garber : 1
+John Newberg : 1
+Bill Pullman : 1
+Louisa Krause : 1
+Anne Hathaway : 1
+Bruce Cromer : 1
+Abi Van Andel : 1
+Mare Winningham : 1
+Mark Ruffalo : 1
+***********************
+MOVIE :The Firm
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Angela Pietropinto : 1
+Robert Pattinson : 1
+Pierce Brosnan : 1
+Ruby Jerins : 1
+Kevin P. McCarthy : 1
+Gregory Jbara : 1
+Tate Ellington : 1
+Emilie de Ravin : 1
+Lena Olin : 1
+Caitlyn Rund : 1
+***********************
+MOVIE :La migliore offerta
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sara Montiel : 1
+Ernest Borgnine : 1
+Archie Savage : 1
+Charles Bronson : 1
+Denise Darcel : 1
+Morris Ankrum : 1
+Burt Lancaster : 1
+James Seay : 1
+Henry Brandon : 1
+Gary Cooper : 1
+***********************
+MOVIE :Sleepwalkers
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tara King : 1
+James Remar : 1
+Kerry Sherman : 1
+Eddie Murphy : 1
+Nick Nolte : 1
+Denise Crosby : 1
+Annette O'Toole : 1
+Sonny Landham : 1
+Jonathan Banks : 1
+Greta Blackburn : 1
+***********************
+MOVIE :Sahara
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Timothy Carey : 1
+Slim Pickens : 1
+Miriam Colon : 1
+John Dierkes : 1
+Ben Johnson : 1
+Philip Ahn : 1
+Katy Jurado : 1
+Tom Webb : 1
+Sam Gilman : 1
+Ray Teal : 1
+***********************
+MOVIE :Texas Rising
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Umberto Paolo Quintavalle : 1
+Hélène Surgère : 1
+Claudio Cicchetti : 1
+Umberto Chessari : 1
+Bruno Musso : 1
+Sergio Fascetti : 1
+Lamberto Book : 1
+Giorgio Cataldi : 1
+Elsa De Giorgi : 1
+Franco Merli : 1
+***********************
+MOVIE :Minority Report
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+James McCauley : 1
+Abbey : 1
+Samuel Glen : 1
+Darrell Foster : 1
+Marin Ireland : 1
+Pedro Mojica : 1
+Salli Richardson-Whitfield : 1
+Willow Smith : 1
+Alice Braga : 1
+Dash Mihok : 1
+***********************
+MOVIE :Het commando der wrake
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stephen Rider : 1
+Travis Van Winkle : 1
+Daniel Ings : 1
+Alan Cumming : 1
+Danny Mastrogiorgio : 1
+Sharon Leal : 1
+Bojana Novakovic : 1
+Michael B. Silver : 1
+Naveen Andrews : 1
+John Mainieri : 1
+***********************
+MOVIE :The Three Stooges
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Carlyle : 1
+Woody Norman : 1
+Harry Melling : 1
+Taliyah Blair : 1
+Rupert Graves : 1
+Susan Wooldridge : 1
+Eleanor Tomlinson : 1
+Rafe Spall : 1
+Jonathan Aris : 1
+Nicholas Le Prevost : 1
+***********************
+MOVIE :Timerider: The Adventure of Lyle Swann
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Redgrave : 1
+Joyce Carey : 1
+Jean Simmons : 1
+Basil Radford : 1
+Renée Asherson : 1
+Nicholas Stuart : 1
+Felix Aylmer : 1
+Bill Owen : 1
+Trevor Howard : 1
+John Mills : 1
+***********************
+MOVIE :The Munsters
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stéphane Audran : 1
+Ken Campbell : 1
+Serge Marquand : 1
+Siegfried Rauch : 1
+Maurice Marsac : 1
+Robert Carradine : 1
+Kelly Ward : 1
+Alain Doutey : 1
+Bobby Di Cicco : 1
+Charles Macaulay : 1
+***********************
+MOVIE :CSI: Miami
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ed Kross : 1
+Scott Caan : 1
+Mini Anden : 1
+Don Tiffany : 1
+Dina Connolly : 1
+Larry Sontag : 1
+Andy Garcia : 1
+Casey Affleck : 1
+David Sontag : 1
+Catherine Zeta-Jones : 1
+***********************
+MOVIE :Flight 7500
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Linjie Hao : 1
+Haizhe Jin : 1
+Pengyu Liu : 1
+Shennin Wang : 1
+Xuhui Liu : 1
+Zhaohua Mei : 1
+Hsu Gou : 1
+Jiefu Tian : 1
+Gang Wang : 1
+Yuanrong Jin : 1
+***********************
+MOVIE :The Last Hard Men
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sergey Tyessler : 1
+Vladimir Novitskiy : 1
+Dmitriy Kulichkov : 1
+Kirill Käro : 1
+Ksenia Kubasova : 1
+Sergey Galakhov : 1
+Aleksandr Golubkov : 1
+Mariya Lugovaya : 1
+Paulina Andreeva : 1
+Margarita Shilova : 1
+***********************
+MOVIE :Final Destination
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Leisure : 1
+Dinah Manoff : 1
+Richard Mulligan : 1
+Kristy McNichol : 1
+Park Overall : 1
+Eduardo Verástegui : 1
+Catalina Sandino Moreno : 1
+Rubén Blades : 1
+Alan Ramirez : 1
+Oscar Isaac : 1
+***********************
+MOVIE :Snow Day
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Cazale : 1
+Estelle Omens : 1
+Amy Levitt : 1
+Charles Durning : 1
+Beulah Garrick : 1
+John Marriott : 1
+Sandra Kazan : 1
+Penelope Allen : 1
+Gary Springer : 1
+James Broderick : 1
+***********************
+MOVIE :Schat in het zilvermeer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vincent D'Onofrio : 1
+Sharon Madden : 1
+Pam Cook : 1
+Emilio Rivera : 1
+Luke Grimes : 1
+Ashton Essex Bright : 1
+Margarita Franco : 1
+Kurtwood Smith : 1
+Michelle Mylett : 1
+Kimberly Quinn : 1
+***********************
+MOVIE :Lie with Me
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jamie Lee Curtis : 1
+George 'Buck' Flower : 1
+Charles Cyphers : 1
+Adrienne Barbeau : 1
+John F. Goff : 1
+Jim Haynie : 1
+Janet Leigh : 1
+John Houseman : 1
+James Canning : 1
+Ty Mitchell : 1
+***********************
+MOVIE :Karmouz War
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Graham Chapman : 1
+John Cleese : 1
+Eric Idle : 1
+Terry Jones : 1
+Charles McKeown : 1
+Sue Jones-Davies : 1
+Kenneth Colley : 1
+Carol Cleveland : 1
+Michael Palin : 1
+John Young : 1
+***********************
+MOVIE :Taza, Son of Cochise
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Amelia Fowler : 1
+Philip Ettinger : 1
+Matt Servitto : 1
+John Merolla : 1
+Ralph Rodriguez : 1
+Bill Camp : 1
+Desmin Borges : 1
+Stephen Payne : 1
+James McCaffrey : 1
+Ashlie Atkinson : 1
+***********************
+MOVIE :Wonderland
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chika Sakamoto : 1
+Kôichi Miura : 1
+Keiko Toda : 1
+Yuriko Fuchizaki : 1
+Kikuko Inoue : 1
+Yûko Kobayashi : 1
+Haruko Katô : 1
+Hiroko Seki : 1
+Rei Sakuma : 1
+Mieko Nobusawa : 1
+***********************
+MOVIE :Dredd
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Webber : 2
+Peter-Hugo Daly : 1
+Sally Phillips : 1
+Alan Peat : 1
+Anya McKenna-Bruce : 1
+Jill Halfpenny : 1
+Paul Kaye : 1
+Jerry Black : 1
+Matt Berry : 1
+Alun Armstrong : 1
+***********************
+MOVIE :Contact
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vicellous Shannon : 1
+Michael Weston : 1
+Terrence Howard : 1
+Rory Cochrane : 1
+Scott Michael Campbell : 1
+Linus Roache : 1
+Sebastian Tillinger : 1
+Rick Ravanello : 1
+Adrian Grenier : 1
+Cole Hauser : 1
+***********************
+MOVIE :Tucker and Dale vs Evil
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Socratis Otto : 1
+Daniel Sunjata : 1
+Jennifer Carpenter : 1
+Amanda Seyfried : 1
+Michael Paré : 1
+Nick Searcy : 1
+Erin Carufel : 1
+Sebastian Stan : 1
+Sam Upton : 1
+Amy Argyle : 1
+***********************
+MOVIE :Mystic River
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+C.J. Wilson : 1
+Kyle Catlett : 1
+Theather Huggins : 1
+Olivia Wilde : 1
+Morgan Spector : 1
+Chuck Cooper : 1
+Estefania Tejeda : 1
+Paige Rhea : 1
+Betsy Aidem : 1
+Judy Marte : 1
+***********************
+MOVIE :Annie Hall
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Devon Wood : 1
+Isabelle Rose Kircher : 1
+Emma Fenton : 1
+AnnaSophia Robb : 1
+Latham Gaines : 1
+Patricia Aldersley : 1
+Lauren Clinton : 1
+Cameron Wakefield : 1
+Zooey Deschanel : 1
+Robert Patrick : 1
+***********************
+MOVIE :Awkwafina Is Nora from Queens
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tom Hiddleston : 1
+Gugu Mbatha-Raw : 1
+Sophia Di Martino : 1
+Owen Wilson : 1
+Marlo Kelly : 1
+Hannah Sheppard : 1
+Antonio J Bell : 1
+Brittany Teo : 1
+Kaden Hebb : 1
+Dylan Colton : 1
+***********************
+MOVIE :State of Play
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stephen Boyd : 1
+Eric Porter : 1
+Christopher Plummer : 1
+George Murcell : 1
+Norman Wooland : 1
+John Ireland : 1
+Finlay Currie : 1
+Omar Sharif : 1
+Mel Ferrer : 1
+Douglas Wilmer : 1
+***********************
+MOVIE :Call of Duty: WWII
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christopher Knights : 1
+Tina Fey : 1
+Jessica Schulte : 1
+Justin Theroux : 1
+Tom McGrath : 1
+Jonah Hill : 1
+David Cross : 1
+Will Ferrell : 1
+J.K. Simmons : 1
+Ben Stiller : 1
+***********************
+MOVIE :Suspiria
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Saxon : 1
+Bolo Yeung : 1
+Peter Archer : 1
+Allan Kent : 1
+Marlene Clark : 1
+Geoffrey Weeks : 1
+Kien Shih : 1
+Bruce Lee : 1
+Robert Wall : 1
+Ahna Capri : 1
+***********************
+MOVIE :The Imaginarium of Doctor Parnassus
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lily Collins : 1
+Stephen King : 1
+Jennifer Connelly : 1
+Alex ter Avest : 1
+Barbara Weetman : 1
+Rusty Joiner : 1
+Kristen Bell : 1
+Michael Goodwin : 1
+Zeeko Zaki : 1
+Patrick Schwarzenegger : 1
+***********************
+MOVIE :The Blue Lagoon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Reginald Owen : 1
+David Tomlinson : 1
+John Ericson : 1
+Tessie O'Shea : 1
+Roddy McDowall : 1
+Arthur Gould-Porter : 1
+Ben Wrigley : 1
+Angela Lansbury : 1
+Cyril Delevanti : 1
+Rick Traeger : 1
+***********************
+MOVIE :Crossfire Trail
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+William Jackson Harper : 1
+Will Poulter : 1
+Isabelle Grill : 1
+Agnes Westerlund Rase : 1
+Lars Väringer : 1
+Jack Reynor : 1
+Anna Åström : 1
+Vilhelm Blomgren : 1
+Julia Ragnarsson : 1
+Archie Madekwe : 1
+***********************
+MOVIE :1776
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Satrya Ghozali : 1
+Ayez Kassar : 1
+Anggun Priambodo : 1
+Safira Ahmad : 1
+Yoga Pratama : 1
+Egy Fedly : 1
+Marsha Timothy : 1
+Dea Panendra : 1
+Ruly Lubis : 1
+Haydar Salishz : 1
+***********************
+MOVIE :Mission: Impossible II
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jake Weary : 1
+Daniel Zovatto : 1
+Ruby Harris : 1
+Linda Boston : 1
+Olivia Luccardi : 1
+Leisa Pulido : 1
+D.J. Oliver : 1
+Charles Gertner : 1
+Carollette Phillips : 1
+Lili Sepe : 1
+***********************
+MOVIE :Unfriended: Dark Web
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dann Florek : 1
+Brownie McGhee : 1
+George Buck : 1
+Michael Higgins : 1
+Gerald Orange : 1
+Judith Drake : 1
+Eliott Keener : 1
+Charles Gordone : 1
+Charlotte Rampling : 1
+Mickey Rourke : 1
+***********************
+MOVIE :The Escort
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Grégory Fitoussi : 1
+Javier Botet : 1
+David Gasman : 1
+Carl Garrison : 1
+Richard Meiman : 1
+Mohamed Aroussi : 1
+Laura D'Arista Adam : 1
+Brittany Ashworth : 1
+Mirabela Vian : 1
+Aton : 1
+***********************
+MOVIE :La llorona
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Koko : 1
+John Batchelor : 1
+Noah Taylor : 1
+Loene Carmen : 1
+Keisha Castle-Hughes : 1
+Paul Blackwell : 1
+Josh Lucas : 1
+Jacquy Phillips : 1
+Yure Covich : 1
+Radek Jonak : 1
+***********************
+MOVIE :Drive
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jodie Brooke Wilson : 1
+Billy Zane : 1
+David Strathairn : 1
+Eric Stoltz : 1
+Tate Donovan : 1
+Mac McDonald : 1
+D.B. Sweeney : 1
+Reed Diamond : 1
+Jane Horrocks : 1
+Sean Astin : 1
+***********************
+MOVIE :Disaster Movie
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ave Ninchi : 1
+Aurore Clément : 1
+Pierre Blaise : 1
+Loumi Iacobesco : 1
+Pierre Saintons : 1
+Pierre Decazes : 1
+Jean Rougerie : 1
+Jacques Rispal : 1
+Holger Löwenadler : 1
+Stéphane Bouy : 1
+***********************
+MOVIE :BlacKkKlansman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Daniel Martín : 1
+Wolfgang Lukschy : 1
+Margarita Lozano : 1
+Gian Maria Volontè : 1
+Antonio Prieto : 1
+José Calvo : 1
+Mario Brega : 1
+Bruno Carotenuto : 1
+Aldo Sambrell : 1
+Benito Stefanelli : 1
+***********************
+MOVIE :Signs
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Elizabeth Pan : 1
+Andi Osho : 1
+Ava Cantrell : 1
+Maria Russell : 1
+Teresa Palmer : 1
+Alicia Vela-Bailey : 1
+Lotta Losten : 1
+Gabriel Bateman : 1
+Billy Burke : 1
+Alexander DiPersia : 1
+***********************
+MOVIE :The Conjuring 2
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Elizabeth Pan : 1
+Andi Osho : 1
+Ava Cantrell : 1
+Maria Russell : 1
+Teresa Palmer : 1
+Alicia Vela-Bailey : 1
+Lotta Losten : 1
+Gabriel Bateman : 1
+Billy Burke : 1
+Alexander DiPersia : 1
+***********************
+MOVIE :Lust in the Dust
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+George Bukhari : 1
+Jade Alleyne : 1
+Rory Kinnear : 1
+Emma Thompson : 1
+Lydia West : 1
+Kieran O'Brien : 1
+Jessica Hynes : 1
+Julie Peasgood : 1
+Mary Nightingale : 1
+Shaun McGowan : 1
+***********************
+MOVIE :Shubh Mangal Saavdhan
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ibrahim Faal : 1
+Sten Ljunggren : 1
+Matti Boustedt : 1
+Eero Milonoff : 1
+Rakel Wärmländer : 1
+Eva Melander : 1
+Henrik Johansson : 1
+Tomas Åhnstrand : 1
+Åsa Janson : 1
+Andreas Kundler : 1
+***********************
+MOVIE :When Harry Met Sally...
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Elizabeth Smith : 1
+Manu Tupou : 1
+Nephi Hannemann : 1
+Kim Kahana : 1
+Vera Miles : 1
+Luis Delgado : 1
+Buddy Joe Hooker : 1
+Robert Culp : 1
+Gregory Sierra : 1
+Shug Fisher : 1
+***********************
+MOVIE :The Lincoln Lawyer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Val Kilmer : 1
+Jeff Goldblum : 1
+Bobby Motown : 1
+Steve Martin : 1
+Martin Short : 1
+Michelle Pfeiffer : 1
+Eden Riegel : 1
+Aria Noelle Curzon : 1
+Helen Mirren : 1
+Danny Glover : 1
+***********************
+MOVIE :Lifeforce
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Milla Jovovich : 2
+Shawn Roberts : 2
+Barbara Chilcott : 1
+Jon Granik : 1
+Blain Fairman : 1
+Rex Sevenoaks : 1
+Walter Marsh : 1
+Rita Tushingham : 1
+Oliver Reed : 1
+Merv Campone : 1
+***********************
+MOVIE :Let It Snow
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Je-mun Yun : 2
+Liz Cackowski : 1
+Steve Landesberg : 1
+Jason Segel : 1
+Kala Alexander : 1
+Jonah Hill : 1
+Maria Thayer : 1
+Taylor Wily : 1
+Russell Brand : 1
+Kristen Bell : 1
+***********************
+MOVIE :The Patriot
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Slim Pickens : 2
+Susan O'Connell : 1
+David Warner : 1
+James Anderson : 1
+Jason Robards : 1
+L.Q. Jones : 1
+Peter Whitney : 1
+Strother Martin : 1
+William Mims : 1
+Max Evans : 1
+***********************
+MOVIE :Eragon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Rocco Luna : 1
+Josh Pais : 1
+Murphy Guyer : 1
+Douglas Hodge : 1
+Marc Maron : 1
+Brett Cullen : 1
+Zazie Beetz : 1
+Frances Conroy : 1
+Sondra James : 1
+Leigh Gill : 1
+***********************
+MOVIE :Savages
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Teresa Velarde : 1
+Ving Rhames : 1
+George R. Parker : 1
+John Hostetter : 1
+Kelly Jo Minter : 1
+Brandon Quintin Adams : 1
+Conni Marie Brazelton : 1
+Bill Cobbs : 1
+Sean Whalen : 1
+Josh Coxx : 1
+***********************
+MOVIE :Brooklyn Nine-Nine
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ed Kross : 1
+Scott Caan : 1
+Mini Anden : 1
+Don Tiffany : 1
+Dina Connolly : 1
+Larry Sontag : 1
+Andy Garcia : 1
+Casey Affleck : 1
+David Sontag : 1
+Catherine Zeta-Jones : 1
+***********************
+MOVIE :The Chronicles of Narnia: Prince Caspian
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lisa Joyce : 1
+Brendan Sexton III : 1
+Jena Malone : 1
+Gaius Charles : 1
+Woody Harrelson : 1
+Jahmir Duran-Abreau : 1
+Brian Adam DeJesus : 1
+Portia : 1
+Ben Foster : 1
+Eamonn Walker : 1
+***********************
+MOVIE :Young Guns
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Deborah Kerr : 1
+Carlos Rivas : 1
+Yul Brynner : 1
+Alan Mowbray : 1
+Patrick Adiarte : 1
+Rita Moreno : 1
+Geoffrey Toone : 1
+Terry Saunders : 1
+Rex Thompson : 1
+Martin Benson : 1
+***********************
+MOVIE :Dumbo
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Per Olov Börjeson : 1
+Frida Lindholm : 1
+George Bisset : 1
+Björn Kjellman : 1
+Karin Huldt : 1
+Nina Gunke : 1
+Marika Lagercrantz : 1
+Sigge Cederlund : 1
+Monica Stenbeck : 1
+Tomas von Brömssen : 1
+***********************
+MOVIE :Spy Kids 4: All the Time in the World
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Gulshan Walia : 1
+Komal Chhabria : 1
+Ujjwal Chopra : 1
+Jim Sarbh : 1
+Manish Wadhwa : 1
+Anupriya Goenka : 1
+Aditi Rao Hydari : 1
+Bhawani Muzamil : 1
+Lankesh Bhardwaj : 1
+Hriiday Malhotra : 1
+***********************
+MOVIE :Les parapluies de Cherbourg
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Elizabeth Mitchell : 1
+Daniella Alonso : 1
+Giancarlo Esposito : 1
+JD Pardo : 1
+Stephen Collins : 1
+Zak Orth : 1
+Billy Burke : 1
+David Lyons : 1
+Tracy Spiridakos : 1
+Betty White : 1
+***********************
+MOVIE :Call of the Wild
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dennis Quaid : 1
+John Hora : 1
+Henry Gibson : 1
+Robert Picardo : 1
+Martin Short : 1
+Kevin McCarthy : 1
+Orson Bean : 1
+Kevin Hooks : 1
+Meg Ryan : 1
+Wendy Schaal : 1
+***********************
+MOVIE :Armageddon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Johnny Silver : 1
+Jean Simmons : 1
+Danny Dayton : 1
+Robert Keith : 1
+Sheldon Leonard : 1
+Mary Alan Hokanson : 1
+Regis Toomey : 1
+Vivian Blaine : 1
+George E. Stone : 1
+Kathryn Givney : 1
+***********************
+MOVIE :Spectros
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Cameron Gellman : 1
+Jake Austin Walker : 1
+Meg DeLacy : 1
+Brec Bassinger : 1
+Amy Smart : 1
+Trae Romano : 1
+Hunter Sansone : 1
+Mark Ashworth : 1
+Neil Hopkins : 1
+Hina Khan : 1
+***********************
+MOVIE :I Know What You Did Last Summer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dorsey Wright : 1
+James Remar : 1
+Mercedes Ruehl : 1
+David Harris : 1
+Michael Beck : 1
+Lynne Thigpen : 1
+John Snyder : 1
+Brian Tyler : 1
+Roger Hill : 1
+Tom McKitterick : 1
+***********************
+MOVIE :1941
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Dion Anderson : 1
+Lise Cutter : 1
+Betsy Brantley : 1
+Lena Olin : 1
+Alan Arkin : 1
+Tomas Milian : 1
+Tony Plana : 1
+Richard Farnsworth : 1
+Mark Rydell : 1
+Richard Portnow : 1
+***********************
+MOVIE :The Cosby Show
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peyton List : 2
+Van Johnson : 1
+Arthur Franz : 1
+Warner Anderson : 1
+E.G. Marshall : 1
+Claude Akins : 1
+Robert Francis : 1
+Fred MacMurray : 1
+José Ferrer : 1
+Tom Tully : 1
+***********************
+MOVIE :Sense and Sensibility
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Carl K. Aselton III : 1
+Katie Aselton : 1
+Jim Parker : 1
+Lake Bell : 1
+Will Bouvier : 1
+John Davis : 1
+Ron Green : 1
+Jay Paulson : 1
+Carl Aselton : 1
+Anslem Richardson : 1
+***********************
+MOVIE :S.W.A.T.
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maggie Smith : 1
+Dan Hedaya : 1
+Eileen Heckart : 1
+Stockard Channing : 1
+Jennifer Dundas : 1
+Bronson Pinchot : 1
+Victor Garber : 1
+Stephen Collins : 1
+Marcia Gay Harden : 1
+Philip Bosco : 1
+***********************
+MOVIE :How the West Was Won
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Philip Carey : 1
+Anthony Caruso : 1
+Douglas Fowley : 1
+Patrice Wymore : 1
+Dick Wesson : 1
+Morris Ankrum : 1
+Randolph Scott : 1
+Lina Romay : 1
+Clancy Cooper : 1
+Katherine Warren : 1
+***********************
+MOVIE :Rio Lobo
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kris Kristofferson : 1
+Manuel Garcia-Rulfo : 1
+Jeffrey Donovan : 1
+Jacqueline Torres : 1
+Isabela Merced : 1
+Catherine Keener : 1
+David Castañeda : 1
+Elijah Rodriguez : 1
+Josh Brolin : 1
+Benicio Del Toro : 1
+***********************
+MOVIE :The Land Before Time III: The Time of the Great Giving
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Pascale Hutton : 1
+Julian McMahon : 1
+David Parker : 1
+G. Michael Gray : 1
+Chris Evans : 1
+Michael Chiklis : 1
+Kerry Washington : 1
+Laurie Holden : 1
+Hamish Linklater : 1
+Jessica Alba : 1
+***********************
+MOVIE :Where Eagles Dare
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bob Odenkirk : 1
+Levi Miller : 1
+Shailene Woodley : 1
+Whitney Goin : 1
+Brie Larson : 1
+Dayo Okeniyi : 1
+Jennifer Jason Leigh : 1
+Andre Royo : 1
+Nicci Roessler : 1
+Kyle Chandler : 1
+***********************
+MOVIE :Valerian and the City of a Thousand Planets
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Caruso : 1
+Craig Huston : 1
+Richard Crenna : 1
+Brian Dennehy : 1
+John McLiam : 1
+Michael Talbott : 1
+David L. Crowley : 1
+Jack Starrett : 1
+Chris Mulkey : 1
+Bill McKinney : 1
+***********************
+MOVIE :Josh
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Joseph Fiennes : 1
+Vlado Jovanovski : 1
+Adrian Lester : 1
+Vera Farmiga : 1
+Matt Ross : 1
+Nikolina Kujaca : 1
+Tamer Ibrahim : 1
+David Wenham : 1
+Vladimir Gjorgjijoski : 1
+Vladimir Jacev : 1
+***********************
+MOVIE :Charlotte Gray
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alex Cox : 1
+Charlotte Asprey : 1
+Ian East : 1
+Tim Wallers : 1
+Anna Massey : 1
+Burn Gorman : 1
+Julie Cox : 1
+John Hurt : 1
+Dominique Pinon : 1
+Elijah Wood : 1
+***********************
+MOVIE :Nightbreed
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Willoughby Gray : 1
+Tanya Roberts : 1
+Roger Moore : 1
+Christopher Walken : 1
+David Yip : 1
+Grace Jones : 1
+Patrick Macnee : 1
+Manning Redwood : 1
+Lois Maxwell : 1
+Walter Gotell : 1
+***********************
+MOVIE :The Woman in the Window
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ross Butler : 1
+Sarayu Blue : 1
+John Corbett : 1
+Kelcey Mawema : 1
+Jordan Fisher : 1
+Emilija Baranac : 1
+Momona Tamada : 1
+Holland Taylor : 1
+Madeleine Arthur : 1
+Anna Cathcart : 1
+***********************
+MOVIE :Cabin Fever
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Marley : 2
+Scott Caan : 1
+Ed Helms : 1
+Austyn Myers : 1
+Eddie Murphy : 1
+Pat Kilbane : 1
+Mike O'Malley : 1
+Judah Friedlander : 1
+Shawn Christian : 1
+Gabrielle Union : 1
+***********************
+MOVIE :Forbidden Planet
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anna Moliner : 1
+Cuca Escribano : 1
+Verónica Sánchez : 1
+Alicia Borrachero : 1
+Álex Gadea : 1
+Silvia Alonso : 1
+Daniel Lundh : 1
+Ferran Rañé : 1
+Toni Agustí : 1
+Miguel Rellán : 1
+***********************
+MOVIE :Max
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+James Spader : 1
+Diego Klattenhoff : 1
+Mozhan Marnò : 1
+Megan Boone : 1
+Ryan Eggold : 1
+Hisham Tawfiq : 1
+Amir Arison : 1
+Harry Lennix : 1
+Professor Toru Tanaka : 1
+Mercedes Ruehl : 1
+***********************
+MOVIE :Kingdom Hearts III
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Victor Garber : 1
+Franz Drameh : 1
+Arthur Darvill : 1
+Jes Macallan : 1
+Nick Zano : 1
+Amy Louise Pemberton : 1
+Caity Lotz : 1
+Maisie Richardson-Sellers : 1
+Dominic Purcell : 1
+Tala Ashe : 1
+***********************
+MOVIE :Good Trouble
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alan Baxter : 1
+Jeffrey Hunter : 1
+Frank Gorshin : 1
+Biff Elliot : 1
+Agnes Moorehead : 1
+Barry Atwater : 1
+John Carradine : 1
+Rachel Stephens : 1
+Barney Phillips : 1
+Robert Wagner : 1
+***********************
+MOVIE :The Nutcracker in 3D
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tim Holmes : 1
+Joey King : 1
+Tony Cox : 1
+Bill Cobbs : 1
+Rob Crites : 1
+Ted Raimi : 1
+Bruce Campbell : 1
+Toni Wynne : 1
+Rachel Weisz : 1
+Zach Braff : 1
+***********************
+MOVIE :A Single Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Milton Rosa : 1
+Antônio Pinto : 1
+Sonia Dos Humildes : 1
+Geraldo Del Rey : 1
+João Gama : 1
+Yoná Magalhães : 1
+Roque Santos : 1
+Lidio Silva : 1
+Maurício do Valle : 1
+Othon Bastos : 1
+***********************
+MOVIE :Crawl
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonathan Gilbert : 2
+Stan Ivar : 2
+David Friedman : 2
+Kevin Hagen : 2
+Leslie Landon : 2
+Robert Casper : 2
+Dabbs Greer : 2
+Shannen Doherty : 2
+Melissa Gilbert : 2
+Allison Balson : 2
+***********************
+MOVIE :He's Out There
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sharon Stone : 1
+David Morrissey : 1
+Ellen Thomas : 1
+Stan Collymore : 1
+Hugh Dancy : 1
+Flora Montgomery : 1
+Indira Varma : 1
+Heathcote Williams : 1
+Terence Harvey : 1
+Charlotte Rampling : 1
+***********************
+MOVIE :Annabelle Comes Home
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chloë Sevigny : 1
+Larry Fessenden : 1
+Maya Delmont : 1
+Tom Waits : 1
+Caleb Landry Jones : 1
+Danny Glover : 1
+Steve Buscemi : 1
+Adam Driver : 1
+Taliyah Whitaker : 1
+Kevin McCormick : 1
+***********************
+MOVIE :The Wraith
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Markus Redmond : 1
+Max Casella : 1
+Belinda Montgomery : 1
+Mitchell Anderson : 1
+Neil Patrick Harris : 1
+Lucy Boryer : 1
+Lisa Dean Ryan : 1
+James Sikking : 1
+Lawrence Pressman : 1
+Kathryn Layng : 1
+***********************
+MOVIE :Green Acres
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sharon Stone : 1
+David Morrissey : 1
+Ellen Thomas : 1
+Stan Collymore : 1
+Hugh Dancy : 1
+Flora Montgomery : 1
+Indira Varma : 1
+Heathcote Williams : 1
+Terence Harvey : 1
+Charlotte Rampling : 1
+***********************
+MOVIE :Doom Asylum
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Sheehan : 1
+Daniel Fathers : 1
+Nikki Lamborn : 1
+Eugen Bauder : 1
+Caroline Peters : 1
+Alexander Skarsgård : 1
+Rosie Shaw : 1
+Seyneb Saleh : 1
+Noel Clarke : 1
+Jarah Maria Anders : 1
+***********************
+MOVIE :Jojo Rabbit
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Webber : 2
+Peter-Hugo Daly : 1
+Sally Phillips : 1
+Alan Peat : 1
+Anya McKenna-Bruce : 1
+Jill Halfpenny : 1
+Paul Kaye : 1
+Jerry Black : 1
+Matt Berry : 1
+Alun Armstrong : 1
+***********************
+MOVIE :The Bad Batch
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bella Thorne : 1
+Skyler Samuels : 1
+Ken Jeong : 1
+Allison Janney : 1
+Benjamin Taylor Davis : 1
+Rebecca Weil : 1
+Bianca A. Santos : 1
+Romany Malco : 1
+Robbie Amell : 1
+Nick Eversman : 1
+***********************
+MOVIE :War and Remembrance
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Chandler : 1
+Kristina Harrison : 1
+Jenny Leonhardt : 1
+Jennifer Lafleur : 1
+Keith Jardine : 1
+Clifton Collins Jr. : 1
+Peter Facinelli : 1
+Rib Hillis : 1
+Adam Goldberg : 1
+Christian Tappan : 1
+***********************
+MOVIE :Skyscraper
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jacqueline Kim : 1
+Brent Spiner : 1
+Marina Sirtis : 1
+Jonathan Frakes : 1
+Gates McFadden : 1
+Michael Dorn : 1
+LeVar Burton : 1
+James Doohan : 1
+Alan Ruck : 1
+Patrick Stewart : 1
+***********************
+MOVIE :7 Men from Now
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Arash Marandi : 1
+Ray Haratian : 1
+Masuka The Cat : 1
+Dominic Rains : 1
+Reza Sixo Safai : 1
+Sheila Vand : 1
+Mozhan Marnò : 1
+Marshall Manesh : 1
+Ana Lily Amirpour : 1
+Rome Shadanloo : 1
+***********************
+MOVIE :The Little Prince
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Avery Whitted : 1
+Patrick Wilson : 1
+Rachel Wilson : 1
+Tiffany Helm : 1
+Will Buie Jr. : 1
+Laysla De Oliveira : 1
+Harrison Gilbertson : 1
+Dee Bradley Baker : 1
+Grey Griffin : 1
+Carlos Alazraqui : 1
+***********************
+MOVIE :Polar
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Don Fischer : 1
+Forest Whitaker : 1
+Marg Helgenberger : 1
+Alfred Molina : 1
+Virginia Morris : 1
+Ben Kingsley : 1
+David K. Schroeder : 1
+Michael Madsen : 1
+Esther Scott : 1
+David Jensen : 1
+***********************
+MOVIE :Snowpiercer
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Anne Ramsay : 1
+Paul Reiser : 1
+Maui : 1
+John Pankow : 1
+Cynthia Harris : 1
+Louis Zorich : 1
+Leila Kenzle : 1
+Helen Hunt : 1
+Michael Malarkey : 1
+Celia Massingham : 1
+***********************
+MOVIE :Broken Arrow
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Patrick Thomas Cragin : 1
+Justin Dwayne Hall : 1
+Gabrielle Haugh : 1
+Michael Sirow : 1
+Jason Bayle : 1
+Michael Papajohn : 1
+Cade Burk : 1
+Jordan Salloum : 1
+Chester Rushing : 1
+Frankie Smith : 1
+***********************
+MOVIE :The Chronicles of Narnia: The Voyage of the Dawn Treader
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Millard Mitchell : 1
+Rock Hudson : 1
+Jay C. Flippen : 1
+Charles Drake : 1
+James Millican : 1
+Stephen McNally : 1
+Shelley Winters : 1
+John McIntire : 1
+John Alexander : 1
+Tony Curtis : 1
+***********************
+MOVIE :Epic
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vivienne Chandler : 1
+Franco Graziosi : 1
+Amato Garbini : 1
+Rod Steiger : 1
+Poldo Bendandi : 1
+Maria Monti : 1
+John Frederick : 1
+James Coburn : 1
+Antoine Saint-John : 1
+Roy Bosier : 1
+***********************
+MOVIE :Doom: Annihilation
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hee-soon Park : 1
+Kim Ha-Na : 1
+Seung-chul Baek : 1
+Woo-sik Choi : 1
+Woo Min-Kyu : 1
+Go Min-Si : 1
+Woorim Jung : 1
+Da-Eun : 1
+Hyun-soo Song : 1
+Da-mi Kim : 1
+***********************
+MOVIE :The Favourite
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sofia Pernas : 1
+Antonio Cupo : 1
+Michael James Shaw : 1
+James Callis : 1
+Katia Winter : 1
+Mark Gagliardi : 1
+Matt Barr : 1
+Oded Fehr : 1
+Tony Nash : 1
+Renee Scott : 1
+***********************
+MOVIE :The Sons of Katie Elder
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Terence Hill : 1
+Marc Mazza : 1
+Rainer Peets : 1
+Henry Fonda : 1
+Neil Summers : 1
+Piero Lulli : 1
+Mario Brega : 1
+Steve Kanaly : 1
+Alexander Allerson : 1
+Benito Stefanelli : 1
+***********************
+MOVIE :Hatchet
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+George Poulos : 1
+Janice Karman : 1
+Ross Bagdasarian Jr. : 1
+Ken Sansom : 1
+Charlie Adler : 1
+Nancy Cartwright : 1
+Philip L. Clarke : 1
+Patrick Pinney : 1
+Frank Welker : 1
+Anthony De Longis : 1
+***********************
+MOVIE :Lawman
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+V. Vasilyev : 1
+Evgeniy Tilicheev : 1
+Aleksandr Berda : 1
+Viktors Lorencs : 1
+Igor Gnevashev : 1
+Aleksey Kravchenko : 1
+Vasiliy Domrachyov : 1
+Evgeniy Kryzhanovskiy : 1
+G. Velts : 1
+Kazimir Rabetsky : 1
+***********************
+MOVIE :Mimic
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Karen Prell : 1
+Shari Weiser : 1
+David Bowie : 1
+David Alan Barclay : 1
+Christopher Malcolm : 1
+Jennifer Connelly : 1
+Dave Goelz : 1
+Natalie Finland : 1
+Rob Mills : 1
+David Shaughnessy : 1
+***********************
+MOVIE :Elvira: Mistress of the Dark
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Shia LaBeouf : 1
+Mia Wasikowska : 1
+Chris McGarry : 1
+Jason Clarke : 1
+Noah Taylor : 1
+Alex Van : 1
+Bill Camp : 1
+Gary Oldman : 1
+Guy Pearce : 1
+Lew Temple : 1
+***********************
+MOVIE :Nosferatu
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hee-soon Park : 1
+Kim Ha-Na : 1
+Seung-chul Baek : 1
+Woo-sik Choi : 1
+Woo Min-Kyu : 1
+Go Min-Si : 1
+Woorim Jung : 1
+Da-Eun : 1
+Hyun-soo Song : 1
+Da-mi Kim : 1
+***********************
+MOVIE :Fiddler on the Roof
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Umberto Paolo Quintavalle : 1
+Hélène Surgère : 1
+Claudio Cicchetti : 1
+Umberto Chessari : 1
+Bruno Musso : 1
+Sergio Fascetti : 1
+Lamberto Book : 1
+Giorgio Cataldi : 1
+Elsa De Giorgi : 1
+Franco Merli : 1
+***********************
+MOVIE :Jason Bourne
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Roger Allam : 1
+Ellisa Walker-Reid : 1
+Mary Stockley : 1
+Alexia Osborne : 1
+Molly Harmon : 1
+Andy Robb : 1
+Sophie Stuckey : 1
+Indira Ainger : 1
+Shaun Dooley : 1
+Lucy May Barker : 1
+***********************
+MOVIE :The Cloverfield Paradox
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lily James : 1
+Tessa Thompson : 1
+Luke Kirby : 1
+Lance Reddick : 1
+Charlie Ray Reid : 1
+James Badge Dale : 1
+Ryan Downs Hayden : 1
+Luci Christian : 1
+Amparo Garcia-Crow : 1
+Elizabeth Maxwell : 1
+***********************
+MOVIE :X-Men: First Class
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ana Golja : 1
+Jeff Chase : 1
+John Travolta : 1
+Josh Richman : 1
+Rene Michelle Aranda : 1
+Leslie Sides : 1
+Theresa Ireland : 1
+Marta González Rodin : 1
+Luis Da Silva Jr. : 1
+Elle Matarazzo : 1
+***********************
+MOVIE :True Romance
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Everett Covin : 1
+Barbara Barrie : 1
+Sam Wanamaker : 1
+Mary Kay Place : 1
+Albert Brooks : 1
+Alan Oppenheimer : 1
+Estelle Marlov : 1
+Eileen Brennan : 1
+Armand Assante : 1
+Robert Hanley : 1
+***********************
+MOVIE :Richard III
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Joy : 1
+Ezra Buzzington : 1
+Tom Bower : 1
+Maxime Giffard : 1
+Billy Drago : 1
+Greg Nicotero : 1
+Maisie Camilleri Preziosi : 1
+Laura Ortiz : 1
+Vinessa Shaw : 1
+Kathleen Quinlan : 1
+***********************
+MOVIE :Dark Skies
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Grace Zabriskie : 1
+Diane Ladd : 1
+Sherilyn Fenn : 1
+Willem Dafoe : 1
+Freddie Jones : 1
+William Morgan Sheppard : 1
+Laura Dern : 1
+J.E. Freeman : 1
+Isabella Rossellini : 1
+David Patrick Kelly : 1
+***********************
+MOVIE :Verraderlijker dan een slang
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Charlton Heston : 1
+Brian Keith : 1
+David Ackroyd : 1
+Ken Ruta : 1
+Danny Zapien : 1
+William Lucking : 1
+Tim Haldeman : 1
+Victoria Racimo : 1
+Cal Bellini : 1
+Buckley Norris : 1
+***********************
+MOVIE :Mortal Engines
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Don Brockett : 1
+Jarlath Conroy : 1
+Joseph Pilato : 1
+Taso N. Stavrakis : 1
+Terry Alexander : 1
+Sherman Howard : 1
+Richard Liberty : 1
+Greg Nicotero : 1
+William Cameron : 1
+John Amplas : 1
+***********************
+MOVIE :Mannequin
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Murray Furrow : 1
+Alisen Down : 1
+Emily Hampshire : 1
+Kirk Acevedo : 1
+Amanda Schull : 1
+Andrew Gillies : 1
+Demore Barnes : 1
+Todd Stashwick : 1
+Barbara Sukowa : 1
+Aaron Stanford : 1
+***********************
+MOVIE :From Dusk Till Dawn
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Michael Eklund : 1
+Tim Rozon : 1
+Greg Lawson : 1
+Shamier Anderson : 1
+Varun Saranga : 1
+Melanie Scrofano : 1
+Katherine Barrell : 1
+Dominique Provost-Chalkley : 1
+Catia Ojeda : 1
+Aubrey K. Miller : 1
+***********************
+MOVIE :Jauja
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Danny Huston : 1
+Elizabeth Hawthorne : 1
+Craig Hall : 1
+Manu Bennett : 1
+Chic Littlewood : 1
+Joel Tobeck : 1
+Peter Feeney : 1
+Mark Rendall : 1
+Ben Foster : 1
+Nathaniel Lees : 1
+***********************
+MOVIE :Corpse Bride
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Diedrich Bader : 2
+Dolly Parton : 1
+Jim Varney : 1
+Lily Tomlin : 1
+Penny Fuller : 1
+Linda Carlson : 1
+Kevin Connolly : 1
+Lea Thompson : 1
+Lyman Ward : 1
+Cloris Leachman : 1
+***********************
+MOVIE :Terrifier
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Maximiliano Ghione : 1
+Fernando Diaz : 1
+Matias Rascovschi : 1
+Natalia Señorales : 1
+Elvira Onetto : 1
+Hugo Halbrich : 1
+Norberto Gonzalo : 1
+Agustín Rittano : 1
+Laura Manzaneda : 1
+George L. Lewis : 1
+***********************
+MOVIE :Widows
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Todd Haberkorn : 1
+Travis Willingham : 1
+Maxey Whitehead : 1
+Megumi Takamoto : 1
+Iemasa Kayumi : 1
+Ed Blaylock : 1
+Kent Williams : 1
+Shin'ichirô Miki : 1
+J. Michael Tatum : 1
+Rie Kugimiya : 1
+***********************
+MOVIE :Lock, Stock and Two Smoking Barrels
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Melissanthi Mahut : 1
+Daniel Matmor : 1
+Adam Kenneth Wilson : 1
+Michael Antonakos : 1
+Tyrone Savage : 1
+Tara Nicodemo : 1
+Andreas Apergis : 1
+Leonidas Castrounis : 1
+Damon Papadopoulos : 1
+Maria Syrgiannis : 1
+***********************
+MOVIE :Last Man Standing
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jay Chandrasekhar : 1
+Joey Kern : 1
+Daniel von Bargen : 1
+James Grace : 1
+Michael Weaver : 1
+André Vippolis : 1
+Kevin Heffernan : 1
+Erik Stolhanske : 1
+Steve Lemme : 1
+Camille Hickman : 1
+***********************
+MOVIE :Cuba
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Boris Karloff : 1
+Ethel Ennis : 1
+Gale Garnett : 1
+Allen Swift : 1
+Phyllis Diller : 1
+Brent Spiner : 1
+Marina Sirtis : 1
+Jonathan Frakes : 1
+Gates McFadden : 1
+Alan Dale : 1
+***********************
+MOVIE :Teenage Mutant Ninja Turtles: Out of the Shadows
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Paige Turco : 2
+Mark Caso : 2
+David Warner : 1
+Joseph Amodei : 1
+Leif Tilden : 1
+Kurt Bryant : 1
+Kevin Nash : 1
+Michelan Sisti : 1
+Ernie Reyes Jr. : 1
+François Chau : 1
+***********************
+MOVIE :Against the Wind
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Carla Delaney : 1
+Max von Sydow : 1
+Vladimir Kulich : 1
+Michael Hogan : 1
+Christopher Plummer : 1
+Charles Martinet : 1
+Joan Allen : 1
+Christopher Corey Smith : 1
+Paul Ganus : 1
+Andy Morris : 1
+***********************
+MOVIE :Toruk: The First Flight
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Stefan Marling : 1
+Johanna Kirby : 1
+Crispian Belfrage : 1
+Nikolaj Coster-Waldau : 1
+David Meyer : 1
+Ian McKellen : 1
+Clive Owen : 1
+David Phelan : 1
+Gresby Nash : 1
+Brian Webber : 1
+***********************
+MOVIE :The Frighteners
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Haing S. Ngor : 1
+Mai Le Ho : 1
+Supak Pititam : 1
+Lan Nguyen Calderon : 1
+Dustin Nguyen : 1
+Thuan K. Nguyen : 1
+Thuan Le : 1
+Liem Whatley : 1
+Michelle Vynh Le : 1
+Vinh Dang : 1
+***********************
+MOVIE :Resident Evil
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lally Cadeau : 1
+Debbie Harry : 1
+Jack Creley : 1
+David Bolt : 1
+David Tsubouchi : 1
+Leslie Carlson : 1
+James Woods : 1
+Julie Khaner : 1
+Harvey Chao : 1
+Lynne Gorman : 1
+***********************
+MOVIE :The Green Inferno
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Jonathan Breck : 1
+Kim Kahana : 1
+Peggy Sheffield : 1
+Tom Tarantini : 1
+Justin Long : 1
+Jeffrey William Evans : 1
+Gina Philips : 1
+Patrick Cherry : 1
+Eileen Brennan : 1
+Steve Raulerson : 1
+***********************
+MOVIE :Cargo
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Amanda Peet : 1
+Daniella Van Graas : 1
+Vanessa Trump : 1
+Jack Nicholson : 1
+Sonja Francis : 1
+Tanya Sweet : 1
+Rachel Ticotin : 1
+Paul Michael Glaser : 1
+Frances McDormand : 1
+Jon Favreau : 1
+***********************
+MOVIE :The Aeronauts
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Carolyn Purdy-Gordon : 1
+Karen Christenfeld : 1
+Ken Foree : 1
+Bunny Summers : 1
+Ted Sorel : 1
+Jeffrey Combs : 1
+Regina Bleesz : 1
+Dale Wyatt : 1
+Barbara Crampton : 1
+Del Russel : 1
+***********************
+MOVIE :Bring Me the Head of Alfredo Garcia
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Peter Ohanlon : 1
+Rena Owen : 1
+Elyssa Murray : 1
+Josh McConville : 1
+Sonny Le : 1
+Nana Miya : 1
+Jai Godbold : 1
+Bonnie Sveen : 1
+Hugh Sheridan : 1
+Firass Dirani : 1
+***********************
+MOVIE :De ongelooflijke overwinning
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Laura Linney : 1
+Stanley Anderson : 1
+Reg Rogers : 1
+Joe Spano : 1
+Alfre Woodard : 1
+Richard Gere : 1
+Frances McDormand : 1
+John Mahoney : 1
+Andre Braugher : 1
+Tony Plana : 1
+***********************
+MOVIE :A Dog's Purpose
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Colm Meaney : 1
+Brinley Green : 1
+Sally Hawkins : 1
+Kenneth Cranham : 1
+Daniel Craig : 1
+Burn Gorman : 1
+Dimitri Andreas : 1
+Tamer Hassan : 1
+Nathalie Lunghi : 1
+Francis Magee : 1
+***********************
+MOVIE :Flipped
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Idris Elba : 1
+Adriana Barraza : 1
+Jaimie Alexander : 1
+Stellan Skarsgård : 1
+Chris Hemsworth : 1
+Colm Feore : 1
+Natalie Portman : 1
+Kat Dennings : 1
+Clark Gregg : 1
+Rene Russo : 1
+***********************
+MOVIE :Young Billy Young
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christie Herring : 1
+Sean H. Scully : 1
+Seann William Scott : 1
+Raymond Alexander Cham Jr. : 1
+Dusty Sorg : 1
+Kevin Carroll : 1
+Mariela Garriga : 1
+Hudson West : 1
+Hira Ambrosino : 1
+Dale Dickey : 1
+***********************
+MOVIE :Eagle Eye
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Adam Brody : 1
+Melinda Clarke : 1
+Rachel Bilson : 1
+Mischa Barton : 1
+Ben McKenzie : 1
+Peter Gallagher : 1
+Kelly Rowan : 1
+Tate Donovan : 1
+Jack Watson : 1
+Cliff Robertson : 1
+***********************
+MOVIE :Magnum Force
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John McEnery : 1
+Cristina Raines : 1
+Keith Carradine : 1
+Robert Stephens : 1
+Alun Armstrong : 1
+Maurice Colbourne : 1
+Harvey Keitel : 1
+Tom Conti : 1
+Meg Wynn Owen : 1
+Gay Hamilton : 1
+***********************
+MOVIE :Peggy Sue Got Married
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lisa Joyce : 1
+Brendan Sexton III : 1
+Jena Malone : 1
+Gaius Charles : 1
+Woody Harrelson : 1
+Jahmir Duran-Abreau : 1
+Brian Adam DeJesus : 1
+Portia : 1
+Ben Foster : 1
+Eamonn Walker : 1
+***********************
+MOVIE :Indecent Proposal
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Bert Struys : 1
+Paul Brandenburg : 1
+Susan Penhaligon : 1
+Derek de Lint : 1
+Ward de Ravet : 1
+Belinda Meuldijk : 1
+Rutger Hauer : 1
+Dolf de Vries : 1
+Lex van Delden : 1
+Huib Rooymans : 1
+***********************
+MOVIE :Free State of Jones
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Andrew Havill : 1
+Ouidad Elma : 1
+Amanda Drew : 1
+Stephen Campbell Moore : 1
+Ben Miles : 1
+Richard Dillane : 1
+Kevin Sutton : 1
+Tom Glynn-Carney : 1
+Kal Naga : 1
+Aymen Hamdouchi : 1
+***********************
+MOVIE :The Man from Earth
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Alexandra Hay : 1
+Beah Richards : 1
+D'Urville Martin : 1
+Tom Heaton : 1
+Virginia Christine : 1
+Roy Glenn : 1
+Katharine Houghton : 1
+Sidney Poitier : 1
+Grace Gaynor : 1
+Isabel Sanford : 1
+***********************
+MOVIE :Lady Bird
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tonya Pinkins : 1
+Denise Dal Vera : 1
+Brian Geraghty : 1
+Lisa DeRoberts : 1
+Amy Seimetz : 1
+Beau Knapp : 1
+Buz Davis : 1
+Jordan Trovillion : 1
+Bishop Stevens : 1
+Kate Mara : 1
+***********************
+MOVIE :Les yeux sans visage
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Hee-soon Park : 1
+Kim Ha-Na : 1
+Seung-chul Baek : 1
+Woo-sik Choi : 1
+Woo Min-Kyu : 1
+Go Min-Si : 1
+Woorim Jung : 1
+Da-Eun : 1
+Hyun-soo Song : 1
+Da-mi Kim : 1
+***********************
+MOVIE :Bronson
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Noel Fisher : 1
+Gino Anthony Pesi : 1
+Bryce Cass : 1
+Ramon Rodriguez : 1
+Will Rothhaar : 1
+Ne-Yo : 1
+Cory Hardrict : 1
+Aaron Eckhart : 1
+James Hiroyuki Liao : 1
+Bridget Moynahan : 1
+***********************
+MOVIE :Iron Eagle
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Brian Benben : 1
+Stephen Bishop : 1
+Denise Dowse : 1
+Marianne Rendón : 1
+Ray Proscia : 1
+Inbar Lavi : 1
+Katherine LaNasa : 1
+Parker Young : 1
+Rob Heaps : 1
+Mary Testa : 1
+***********************
+MOVIE :Spider-Man: Far from Home
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Christian Bale : 1
+Wesley Walker : 1
+Jason Clarke : 1
+Stephen Dorff : 1
+Stephen Graham : 1
+John Kishline : 1
+David Wenham : 1
+Giovanni Ribisi : 1
+John Judd : 1
+Carey Mulligan : 1
+***********************
+MOVIE :Jurassic World: Fallen Kingdom
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Omar Sy : 2
+Chris Pratt : 2
+Jake Johnson : 2
+BD Wong : 2
+Bryce Dallas Howard : 2
+Judy Greer : 1
+Ty Simpkins : 1
+Katie McGrath : 1
+Nick Robinson : 1
+Lauren Lapkus : 1
+***********************
+MOVIE :Pat Garrett & Billy the Kid
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Ariadna Gil : 1
+Blanca Portillo : 1
+Pilar López de Ayala : 1
+Luis Zahera : 1
+Elena Anaya : 1
+Javier Cámara : 1
+Unax Ugalde : 1
+Juan Echanove : 1
+Viggo Mortensen : 1
+Jesús Castejón : 1
+***********************
+MOVIE :Traffic
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kim McGarrity : 1
+Toby Sedgwick : 1
+Alexander Delamere : 1
+Brendan Gleeson : 1
+Naomie Harris : 1
+Christopher Dunne : 1
+Emma Hitching : 1
+Megan Burns : 1
+Jukka Hiltunen : 1
+Alex Palmer : 1
+***********************
+MOVIE :Stage Fright
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Emily Baldoni : 1
+Kelly Donovan : 1
+Lorene Scafaria : 1
+Lauren Maher : 1
+Nicholas Brendon : 1
+Mark Ballou : 1
+Aqueela Zoll : 1
+Hugo Armstrong : 1
+Elizabeth Gracen : 1
+Carrie Patterson : 1
+***********************
+MOVIE :Mother India
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+John Cothran : 1
+Na'Blonka Durden : 1
+Nicole Brown : 1
+Darneicea Corley : 1
+Ice Cube : 1
+Miya McGhee : 1
+Angela Bassett : 1
+Hudhail Al-Amir : 1
+Kenneth A. Brown : 1
+Ceal : 1
+***********************
+MOVIE :The Misfits
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+David Niven : 1
+Gia Scala : 1
+Richard Harris : 1
+Allan Cuthbertson : 1
+Gregory Peck : 1
+George Mikell : 1
+Stanley Baker : 1
+Percy Herbert : 1
+Michael Trubshawe : 1
+James Robertson Justice : 1
+***********************
+MOVIE :Grand Hotel
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Chevy Chase : 1
+Paul Bartel : 1
+Kevi Kendall : 1
+Tricia Lange : 1
+Cynthia Szigeti : 1
+Angus MacKay : 1
+William Zabka : 1
+Sheila Kennedy : 1
+Beverly D'Angelo : 1
+Jason Lively : 1
+***********************
+MOVIE :Wu Assassins
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Sahbra Markus : 1
+Brooke Adams : 1
+Doug Kershaw : 1
+Frenchie Lemond : 1
+Bob Wilson : 1
+Jackie Shultis : 1
+Richard Gere : 1
+Richard Libertini : 1
+Muriel Jolliffe : 1
+Timothy Scott : 1
+***********************
+MOVIE :The Visit
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Vinson Tran : 1
+Kristopher Grzella : 1
+Matt Baram : 1
+Christina de la Cruz : 1
+Dale Whibley : 1
+Natalie Ganzhorn : 1
+Megan Lee : 1
+Mickeey Nguyen : 1
+Taveeta Szymanowicz : 1
+Corey Gorewicz : 1
+***********************
+MOVIE :The Muppets' Wizard of Oz
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Britt Flatmo : 1
+Joel Courtney : 1
+Ryan Lee : 1
+AJ Michalka : 1
+Andrew Miller : 1
+Jessica Tuck : 1
+Jakob Miller : 1
+Jade Griffiths : 1
+Gabriel Basso : 1
+Joel McKinnon Miller : 1
+***********************
+MOVIE :Countdown
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+James Karen : 1
+James Dalesandro : 1
+Cathleen Cordell : 1
+John Philbin : 1
+Brian Peck : 1
+Jewel Shepard : 1
+Thom Mathews : 1
+Clu Gulager : 1
+Linnea Quigley : 1
+Jonathan Terry : 1
+***********************
+MOVIE :War of the Worlds
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Wilt Chamberlain : 1
+Arnold Schwarzenegger : 1
+Olivia d'Abo : 1
+Jeff Corey : 1
+Grace Jones : 1
+Ferdy Mayne : 1
+Sarah Douglas : 1
+Sven-Ole Thorsen : 1
+Bruce Fleischer : 1
+Tracey Walter : 1
+***********************
+MOVIE :Mr. Jones
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Natalie Press : 1
+John Malkovich : 1
+Vera Farmiga : 1
+Sergei Baryshev : 1
+Andrey Fedortsov : 1
+Ingeborga Dapkunaite : 1
+Daniel Brühl : 1
+Katya Chunkova : 1
+Natalya Fisson : 1
+Patrick Kennedy : 1
+***********************
+MOVIE :A Nightmare on Elm Street
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lauren Glazier : 1
+Zachary Scott Ross : 1
+Cotter Smith : 1
+Sonny Valicenti : 1
+Joe Tuttle : 1
+Holt McCallany : 1
+Albert Jones : 1
+Jonathan Groff : 1
+Stacey Roca : 1
+Anna Torv : 1
+***********************
+MOVIE :The Princess Bride
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Robert Fyfe : 1
+Daniel Hinchcliffe : 1
+Wolfram Teufel : 1
+Karen Mok : 1
+Adam Godley : 1
+Jackie Chan : 1
+Steve Coogan : 1
+Cécile de France : 1
+Jim Broadbent : 1
+Howard Cooper : 1
+***********************
+MOVIE :Peter Pan
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Tony Curran : 1
+Jamie Draven : 1
+Alex Reid : 1
+Christopher Fox : 1
+Ross Kemp : 1
+Danny Sapani : 1
+Miles Anderson : 1
+Selma Blair : 1
+Brian Caspe : 1
+Karel Roden : 1
+***********************
+MOVIE :Escape to Witch Mountain
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Kirk Douglas : 1
+Elisabeth Fraser : 1
+Robert Mitchum : 1
+John Mitchum : 1
+Hal Lynch : 1
+Harry Carey Jr. : 1
+Patric Knowles : 1
+Stubby Kaye : 1
+Michael Witney : 1
+Jack Elam : 1
+***********************
+MOVIE :American Hustle
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Glenn Morshower : 1
+Kevin Spacey : 1
+Tim Griffin : 1
+Stephen Root : 1
+Jacob Browne : 1
+Jeff Bridges : 1
+Waleed Zuaiter : 1
+Ewan McGregor : 1
+Stephen Lang : 1
+Rebecca Mader : 1
+***********************
+MOVIE :Hilda
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Katharine Hepburn : 1
+Richard Marner : 1
+Peter Swanwick : 1
+Peter Bull : 1
+Humphrey Bogart : 1
+Walter Gotell : 1
+Robert Morley : 1
+Theodore Bikel : 1
+Sakina Asamori : 1
+Satoshi Iwagô : 1
+***********************
+MOVIE :The Bye Bye Man
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Selma Blair : 1
+Brian Caspe : 1
+Karel Roden : 1
+Rupert Evans : 1
+Jeffrey Tambor : 1
+Corey Johnson : 1
+Stephen Fisher : 1
+John Hurt : 1
+Doug Jones : 1
+Kevin Trainor : 1
+***********************
+MOVIE :Red Dragon
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Seychelle Gabriel : 1
+Keith R. Fowler : 1
+Andrew Fitzpatrick : 1
+Donzaleigh Abernathy : 1
+Alex Theurer : 1
+Stella Stahl : 1
+Bryce Buchana : 1
+Chad Simpson : 1
+Jay Walker : 1
+Jacob Latimore : 1
+***********************
+MOVIE :The Last Samurai
+Evaluation: 
+m20 : 0.0
+m50 : 0.0
+m100 : 0.0
+Lindsay Holiday : 1
+Christopher Lloyd : 1
+Joel Silver : 1
+Charles Fleischer : 1
+Bob Hoskins : 1
+Lou Hirsch : 1
+Betsy Brantley : 1
+Mike Edmonds : 1
+Stubby Kaye : 1
+Edwin Craig : 1
