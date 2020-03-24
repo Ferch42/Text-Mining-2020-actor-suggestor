@@ -1,20 +1,20 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['erica', 'su', 'deborah', 'charley', 'jin', 'woo', 'gandalf', 'lara', 'greta', 'gillian', 'aang', 'dottie', 'laney', 'seok', 'ferdinand', 'presented', 'batman', 'soo', 'wheelchair', 'coraline']
+MOST IMPORTANT WORDS: ['melanie', 'em', 'output', 'parser', 'france', 'susie', 'mw', 'rooney', 'align', 'drax', 'woo', 'joon', 'ah', 'jung', 'perseus', 'wesker', 'vlad', 'giselle', 'ki', 'nadine']
 MOVIES OF THIS TOPIC: 
-Dave
-Run
+Snake Eyes
+JAG
 Irréversible
-Extreme Prejudice
 Red Cliff
 Chi bi: Jue zhan tian xia
-Salò o le 120 giornate di Sodoma
-Lawrence of Arabia
 ---------------- 
 TOPIC : 1
-MOST IMPORTANT WORDS: ['beckett', 'rey', 'elia', 'rasputin', 'orry', 'jw', 'yeon', 'hwa', 'madeline', 'poe', 'manning', 'cheyenne', 'abe', 'brett', 'dimitri', 'woo', 'collins', 'carolina', 'nicholas', 'plantation']
+MOST IMPORTANT WORDS: ['dracula', 'tod', 'helsing', 'gandalf', 'dom', 'gillian', 'madeline', 'orry', 'kang', 'copper', 'denny', 'renfield', 'hwa', 'presented', 'forrest', 'yeon', 'shik', 'jun', 'banning', 'winston']
 MOVIES OF THIS TOPIC: 
+Shock and Awe
+Churchill
+Lawrence of Arabia
 ---------------- 
 TOPIC : 2
 MOST IMPORTANT WORDS: ['find', 'family', 'kill', 'take', 'father', 'life', 'go', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
@@ -460,6 +460,7 @@ Emma
 About Time
 American Graffiti
 Lock, Stock and Two Smoking Barrels
+Dave
 The Intouchables
 Henry Danger
 Doc Martin
@@ -532,6 +533,7 @@ Dollface
 Matilda
 Descendants
 Kindergarten Cop
+Run
 A Million Ways to Die in the West
 The Hitman's Bodyguard
 The Disaster Artist
@@ -814,7 +816,6 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
-Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -1646,7 +1647,6 @@ Evil Dead
 Black Christmas
 El cuerpo
 The Machinist
-JAG
 Man on Fire
 Fauda
 Annabelle: Creation
@@ -2018,6 +2018,7 @@ Sholay
 Love Comes Softly
 Last of the Dogmen
 Wild Bill
+Extreme Prejudice
 Mohawk
 Wichita
 Major Dundee
@@ -2788,7 +2789,6 @@ Revolt
 The Delta Force
 The Way to the Stars
 Sobibor
-Shock and Awe
 Their Finest
 Phantom
 Flyboys
@@ -2889,6 +2889,7 @@ Zhan lang II
 Baron Prásil
 Love and Death
 Voor wie de klok luidt
+Boudica
 Sergeant York
 More American Graffiti
 Sniper
@@ -4110,7 +4111,6 @@ The Book Thief
 Anthropoid
 The African Queen
 Last Knights
-Uri: The Surgical Strike
 Muhtesem Yüzyil
 Our Girl
 '71
@@ -4201,24 +4201,24 @@ Om Shanti Om
 Blue Hawaii
 ---------------- 
 TOPIC : 3
-MOST IMPORTANT WORDS: ['rambo', 'oskar', 'holmes', 'gru', 'bass', 'bison', 'france', 'dolittle', 'vlad', 'longo', 'mcquade', 'brahms', 'dae', 'whilst', 'tasked', 'murderer', 'snake', 'origin', 'serf', 'character']
+MOST IMPORTANT WORDS: ['jess', 'marty', 'sawyer', 'marianne', 'stu', 'audrey', 'rapunzel', 'deborah', 'blocker', 'musketeer', 'andie', 'maleficent', 'tessa', 'scrooge', 'kiki', 'becky', 'cinderella', 'imf', 'frankenstein', 'seymour']
 MOVIES OF THIS TOPIC: 
-Snake Eyes
+Fiddler on the Roof
+Bosch
 Death on the Nile
+Uri: The Surgical Strike
 ---------------- 
 TOPIC : 4
-MOST IMPORTANT WORDS: ['samurai', 'tod', 'rapunzel', 'kermit', 'maleficent', 'tanya', 'scrooge', 'allie', 'constantine', 'shen', 'cheyenne', 'piggy', 'drax', 'alamein', 'aurora', 'perseus', 'wesker', 'scarlett', 'ronny', 'wee']
+MOST IMPORTANT WORDS: ['holmes', 'kermit', 'dorothy', 'oz', 'emerald', 'amulet', 'romeo', 'constantine', 'marissa', 'piggy', 'alamein', 'scarlett', 'donnie', 'rhett', 'edmond', 'jen', 'longo', 'mcquade', 'coraline', 'narrator']
 MOVIES OF THIS TOPIC: 
-Bosch
+Rise of Empires: Ottoman
+Texas Rising
 ---------------- 
 TOPIC : 5
-MOST IMPORTANT WORDS: ['dracula', 'pedro', 'carla', 'blocker', 'musketeer', 'helsing', 'tessa', 'wesley', 'liu', 'mick', 'gavin', 'seymour', 'zeke', 'tibbs', 'ali', 'bala', 'curt', 'kiki', 'kowalski', 'eggsy']
+MOST IMPORTANT WORDS: ['lenny', 'bo', 'picard', 'carly', 'pedro', 'su', 'kira', 'oskar', 'wesley', 'lara', 'timmy', 'tibbs', 'schofield', 'aang', 'asher', 'sang', 'hyun', 'tallulah', 'dormer', 'mame']
 MOVIES OF THIS TOPIC: 
-Churchill
-Rise of Empires: Ottoman
+Salò o le 120 giornate di Sodoma
 ---------------- 
 TOPIC : 6
-MOST IMPORTANT WORDS: ['mermaid', 'zoey', 'lorraine', 'frankenstein', 'katniss', 'oz', 'abe', 'gerry', 'mack', 'zheng', 'ying', 'xin', 'mame', 'rosalie', 'banning', 'brady', 'narrator', 'redding', 'zhang', 'garfield']
+MOST IMPORTANT WORDS: ['larkin', 'tanya', 'sadie', 'abe', 'zeke', 'rasputin', 'jody', 'greta', 'zheng', 'ying', 'banning', 'xin', 'brahms', 'cheng', 'jun', 'dart', 'kai', 'yang', 'resemblance', 'sacrificed']
 MOVIES OF THIS TOPIC: 
-Boudica
-Texas Rising

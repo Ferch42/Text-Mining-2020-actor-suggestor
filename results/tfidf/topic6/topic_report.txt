@@ -1,13 +1,20 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['jess', 'greg', 'carrie', 'rambo', 'deborah', 'natalie', 'lucinda', 'milly', 'cheryl', 'mick', 'seymour', 'schofield', 'foley', 'orry', 'eggsy', 'ana', 'madeline', 'laney', 'rooney', 'patty']
+MOST IMPORTANT WORDS: ['em', 'picard', 'zoey', 'output', 'parser', 'mw', 'oskar', 'charley', 'gru', 'align', 'mick', 'marissa', 'dolittle', 'curt', 'eggsy', 'laney', 'redfly', 'bunny', 'mack', 'tallulah']
+MOVIES OF THIS TOPIC: 
+JAG
+Salò o le 120 giornate di Sodoma
+Bosch
+---------------- 
+TOPIC : 1
+MOST IMPORTANT WORDS: ['abby', 'beck', 'milly', 'scrooge', 'cathy', 'julien', 'bass', 'scarlett', 'elia', 'seymour', 'bala', 'joon', 'ah', 'vlad', 'brahms', 'greta', 'jung', 'rhett', 'edmond', 'donnie']
 MOVIES OF THIS TOPIC: 
 Dave
 Run
-Death on the Nile
+Texas Rising
 ---------------- 
-TOPIC : 1
+TOPIC : 2
 MOST IMPORTANT WORDS: ['find', 'family', 'kill', 'take', 'father', 'life', 'go', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
 MOVIES OF THIS TOPIC: 
 War of the Worlds
@@ -806,6 +813,7 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
+Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -1318,6 +1326,7 @@ I Love You Phillip Morris
 Julie & Julia
 Patch Adams
 Invasion
+The Thorn Birds
 When We First Met
 Australia
 Stuck in Love.
@@ -1672,7 +1681,6 @@ Falling Down
 The Hurt Locker
 Enemy
 The Girl in the Spider's Web
-Irréversible
 Road House
 Train to Busan 2
 Homefront
@@ -1801,6 +1809,7 @@ Angel of Mine
 A Nightmare on Elm Street
 A Confession
 Hugo
+Enola Holmes
 Constantine
 Incendies
 Citizen Kane
@@ -3237,6 +3246,7 @@ Tom and Jerry: Willy Wonka and the Chocolate Factory
 Lovestruck: The Musical
 Mame
 Een vreemdeling in't paradijs
+Les chansons d'amour
 Krullekopje
 Housefull 2
 Goodbye, Mr. Chips
@@ -3711,7 +3721,6 @@ NCIS: Los Angeles
 The Silence of the Lambs
 1917
 Midway
-Rise of Empires: Ottoman
 The Last Full Measure
 Band of Brothers
 Saving Private Ryan
@@ -3736,6 +3745,7 @@ Black Hawk Down
 The Deer Hunter
 The Aftermath
 Official Secrets
+Lawrence of Arabia
 American Sniper
 Paths of Glory
 Lincoln
@@ -3963,6 +3973,7 @@ The Good Wife
 The Five
 The Alienist
 Harry Potter and the Half-Blood Prince
+Death on the Nile
 Game Night
 Saw
 Scream
@@ -4103,6 +4114,7 @@ The Book Thief
 Anthropoid
 The African Queen
 Last Knights
+Uri: The Surgical Strike
 Muhtesem Yüzyil
 Our Girl
 '71
@@ -4192,29 +4204,17 @@ Chi-Raq
 Om Shanti Om
 Blue Hawaii
 ---------------- 
-TOPIC : 2
-MOST IMPORTANT WORDS: ['stu', 'kira', 'maleficent', 'oskar', 'katniss', 'juno', 'wesley', 'oz', 'lana', 'timmy', 'bass', 'albright', 'stefan', 'hi', 'cathy', 'ah', 'joon', 'te', 'dom', 'aang']
+TOPIC : 3
+MOST IMPORTANT WORDS: ['rapunzel', 'foley', 'katniss', 'timmy', 'ophelia', 'alamein', 'ronny', 'nadine', 'denny', 'clifford', 'soo', 'hwa', 'yeon', 'flash', 'screen', 'willard', 'message', 'across', 'shik', 'joon']
 MOVIES OF THIS TOPIC: 
 Extreme Prejudice
-Bosch
-Texas Rising
----------------- 
-TOPIC : 3
-MOST IMPORTANT WORDS: ['em', 'output', 'parser', 'mw', 'gandalf', 'align', 'tibbs', 'gerry', 'perseus', 'wesker', 'constantine', 'brahms', 'greta', 'edmond', 'goo', 'tae', 'gaunt', 'dos', 'text', 'zeus']
-MOVIES OF THIS TOPIC: 
-JAG
 ---------------- 
 TOPIC : 4
-MOST IMPORTANT WORDS: ['dracula', 'film', 'helsing', 'tessa', 'scrooge', 'romeo', 'caine', 'bala', 'ronny', 'jen', 'nadine', 'mack', 'donnie', 'musketeer', 'hyun', 'yeon', 'renfield', 'longo', 'sethe', 'plot']
+MOST IMPORTANT WORDS: ['carla', 'marianne', 'france', 'andie', 'kiki', 'lara', 'reggie', 'albright', 'tibbs', 'dottie', 'gillian', 'wesley', 'hyun', 'sang', 'barbarosa', 'presented', 'reverse', 'joo', 'horace', 'eastern']
 MOVIES OF THIS TOPIC: 
-Fiddler on the Roof
-The Thorn Birds
-Enola Holmes
-Les chansons d'amour
-Salò o le 120 giornate di Sodoma
-Lawrence of Arabia
-Uri: The Surgical Strike
+Irréversible
+Rise of Empires: Ottoman
 ---------------- 
 TOPIC : 5
-MOST IMPORTANT WORDS: ['tod', 'france', 'damien', 'lara', 'shen', 'dottie', 'denny', 'copper', 'zhang', 'rafe', 'banning', 'ferdinand', 'jean', 'stray', 'abigail', 'patch', 'wu', 'teddy', 'ambrose', 'harmony']
+MOST IMPORTANT WORDS: ['dracula', 'caine', 'su', 'holmes', 'helsing', 'mei', 'ki', 'mo', 'schofield', 'asher', 'gerry', 'aang', 'pee', 'musketeer', 'zheng', 'ying', 'renfield', 'wee', 'xin', 'dae']
 MOVIES OF THIS TOPIC: 

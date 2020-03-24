@@ -1,7 +1,45 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['find', 'family', 'kill', 'take', 'father', 'life', 'go', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
+MOST IMPORTANT WORDS: ['em', 'dracula', 'picard', 'output', 'parser', 'rapunzel', 'oskar', 'mw', 'helsing', 'gandalf', 'cinderella', 'align', 'shen', 'drax', 'oz', 'chi', 'seok', 'tallulah', 'renfield', 'sethe']
+MOVIES OF THIS TOPIC: 
+JAG
+Irréversible
+---------------- 
+TOPIC : 1
+MOST IMPORTANT WORDS: ['abby', 'episode', 'season', 'series', 'film', 'character', 'evan', 'musical', 'follows', 'france', 'kiki', 'lucinda', 'juno', 'wesley', 'plot', 'comedy', 'rooney', 'school', 'story', 'show']
+MOVIES OF THIS TOPIC: 
+Snake Eyes
+Hart to Hart
+Love, Victor
+Movie 43
+Fiddler on the Roof
+The Three Stooges
+Room 104
+Dare Me
+War and Remembrance
+10 Days Before the Wedding
+Opening Night
+Salò o le 120 giornate di Sodoma
+Bosch
+Lawrence of Arabia
+Even Stevens
+The War of the Worlds
+The Act
+Uri: The Surgical Strike
+---------------- 
+TOPIC : 2
+MOST IMPORTANT WORDS: ['blocker', 'scrooge', 'romeo', 'lana', 'scarlett', 'albright', 'rosalie', 'schofield', 'alamein', 'jen', 'vlad', 'julien', 'rhett', 'edmond', 'redding', 'shakespeare', 'mame', 'narrator', 'hawk', 'opening']
+MOVIES OF THIS TOPIC: 
+Extreme Prejudice
+Texas Rising
+---------------- 
+TOPIC : 3
+MOST IMPORTANT WORDS: ['carrie', 'melanie', 'kira', 'andie', 'maleficent', 'katniss', 'tessa', 'imf', 'cathy', 'kang', 'tibbs', 'wilbur', 'elia', 'tae', 'woo', 'ah', 'joon', 'smurf', 'curt', 'dottie']
+MOVIES OF THIS TOPIC: 
+---------------- 
+TOPIC : 4
+MOST IMPORTANT WORDS: ['find', 'kill', 'family', 'take', 'father', 'go', 'life', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
 MOVIES OF THIS TOPIC: 
 War of the Worlds
 Harry Potter and the Deathly Hallows: Part 1
@@ -37,7 +75,6 @@ Monsters, Inc.
 The Book of Eli
 Frontier
 Indiana Jones and the Temple of Doom
-Snake Eyes
 Mortal Kombat
 Waterworld
 King Kong
@@ -390,7 +427,6 @@ Diamonds Are Forever
 Shrek Forever After
 Kim Possible
 Never Say Never Again
-Hart to Hart
 Æon Flux
 The League of Extraordinary Gentlemen
 The Last of Us
@@ -540,7 +576,6 @@ Heathers
 Chicago
 The Terminal
 Bewitched
-Love, Victor
 Z Nation
 Hairspray
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
@@ -587,7 +622,6 @@ Swingers
 A Haunted House
 High School Musical: The Musical - The Series
 White Chicks
-Movie 43
 The Hitman's Wife's Bodyguard
 Gosford Park
 Easy
@@ -801,7 +835,6 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
-Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -836,7 +869,6 @@ Sneeuwwitje
 Daddy Day Care
 Home Alone 3
 Loving Vincent
-The Three Stooges
 Touched by an Angel
 Anastasia: Once Upon a Time
 Monster House
@@ -1494,7 +1526,6 @@ Next
 The Purge: Anarchy
 The Return of the Living Dead
 Battlefield Earth
-Room 104
 Flatliners
 God of War
 Star Trek: The Undiscovered Country
@@ -1571,7 +1602,6 @@ Mission: Impossible - Rogue Nation
 Nocturnal Animals
 The Conjuring
 Lara Croft: Tomb Raider
-Dare Me
 The Killing of a Sacred Deer
 Demon Slayer: Kimetsu No Yaiba
 The Predator
@@ -1797,6 +1827,7 @@ Angel of Mine
 A Nightmare on Elm Street
 A Confession
 Hugo
+Enola Holmes
 Constantine
 Incendies
 Citizen Kane
@@ -2774,6 +2805,7 @@ Revolt
 The Delta Force
 The Way to the Stars
 Sobibor
+Shock and Awe
 Their Finest
 Phantom
 Flyboys
@@ -2797,6 +2829,7 @@ Aces High
 Into the White
 The Tuskegee Airmen
 Force 10 from Navarone
+Churchill
 Che: Part One
 Gongdong gyeongbi guyeok JSA
 The Breadwinner
@@ -2874,6 +2907,7 @@ Zhan lang II
 Baron Prásil
 Love and Death
 Voor wie de klok luidt
+Boudica
 Sergeant York
 More American Graffiti
 Sniper
@@ -2908,7 +2942,6 @@ Venuto al mondo
 Halo Infinite
 Bent
 Bitter Harvest
-War and Remembrance
 Miracle at St. Anna
 Twelve O'Clock High
 The Quiet American
@@ -3108,7 +3141,6 @@ Thoroughly Modern Millie
 Zet 'm op boys
 The Last Five Years
 Toruk: The First Flight
-10 Days Before the Wedding
 The Backyardigans
 Babes in Toyland
 Attack of the Killer Tomatoes!
@@ -3221,7 +3253,6 @@ A Troll in Central Park
 Heidi, het stiefkind
 Robin and the 7 Hoods
 Rags
-Opening Night
 The Cheetah Girls: One World
 Something Like Summer
 Easter Parade
@@ -3230,6 +3261,7 @@ Tom and Jerry: Willy Wonka and the Chocolate Factory
 Lovestruck: The Musical
 Mame
 Een vreemdeling in't paradijs
+Les chansons d'amour
 Krullekopje
 Housefull 2
 Goodbye, Mr. Chips
@@ -3673,7 +3705,6 @@ Shingeki no kyojin
 Alien
 Zombieland
 Doctor Strange in the Multiverse of Madness
-Salò o le 120 giornate di Sodoma
 In the Tall Grass
 Mother!
 Split
@@ -3701,11 +3732,11 @@ Stumptown
 Pulp Fiction
 Unbelievable
 Goodfellas
-Bosch
 NCIS: Los Angeles
 The Silence of the Lambs
 1917
 Midway
+Rise of Empires: Ottoman
 The Last Full Measure
 Band of Brothers
 Saving Private Ryan
@@ -3847,7 +3878,6 @@ Big Hero 6
 Northern Rescue
 Bridge to Terabithia
 It's a Wonderful Life
-Even Stevens
 Despicable Me 3
 Project T
 A Dog's Journey
@@ -3876,7 +3906,6 @@ The Legend of Tarzan
 The Theory of Everything
 The Philadelphia Story
 Jessica Jones
-The War of the Worlds
 Logan
 Donnie Darko
 The Tomorrow War
@@ -3917,7 +3946,6 @@ Glass
 Venom
 Person of Interest
 Veronica Mars
-The Act
 Memento
 The Curse of la Llorona
 The Informer
@@ -4186,31 +4214,3 @@ The Court Jester
 Chi-Raq
 Om Shanti Om
 Blue Hawaii
----------------- 
-TOPIC : 1
-MOST IMPORTANT WORDS: ['carla', 'em', 'output', 'parser', 'holmes', 'musketeer', 'mw', 'kiki', 'caine', 'align', 'film', 'shen', 'constantine', 'greta', 'soo', 'julien', 'brahms', 'mame', 'sethe', 'gaunt']
-MOVIES OF THIS TOPIC: 
-JAG
-Enola Holmes
-Boudica
-Les chansons d'amour
-Rise of Empires: Ottoman
-Lawrence of Arabia
-Uri: The Surgical Strike
----------------- 
-TOPIC : 2
-MOST IMPORTANT WORDS: ['dracula', 'picard', 'helsing', 'lara', 'albright', 'romeo', 'tibbs', 'ali', 'dottie', 'gerry', 'ronny', 'aang', 'kowalski', 'wesker', 'nadine', 'edmond', 'gertrude', 'stefan', 'ying', 'zheng']
-MOVIES OF THIS TOPIC: 
-Shock and Awe
-Texas Rising
----------------- 
-TOPIC : 3
-MOST IMPORTANT WORDS: ['esther', 'kermit', 'maleficent', 'gru', 'lana', 'timmy', 'jung', 'piggy', 'joon', 'perseus', 'ophelia', 'ki', 'laney', 'ah', 'pee', 'susie', 'mack', 'wee', 'longo', 'hwa']
-MOVIES OF THIS TOPIC: 
-Extreme Prejudice
-Churchill
----------------- 
-TOPIC : 4
-MOST IMPORTANT WORDS: ['marty', 'jin', 'rambo', 'su', 'blocker', 'charley', 'ira', 'rosalie', 'bala', 'banning', 'orry', 'eggsy', 'vlad', 'seok', 'donnie', 'denny', 'madeline', 'dormer', 'joo', 'mcquade']
-MOVIES OF THIS TOPIC: 
-Irréversible

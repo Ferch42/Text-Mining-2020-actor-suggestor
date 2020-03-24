@@ -1,14 +1,14 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['jin', 'carla', 'tod', 'oskar', 'andie', 'gru', 'kiki', 'wesley', 'lana', 'jung', 'allie', 'ah', 'bala', 'tae', 'joon', 'ki', 'ronny', 'banning', 'stefan', 'soo']
+MOST IMPORTANT WORDS: ['dracula', 'dawson', 'em', 'jin', 'parser', 'output', 'zombie', 'woo', 'ellie', 'poe', 'su', 'maleficent', 'mw', 'helsing', 'audrey', 'wesley', 'imf', 'lara', 'align', 'aurora']
 MOVIES OF THIS TOPIC: 
+JAG
 Churchill
 ---------------- 
 TOPIC : 1
-MOST IMPORTANT WORDS: ['greg', 'picard', 'beckett', 'poe', 'milly', 'gandalf', 'mick', 'susie', 'rey', 'schofield', 'enterprise', 'drax', 'dolittle', 'maleficent', 'rasputin', 'dottie', 'gillian', 'perseus', 'aang', 'greta']
+MOST IMPORTANT WORDS: ['logan', 'greg', 'carla', 'beckett', 'lenny', 'foley', 'mick', 'larkin', 'reggie', 'oskar', 'kiki', 'allie', 'tibbs', 'zhang', 'shen', 'hi', 'zeke', 'rasputin', 'dom', 'ronny']
 MOVIES OF THIS TOPIC: 
-Shock and Awe
 ---------------- 
 TOPIC : 2
 MOST IMPORTANT WORDS: ['find', 'family', 'kill', 'take', 'father', 'life', 'go', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
@@ -47,6 +47,7 @@ Monsters, Inc.
 The Book of Eli
 Frontier
 Indiana Jones and the Temple of Doom
+Snake Eyes
 Mortal Kombat
 Waterworld
 King Kong
@@ -810,6 +811,7 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
+Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -1322,6 +1324,7 @@ I Love You Phillip Morris
 Julie & Julia
 Patch Adams
 Invasion
+The Thorn Birds
 When We First Met
 Australia
 Stuck in Love.
@@ -2412,6 +2415,7 @@ Creep
 Brotherhood of the Wolf
 Take Shelter
 Quarantine
+The Row
 Don't Look Now
 He's Out There
 Priest
@@ -2759,6 +2763,7 @@ The Beguiled
 Tora! Tora! Tora!
 Hurricane - Battle of Britain
 Threads
+Red Cliff
 The Ottoman Lieutenant
 Da 5 Bloods
 Buffalo Soldiers
@@ -2812,7 +2817,6 @@ Johnny Got His Gun
 Hong hai xing dong
 Coriolanus
 Star Wars: Battlefront II
-Ansisung
 The Selection
 Hell's Angels
 Waterloo
@@ -3053,6 +3057,7 @@ Saints and Soldiers: War Pigs
 White Material
 Call of Duty: Black Ops 4
 The Jewel in the Crown
+Chi bi: Jue zhan tian xia
 Yojo Senki: Saga of Tanya the Evil
 The Forgotten Battle
 Cromwell
@@ -3238,6 +3243,7 @@ Tom and Jerry: Willy Wonka and the Chocolate Factory
 Lovestruck: The Musical
 Mame
 Een vreemdeling in't paradijs
+Les chansons d'amour
 Krullekopje
 Housefull 2
 Goodbye, Mr. Chips
@@ -3625,6 +3631,7 @@ Us
 The Good Liar
 Oldeuboi
 Safe
+Carnival Row
 Get Out
 Hereditary
 13 Reasons Why
@@ -3680,6 +3687,7 @@ Shingeki no kyojin
 Alien
 Zombieland
 Doctor Strange in the Multiverse of Madness
+Salò o le 120 giornate di Sodoma
 In the Tall Grass
 Mother!
 Split
@@ -3707,6 +3715,7 @@ Stumptown
 Pulp Fiction
 Unbelievable
 Goodfellas
+Bosch
 NCIS: Los Angeles
 The Silence of the Lambs
 1917
@@ -3735,6 +3744,7 @@ Black Hawk Down
 The Deer Hunter
 The Aftermath
 Official Secrets
+Lawrence of Arabia
 American Sniper
 Paths of Glory
 Lincoln
@@ -3806,6 +3816,7 @@ Terminator Genisys
 Into the Badlands
 Indiana Jones and the Kingdom of the Crystal Skull
 Harry Potter and the Order of the Phoenix
+The King's Man
 The Righteous Gemstones
 The Conners
 The Big Short
@@ -3961,6 +3972,7 @@ The Good Wife
 The Five
 The Alienist
 Harry Potter and the Half-Blood Prince
+Death on the Nile
 Game Night
 Saw
 Scream
@@ -3996,6 +4008,7 @@ Appaloosa
 McCabe & Mrs. Miller
 Oklahoma!
 The Duel
+Texas Rising
 Zonder genade
 The Misfits
 Broken Arrow
@@ -4101,6 +4114,7 @@ The Book Thief
 Anthropoid
 The African Queen
 Last Knights
+Uri: The Surgical Strike
 Muhtesem Yüzyil
 Our Girl
 '71
@@ -4191,22 +4205,8 @@ Om Shanti Om
 Blue Hawaii
 ---------------- 
 TOPIC : 3
-MOST IMPORTANT WORDS: ['abby', 'dracula', 'batman', 'em', 'parser', 'output', 'theo', 'film', 'deborah', 'france', 'rapunzel', 'jasmine', 'brooke', 'larkin', 'mw', 'helsing', 'charley', 'tessa', 'scrooge', 'valerie']
+MOST IMPORTANT WORDS: ['abby', 'platoon', 'kirk', 'admiral', 'enterprise', 'reactor', 'rambo', 'schmidt', 'tod', 'holmes', 'caine', 'torpedo', 'kermit', 'blocker', 'submarine', 'squadron', 'katniss', 'warhead', 'battalion', 'carrier']
 MOVIES OF THIS TOPIC: 
-Snake Eyes
-Fiddler on the Roof
-The Thorn Birds
-JAG
-The Row
-Red Cliff
-Chi bi: Jue zhan tian xia
-Les chansons d'amour
-Carnival Row
-Salò o le 120 giornate di Sodoma
-Bosch
+Shock and Awe
+Ansisung
 Rise of Empires: Ottoman
-Lawrence of Arabia
-The King's Man
-Death on the Nile
-Texas Rising
-Uri: The Surgical Strike

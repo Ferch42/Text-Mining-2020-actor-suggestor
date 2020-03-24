@@ -1,23 +1,12 @@
 TOPICS REPORT 
 ---------------- 
 TOPIC : 0
-MOST IMPORTANT WORDS: ['dawson', 'rambo', 'rey', 'donna', 'wesley', 'curly', 'cheyenne', 'gerry', 'ronny', 'jen', 'laney', 'sang', 'poe', 'dae', 'hyun', 'comedy', 'winston', 'separated', 'rosie', 'snake']
+MOST IMPORTANT WORDS: ['marty', 'carly', 'rapunzel', 'bo', 'brooke', 'sammy', 'beck', 'manny', 'dolittle', 'greta', 'asher', 'dottie', 'bernard', 'gillian', 'tanner', 'orry', 'mack', 'brady', 'mcquade', 'musical']
 MOVIES OF THIS TOPIC: 
-Snake Eyes
-Irréversible
-Churchill
-Salò o le 120 giornate di Sodoma
+Fiddler on the Roof
+Boudica
 ---------------- 
 TOPIC : 1
-MOST IMPORTANT WORDS: ['oscar', 'france', 'jin', 'hawk', 'blocker', 'ah', 'tae', 'joon', 'kang', 'rosalie', 'giselle', 'ferdinand', 'jung', 'lao', 'zheng', 'ying', 'garfield', 'xin', 'yellow', 'seok']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 2
-MOST IMPORTANT WORDS: ['lenny', 'maleficent', 'marianne', 'emerald', 'dottie', 'denny', 'donnie', 'aurora', 'excuse', 'bush', 'invasion', 'journalist', 'mass', 'destruction', 'possession', 'stefan', 'investigate', 'weapon', 'godmother', 'smurf']
-MOVIES OF THIS TOPIC: 
-Shock and Awe
----------------- 
-TOPIC : 3
 MOST IMPORTANT WORDS: ['find', 'family', 'kill', 'take', 'father', 'life', 'go', 'tell', 'back', 'friend', 'new', 'house', 'return', 'home', 'man', 'later', 'escape', 'get', 'year', 'child']
 MOVIES OF THIS TOPIC: 
 War of the Worlds
@@ -406,7 +395,6 @@ Diamonds Are Forever
 Shrek Forever After
 Kim Possible
 Never Say Never Again
-Hart to Hart
 Æon Flux
 The League of Extraordinary Gentlemen
 The Last of Us
@@ -814,7 +802,6 @@ Shark Tale
 Storks
 Honey, I Blew Up the Kid
 Bee Movie
-Fiddler on the Roof
 A Dog's Way Home
 Star Wars: Clone Wars
 Stuart Little
@@ -1809,7 +1796,6 @@ Angel of Mine
 A Nightmare on Elm Street
 A Confession
 Hugo
-Enola Holmes
 Constantine
 Incendies
 Citizen Kane
@@ -2016,7 +2002,6 @@ Sholay
 Love Comes Softly
 Last of the Dogmen
 Wild Bill
-Extreme Prejudice
 Mohawk
 Wichita
 Major Dundee
@@ -2415,6 +2400,7 @@ Creep
 Brotherhood of the Wolf
 Take Shelter
 Quarantine
+The Row
 Don't Look Now
 He's Out There
 Priest
@@ -2815,7 +2801,6 @@ Johnny Got His Gun
 Hong hai xing dong
 Coriolanus
 Star Wars: Battlefront II
-Ansisung
 The Selection
 Hell's Angels
 Waterloo
@@ -3239,6 +3224,7 @@ Tom and Jerry: Willy Wonka and the Chocolate Factory
 Lovestruck: The Musical
 Mame
 Een vreemdeling in't paradijs
+Les chansons d'amour
 Krullekopje
 Housefull 2
 Goodbye, Mr. Chips
@@ -3625,6 +3611,7 @@ Us
 The Good Liar
 Oldeuboi
 Safe
+Carnival Row
 Get Out
 Hereditary
 13 Reasons Why
@@ -4033,7 +4020,6 @@ Tall in the Saddle
 Goin' South
 Angst op de stad
 Cowboys vs Dinosaurs
-Rocky Mountain
 Sacred Lies
 Hansel & Gretel: Witch Hunters
 Little Joe
@@ -4190,67 +4176,81 @@ Chi-Raq
 Om Shanti Om
 Blue Hawaii
 ---------------- 
+TOPIC : 2
+MOST IMPORTANT WORDS: ['abby', 'belle', 'deborah', 'trooper', 'poe', 'pageant', 'mona', 'tessa', 'scrooge', 'gandalf', 'su', 'susie', 'blocker', 'albright', 'rey', 'patty', 'allie', 'rosalie', 'dolly', 'stefan']
+MOVIES OF THIS TOPIC: 
+Extreme Prejudice
+Rocky Mountain
+---------------- 
+TOPIC : 3
+MOST IMPORTANT WORDS: ['christopher', 'maleficent', 'papa', 'lara', 'abe', 'smurf', 'sunny', 'film', 'denny', 'tallulah', 'formula', 'patty', 'beard', 'comedy', 'aurora', 'separated', 'based', 'stefan', 'sandy', 'jean']
+MOVIES OF THIS TOPIC: 
+Salò o le 120 giornate di Sodoma
+Uri: The Surgical Strike
+---------------- 
 TOPIC : 4
-MOST IMPORTANT WORDS: ['tommy', 'abby', 'fairy', 'jacob', 'jess', 'kirk', 'caroline', 'kay', 'beth', 'clan', 'rancher', 'doom', 'rusty', 'boris', 'vic', 'flynn', 'samurai', 'garrett', 'elsa', 'jeremy']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 5
-MOST IMPORTANT WORDS: ['charley', 'tessa', 'perry', 'cinderella', 'lana', 'shen', 'smurf', 'woo', 'ali', 'wheelchair', 'keeping', 'teenager', 'dark', 'soo', 'suspect', 'secret', 'feeling', 'us', 'harmony', 'alter']
-MOVIES OF THIS TOPIC: 
-Dave
-Run
-Red Cliff
-Chi bi: Jue zhan tian xia
----------------- 
-TOPIC : 6
-MOST IMPORTANT WORDS: ['esther', 'kirby', 'brooke', 'darcy', 'alec', 'lara', 'carla', 'redfly', 'pope', 'jw', 'brahms', 'narrator', 'opening', 'carnival', 'whatever', 'row', 'exists', 'gathered', 'string', 'immigrant']
-MOVIES OF THIS TOPIC: 
-The Row
-Carnival Row
-Texas Rising
----------------- 
-TOPIC : 7
-MOST IMPORTANT WORDS: ['mae', 'melanie', 'pat', 'tod', 'buster', 'gru', 'luis', 'margo', 'laurie', 'tanya', 'scarlett', 'roxy', 'orry', 'rhett', 'willard', 'buck', 'coraline', 'madeline', 'tommy', 'buffalo']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 8
-MOST IMPORTANT WORDS: ['caine', 'elia', 'rasputin', 'vlad', 'kowalski', 'longo', 'dimitri', 'roman', 'rebellion', 'emperor', 'mad', 'empire', 'tribe', 'warrior', 'curly', 'queen', 'lead', 'dracula', 'kung', 'orbit']
-MOVIES OF THIS TOPIC: 
-Boudica
----------------- 
-TOPIC : 9
-MOST IMPORTANT WORDS: ['greg', 'fran', 'damien', 'wesker', 'bison', 'deadly', 'playing', 'fallen', 'begin', 'mind', 'game', 'love', 'dying', 'couple', 'pam', 'seeing', 'married', 'around', 'era', 'roman']
+MOST IMPORTANT WORDS: ['elsa', 'lorraine', 'nancy', 'zeus', 'damien', 'mei', 'andrea', 'zeke', 'tibbs', 'perseus', 'aang', 'curly', 'paw', 'mame', 'nadine', 'gaunt', 'flora', 'brahms', 'deadly', 'carson']
 MOVIES OF THIS TOPIC: 
 Deep Water
 Erotic
-The Magicians
+---------------- 
+TOPIC : 5
+MOST IMPORTANT WORDS: ['dracula', 'kira', 'donna', 'helsing', 'cinderella', 'godmother', 'jen', 'redding', 'dormer', 'longo', 'sethe', 'coraline', 'su', 'rosie', 'joo', 'excuse', 'bush', 'yeon', 'journalist', 'invasion']
+MOVIES OF THIS TOPIC: 
+Shock and Awe
+---------------- 
+TOPIC : 6
+MOST IMPORTANT WORDS: ['johnny', 'claire', 'howard', 'logan', 'murphy', 'owen', 'ruth', 'jess', 'clone', 'batman', 'eva', 'enterprise', 'joan', 'method', 'santa', 'carla', 'jonathan', 'sandy', 'mermaid', 'pacific']
+MOVIES OF THIS TOPIC: 
+---------------- 
+TOPIC : 7
+MOST IMPORTANT WORDS: ['jamie', 'gabriel', 'ralph', 'esther', 'garrett', 'jo', 'swan', 'ellie', 'fran', 'monica', 'rosie', 'nora', 'wesley', 'colin', 'rooney', 'mick', 'lester', 'fang', 'dee', 'stark']
+MOVIES OF THIS TOPIC: 
+Irréversible
+Enola Holmes
 Rise of Empires: Ottoman
 ---------------- 
-TOPIC : 10
-MOST IMPORTANT WORDS: ['gandalf', 'erica', 'kung', 'zhang', 'kai', 'greta', 'chi', 'ophelia', 'edmond', 'fu', 'tallulah', 'jun', 'shik', 'li', 'brahms', 'hyun', 'joo', 'gertrude', 'wu', 'shen']
-MOVIES OF THIS TOPIC: 
----------------- 
-TOPIC : 11
-MOST IMPORTANT WORDS: ['jackie', 'em', 'doug', 'gil', 'picard', 'output', 'parser', 'valerie', 'stu', 'musketeer', 'mw', 'polly', 'flora', 'align', 'dwight', 'tibbs', 'curt', 'banning', 'liu', 'te']
+TOPIC : 8
+MOST IMPORTANT WORDS: ['em', 'output', 'parser', 'rambo', 'mw', 'bunny', 'align', 'roxy', 'liu', 'curt', 'text', 'kang', 'height', 'rustler', 'miguel', 'lorraine', 'paranormal', 'eugene', 'bronson', 'recaptured']
 MOVIES OF THIS TOPIC: 
 JAG
+---------------- 
+TOPIC : 9
+MOST IMPORTANT WORDS: ['dusty', 'bison', 'constantine', 'blair', 'neo', 'edmond', 'renfield', 'wheelchair', 'presented', 'barbarosa', 'keeping', 'teenager', 'dark', 'yeon', 'hwa', 'suspect', 'secret', 'us', 'part', 'mother']
+MOVIES OF THIS TOPIC: 
+Dave
+Run
+Lawrence of Arabia
+---------------- 
+TOPIC : 10
+MOST IMPORTANT WORDS: ['bala', 'vlad', 'willard', 'narrator', 'opening', 'surveillance', 'jean', 'actress', 'era', 'fell', 'program', 'prince', 'princess', 'target', 'famous', 'fianc', 'due', 'story', 'love', 'begin']
+MOVIES OF THIS TOPIC: 
+The Magicians
+Seberg
+Texas Rising
+---------------- 
+TOPIC : 11
+MOST IMPORTANT WORDS: ['greg', 'wilbur', 'france', 'ali', 'reaper', 'soo', 'character', 'whilst', 'tasked', 'murderer', 'snake', 'origin', 'serf', 'patty', 'premise', 'butler', 'sequence', 'max', 'finding', 'introduces']
+MOVIES OF THIS TOPIC: 
+Snake Eyes
+Hart to Hart
 Death on the Nile
 ---------------- 
 TOPIC : 12
-MOST IMPORTANT WORDS: ['susie', 'kiki', 'oskar', 'carrie', 'allie', 'welles', 'poe', 'hi', 'deborah', 'gertrude', 'gaunt', 'season', 'mcquade', 'redding', 'barbarosa', 'karl', 'adding', 'expedition', 'accomplice', 'march']
+MOST IMPORTANT WORDS: ['gru', 'julien', 'scarlett', 'ronny', 'giselle', 'cyborg', 'woo', 'rhett', 'engaged', 'jw', 'lao', 'feeling', 'couple', 'yang', 'alter', 'stark', 'battle', 'look', 'according', 'adding']
 MOVIES OF THIS TOPIC: 
+The Unicorn
 Secret of the Wastelands
-Bosch
+Red Cliff
+Ansisung
+Chi bi: Jue zhan tian xia
 ---------------- 
 TOPIC : 13
-MOST IMPORTANT WORDS: ['dracula', 'ana', 'frankenstein', 'helsing', 'evan', 'albright', 'schofield', 'drax', 'alamein', 'gillian', 'goo', 'jody', 'copper', 'yeon', 'renfield', 'hwa', 'mame', 'sethe', 'seok', 'farmhouse']
+MOST IMPORTANT WORDS: ['musketeer', 'ella', 'eggsy', 'barney', 'user', 'roxy', 'uncovers', 'recaptured', 'commanded', 'valentine', 'barrack', 'edgar', 'w', 'lucinda', 'antidote', 'trained', 'highly', 'mick', 'apache', 'dungeon']
 MOVIES OF THIS TOPIC: 
 ---------------- 
 TOPIC : 14
-MOST IMPORTANT WORDS: ['pope', 'trapper', 'mick', 'fang', 'chandler', 'bala', 'dom', 'film', 'aurora', 'greene', 'eggsy', 'raven', 'dormer', 'presented', 'part', 'engaged', 'departure', 'absence', 'couple', 'surveillance']
+MOST IMPORTANT WORDS: ['carrie', 'stephen', 'ana', 'willie', 'austin', 'lenny', 'doom', 'sid', 'sylvia', 'hoffman', 'oskar', 'paranormal', 'becky', 'rouge', 'ira', 'winston', 'm', 'firefighter', 'cannibal', 'welles']
 MOVIES OF THIS TOPIC: 
-The Unicorn
-Les chansons d'amour
-Lawrence of Arabia
-Seberg
-Uri: The Surgical Strike
+Churchill
+Bosch

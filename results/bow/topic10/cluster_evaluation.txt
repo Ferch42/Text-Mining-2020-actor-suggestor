@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.008369098712446352
-precision std : 0.024615520550607502
-precision max : 0.2
+precision mean : 0.006545064377682404
+precision std : 0.020060934730193266
+precision max : 0.15
 precision min : 0.0
-recall mean : 0.01227784494951877
-recall std : 0.03764235434819446
-recall max : 0.3333333333333333
+recall mean : 0.00915170308947133
+recall std : 0.02796963710525913
+recall max : 0.2
 recall min : 0.0
-f1 mean : 0.009779560871749282
-f1 std : 0.0287245983975585
-f1 max : 0.2285714285714286
+f1 mean : 0.007601500822095166
+f1 std : 0.0232298171803303
+f1 max : 0.17142857142857143
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.0055364806866952795
-precision std : 0.013467165588490565
-precision max : 0.08
+precision mean : 0.005236051502145923
+precision std : 0.011794378738072217
+precision max : 0.06
 precision min : 0.0
-recall mean : 0.02008550581511955
-recall std : 0.052525238423780776
-recall max : 0.5
+recall mean : 0.018131314322301445
+recall std : 0.041054532787157816
+recall max : 0.2
 recall min : 0.0
-f1 mean : 0.008608461503173882
-f1 std : 0.021051885106667858
-f1 max : 0.13793103448275865
+f1 mean : 0.008106504861365334
+f1 std : 0.018257941049937967
+f1 max : 0.09230769230769231
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.004871244635193133
-precision std : 0.009292836629037087
-precision max : 0.06
+precision mean : 0.004549356223175966
+precision std : 0.008586265708270343
+precision max : 0.07
 precision min : 0.0
-recall mean : 0.03482078841520902
-recall std : 0.06825575795251143
-recall max : 0.5
+recall mean : 0.03129795216705088
+recall std : 0.058890446740938546
+recall max : 0.4666666666666667
 recall min : 0.0
-f1 mean : 0.008514802687109012
-f1 std : 0.016243752330362148
-f1 max : 0.10434782608695652
+f1 mean : 0.007935000177391106
+f1 std : 0.014965323083979
+f1 max : 0.12173913043478263
 f1 min : 0.0
 --------------------------- 

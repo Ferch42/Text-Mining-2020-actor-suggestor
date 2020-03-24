@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.0050429184549356226
-precision std : 0.03294061315331117
-precision max : 0.4
+precision mean : 0.004828326180257511
+precision std : 0.03078501760947189
+precision max : 0.35
 precision min : 0.0
-recall mean : 0.007105388650453029
-recall std : 0.04685135433426914
-recall max : 0.5333333333333333
+recall mean : 0.00757033857892227
+recall std : 0.052952682038075384
+recall max : 0.75
 recall min : 0.0
-f1 mean : 0.005864817438000803
-f1 std : 0.03830487523552083
-f1 max : 0.4571428571428572
+f1 mean : 0.005803505359521344
+f1 std : 0.037784759910611344
+f1 max : 0.4285714285714285
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.002918454935622318
-precision std : 0.01539403075937233
-precision max : 0.16
+precision mean : 0.0027467811158798285
+precision std : 0.01327200740754425
+precision max : 0.14
 precision min : 0.0
-recall mean : 0.01013168996001614
-recall std : 0.0538470283550221
-recall max : 0.5333333333333333
+recall mean : 0.01032073553532781
+recall std : 0.05544443885318286
+recall max : 0.75
 recall min : 0.0
-f1 mean : 0.004518885816623504
-f1 std : 0.02382662767393297
-f1 max : 0.24615384615384614
+f1 mean : 0.004303617604740671
+f1 std : 0.02102647643631565
+f1 max : 0.2153846153846154
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.001459227467811159
-precision std : 0.007697015379686165
-precision max : 0.08
+precision mean : 0.0013733905579399143
+precision std : 0.006636003703772125
+precision max : 0.07
 precision min : 0.0
-recall mean : 0.01013168996001614
-recall std : 0.0538470283550221
-recall max : 0.5333333333333333
+recall mean : 0.01032073553532781
+recall std : 0.05544443885318286
+recall max : 0.75
 recall min : 0.0
-f1 mean : 0.002546664773326471
-f1 std : 0.013429103743549782
-f1 max : 0.1391304347826087
+f1 mean : 0.0024122240500091896
+f1 std : 0.011722387789098931
+f1 max : 0.12173913043478263
 f1 min : 0.0
 --------------------------- 
