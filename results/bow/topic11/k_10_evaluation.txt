@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.008369098712446352
-precision std : 0.04004719627178161
-precision max : 0.35
+precision mean : 0.006652360515021461
+precision std : 0.036457326527298974
+precision max : 0.4
 precision min : 0.0
-recall mean : 0.012116876923743879
-recall std : 0.05779180770297124
-recall max : 0.4666666666666667
+recall mean : 0.009287076776347162
+recall std : 0.05130287759690668
+recall max : 0.5333333333333333
 recall min : 0.0
-f1 mean : 0.00982998344778482
-f1 std : 0.04681288725683188
-f1 max : 0.4
+f1 mean : 0.007715675807099516
+f1 std : 0.04227115982275456
+f1 max : 0.4571428571428572
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.004763948497854077
-precision std : 0.019224449870448357
+precision mean : 0.00463519313304721
+precision std : 0.01984856741420337
 precision max : 0.18
 precision min : 0.0
-recall mean : 0.017015030748936327
-recall std : 0.06859876961202552
-recall max : 0.6
+recall mean : 0.016790993936916684
+recall std : 0.07440796313823438
+recall max : 0.75
 recall min : 0.0
-f1 mean : 0.007413318032046917
-f1 std : 0.029852672576340982
+f1 mean : 0.007220685298920365
+f1 std : 0.03096816263625222
 f1 max : 0.2769230769230769
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.003283261802575108
-precision std : 0.010752443523272232
+precision mean : 0.0032618025751072963
+precision std : 0.01161267437728205
 precision max : 0.1
 precision min : 0.0
-recall mean : 0.023146107588167677
-recall std : 0.07578328446489348
-recall max : 0.6666666666666666
+recall mean : 0.023745827560487598
+recall std : 0.08530246860502531
+recall max : 0.75
 recall min : 0.0
-f1 mean : 0.005737226461345664
-f1 std : 0.018773319447441372
+f1 mean : 0.005713457442502776
+f1 std : 0.02031580505467129
 f1 max : 0.1739130434782609
 f1 min : 0.0
 --------------------------- 

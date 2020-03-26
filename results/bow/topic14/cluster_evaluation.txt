@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.007618025751072962
-precision std : 0.02581113346396504
-precision max : 0.3
+precision mean : 0.00815450643776824
+precision std : 0.02533097967300445
+precision max : 0.2
 precision min : 0.0
-recall mean : 0.010721973543861956
-recall std : 0.03574207791863157
-recall max : 0.4
+recall mean : 0.012291588954679083
+recall std : 0.04070029423152033
+recall max : 0.3333333333333333
 recall min : 0.0
-f1 mean : 0.008865259248360447
-f1 std : 0.029825514468972754
-f1 max : 0.34285714285714286
+f1 mean : 0.009620142678064004
+f1 std : 0.03013928972358474
+f1 max : 0.24242424242424246
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.0057081545064377685
-precision std : 0.0156419369329618
-precision max : 0.2
+precision mean : 0.006051502145922747
+precision std : 0.01471727576347145
+precision max : 0.12
 precision min : 0.0
-recall mean : 0.019877803407846326
-recall std : 0.05382211962898339
-recall max : 0.6666666666666666
+recall mean : 0.022033289790800516
+recall std : 0.054589725451401845
+recall max : 0.4
 recall min : 0.0
-f1 mean : 0.008846062576256643
-f1 std : 0.0241769853216955
-f1 max : 0.30769230769230765
+f1 mean : 0.009424496274314126
+f1 std : 0.022901775173211666
+f1 max : 0.18461538461538463
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.004549356223175966
-precision std : 0.009600984034740231
-precision max : 0.1
+precision mean : 0.004828326180257511
+precision std : 0.009830785718451212
+precision max : 0.08
 precision min : 0.0
-recall mean : 0.03177091744688312
-recall std : 0.06686357573030766
-recall max : 0.6666666666666666
+recall mean : 0.03452753731723689
+recall std : 0.07215803560474264
+recall max : 0.5384615384615384
 recall min : 0.0
-f1 mean : 0.00792620822660909
-f1 std : 0.016704010211329005
-f1 max : 0.1739130434782609
+f1 mean : 0.0084380387720206
+f1 std : 0.017196420553202113
+f1 max : 0.1391304347826087
 f1 min : 0.0
 --------------------------- 

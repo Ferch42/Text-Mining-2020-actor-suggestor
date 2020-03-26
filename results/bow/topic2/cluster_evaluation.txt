@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.005257510729613733
+precision mean : 0.005257510729613734
 precision std : 0.017918454935622316
-precision max : 0.1
+precision max : 0.15
 precision min : 0.0
-recall mean : 0.007474136497741648
-recall std : 0.02568397380627162
-recall max : 0.18181818181818182
+recall mean : 0.0073068145493038195
+recall std : 0.025245710473456116
+recall max : 0.23076923076923078
 recall min : 0.0
-f1 mean : 0.006139226923339274
-f1 std : 0.02092392978875083
-f1 max : 0.12903225806451613
+f1 mean : 0.006090512139576726
+f1 std : 0.0208279074276467
+f1 max : 0.18181818181818185
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.0047210300429184554
-precision std : 0.01056491621987619
-precision max : 0.06
+precision mean : 0.005150214592274679
+precision std : 0.011463647055654282
+precision max : 0.08
 precision min : 0.0
-recall mean : 0.016233117145134313
-recall std : 0.036556273086483466
-recall max : 0.2
+recall mean : 0.01768501119641847
+recall std : 0.039717665647598696
+recall max : 0.3076923076923077
 recall min : 0.0
-f1 mean : 0.0072924172215712195
-f1 std : 0.01632762078499471
-f1 max : 0.09230769230769231
+f1 mean : 0.007951276389491982
+f1 std : 0.017723612931728062
+f1 max : 0.126984126984127
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.004248927038626609
-precision std : 0.007886959474350141
-precision max : 0.04
+precision mean : 0.004506437768240345
+precision std : 0.00804180075688954
+precision max : 0.05
 precision min : 0.0
-recall mean : 0.029625955326203803
-recall std : 0.05579224606478867
+recall mean : 0.030833045803680546
+recall std : 0.05516037228996274
 recall max : 0.3333333333333333
 recall min : 0.0
-f1 mean : 0.007404644040809789
-f1 std : 0.013739609734172568
-f1 max : 0.06956521739130435
+f1 mean : 0.00785120181308697
+f1 std : 0.014011540220048174
+f1 max : 0.08695652173913045
 f1 min : 0.0
 --------------------------- 

@@ -378,7 +378,7 @@ tfidf = TfidfVectorizer(analyzer = 'word',tokenizer = tokenize, lowercase = True
 vectorizers = [bow, tfidf]
 				
 # Selecting number of topics
-number_of_topics = list(range(2,20))
+number_of_topics = list(range(2,100,3))
 						
 # Selecting the k nearest
 k_nearest = [3,5,10]
@@ -429,6 +429,7 @@ for v in vectorizers:
 		baseline_ranking_f1_measure += baseline_ranking_f1
 
 		b = log_actors(baseline_pred_actors)
+		c = log_actors(baseline_ranking_actors)
 		baseline_file.write('REGULAR Evaluation: \n')
 		baseline_file.write('p20 : '+ str(baseline_precision_measure[-3])+ "\n")
 		baseline_file.write('p50 : '+ str(baseline_precision_measure[-2])+ "\n")
@@ -456,6 +457,9 @@ for v in vectorizers:
 		baseline_file.write('p50 : '+ str(baseline_ranking_f1_measure[-2])+ "\n")
 		baseline_file.write('p100 : '+ str(baseline_ranking_f1_measure[-1])+ "\n")
 		baseline_file.writelines(b)
+		baseline_file.write('++++++++++++++++++++++++++++++++++++++++++++++\n RANKING ACTORS \n')
+		baseline_file.writelines(c)
+		baseline_file.write('+++++++++++++++++++++++++++++++++++++++++++++++++\n')
 		
 	baseline_file.close()
 	baseline_evaluation_file = open(path_string+'baseline_evaluation.txt', 'w+')
@@ -472,7 +476,8 @@ for v in vectorizers:
 			os.mkdir(experiment_path)
 			
 		lda = LatentDirichletAllocation(n_components = t)
-		print('lda training ..', t)
+		print('lda training ...')
+		print('Number of topics :', t)
 		document_topics = lda.fit_transform(feature_matrix)
 		feature_names = np.array(v.get_feature_names())
 		
@@ -587,6 +592,7 @@ for v in vectorizers:
 			experiment_ranking_f1_measure += f1
 			
 			b = log_actors(experiment_pred_actors)
+			c = log_actors(experiment_ranking_actors)
 			experiment_file.write('Evaluation CLUSTERING: \n')
 			experiment_file.write('p20 : '+ str(experiment_precision_measure[-3])+ "\n")
 			experiment_file.write('p50 : '+ str(experiment_precision_measure[-2])+ "\n")
@@ -614,6 +620,9 @@ for v in vectorizers:
 			experiment_file.write('f100 : '+ str(experiment_ranking_f1_measure[-1])+ "\n")
 			
 			experiment_file.writelines(b)
+			experiment_file.write('+++++++++++++++++++++++++++++++++++++++++\n RANKING ACTORS \n')
+			experiment_file.writelines(c)
+			experiment_file.write('+++++++++++++++++++++++++++++++++++++++++\n')
 		
 		experiment_file.close()
 		experiment_evaluation_file = open(experiment_path + 'cluster_evaluation.txt', 'w+')

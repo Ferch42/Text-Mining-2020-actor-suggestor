@@ -1,46 +1,46 @@
 Evaluation 
 top 20
 --------------------------- 
-precision mean : 0.004828326180257511
-precision std : 0.03078501760947189
-precision max : 0.35
+precision mean : 0.006437768240343348
+precision std : 0.03736741067329892
+precision max : 0.45
 precision min : 0.0
-recall mean : 0.00757033857892227
-recall std : 0.052952682038075384
-recall max : 0.75
+recall mean : 0.009040518375282323
+recall std : 0.05257712085492958
+recall max : 0.6
 recall min : 0.0
-f1 mean : 0.005803505359521344
-f1 std : 0.037784759910611344
-f1 max : 0.4285714285714285
+f1 mean : 0.007456955355354468
+f1 std : 0.04329911193152653
+f1 max : 0.5142857142857143
 f1 min : 0.0
 --------------------------- 
 top 50
 --------------------------- 
-precision mean : 0.003090128755364807
-precision std : 0.013706786530005134
-precision max : 0.14
+precision mean : 0.003476394849785408
+precision std : 0.01649347903027755
+precision max : 0.18
 precision min : 0.0
-recall mean : 0.01159040649383997
-recall std : 0.056770215944741596
-recall max : 0.75
+recall mean : 0.012088829148914987
+recall std : 0.05766598924011963
+recall max : 0.6
 recall min : 0.0
-f1 mean : 0.00483981368629712
-f1 std : 0.021684932882850005
-f1 max : 0.2153846153846154
+f1 mean : 0.005373061761127817
+f1 std : 0.025520239893103414
+f1 max : 0.2769230769230769
 f1 min : 0.0
 --------------------------- 
 top 100
 --------------------------- 
-precision mean : 0.0019098712446351932
-precision std : 0.008103437329303267
-precision max : 0.07
+precision mean : 0.0019742489270386265
+precision std : 0.00893271113932105
+precision max : 0.11
 precision min : 0.0
-recall mean : 0.014129748410864292
-recall std : 0.06397507182298551
-recall max : 0.75
+recall mean : 0.013662505829887803
+recall std : 0.062028627834732
+recall max : 0.7333333333333333
 recall min : 0.0
-f1 mean : 0.0033506518148038143
-f1 std : 0.01425330876269468
-f1 max : 0.12173913043478263
+f1 mean : 0.003440057530291347
+f1 std : 0.015574156295069223
+f1 max : 0.19130434782608696
 f1 min : 0.0
 --------------------------- 
